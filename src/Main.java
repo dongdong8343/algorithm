@@ -16,7 +16,7 @@ public class Main {
                 }
             }
             else{
-                arr[temp]++;
+                arr[temp] += 1;
             }
             n /= 10;
         }
