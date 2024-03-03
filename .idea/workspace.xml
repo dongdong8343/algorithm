@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="3273 두 수의 합">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon10807.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon11328.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon13300.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="11328번 Strfry">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon1919.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +38,7 @@
     "Application.Baekjoon10807.executor": "Run",
     "Application.Baekjoon11328.executor": "Run",
     "Application.Baekjoon13300.executor": "Run",
+    "Application.Baekjoon1919.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -60,7 +54,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon11328">
+  <component name="RunManager" selected="Application.Baekjoon1919">
     <configuration name="A3273" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="A3273" />
       <module name="Algorithm" />
@@ -89,8 +83,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Baekjoon1919" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon1919" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baekjoon1919" />
         <item itemvalue="Application.Baekjoon11328" />
         <item itemvalue="Application.Baekjoon13300" />
         <item itemvalue="Application.Baekjoon10807" />
@@ -118,7 +120,9 @@
       <workItem from="1709183118228" duration="97000" />
       <workItem from="1709186565243" duration="3000" />
       <workItem from="1709261164358" duration="4368000" />
-      <workItem from="1709353181022" duration="3870000" />
+      <workItem from="1709353181022" duration="4183000" />
+      <workItem from="1709358760017" duration="328000" />
+      <workItem from="1709434451322" duration="2811000" />
     </task>
     <task id="LOCAL-00001" summary="Start Java">
       <option name="closed" value="true" />
@@ -144,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709183200261</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="11328번 Strfry">
+      <option name="closed" value="true" />
+      <created>1709358471804</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709358471804</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,6 +166,7 @@
     <MESSAGE value="Start Java" />
     <MESSAGE value="1475 방 번호" />
     <MESSAGE value="3273 두 수의 합" />
-    <option name="LAST_COMMIT_MESSAGE" value="3273 두 수의 합" />
+    <MESSAGE value="11328번 Strfry" />
+    <option name="LAST_COMMIT_MESSAGE" value="11328번 Strfry" />
   </component>
 </project>
