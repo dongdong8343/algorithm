@@ -29,8 +29,8 @@ public class Backjoon1406 {
                 iterator.previous();
                 iterator.remove();
             }else if(c == 'P'){
-                char x = s.charAt(2);
-                iterator.add(String.valueOf(x));
+                char ch1 = s.charAt(2);
+                iterator.add(String.valueOf(ch1));
             }
         }
 
