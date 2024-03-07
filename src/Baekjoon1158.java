@@ -5,12 +5,12 @@ public class Baekjoon1158 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
         StringBuilder sb = new StringBuilder();
-        LinkedList<String> list = new LinkedList<>();
+        LinkedList<Integer> list = new LinkedList<>();
         int n = Integer.parseInt(st.nextToken());
         int k = Integer.parseInt(st.nextToken());
         sb.append('<');
         for (int i = 1; i <= n; i++) {
-            list.add(String.valueOf(i));
+            list.add(i);
         }
         while (!list.isEmpty()) {
             for (int i = 0; i < k; i++) {
