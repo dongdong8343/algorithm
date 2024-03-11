@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="2493 탑">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon6198.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="6198 옥상 정원 꾸미기">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon17298.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,37 +32,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.A3273.executor": "Run",
-    "Application.Backjoon1406.executor": "Run",
-    "Application.Baecjoon10773.executor": "Run",
-    "Application.Baekjoon10807.executor": "Run",
-    "Application.Baekjoon10828.executor": "Run",
-    "Application.Baekjoon11328.executor": "Run",
-    "Application.Baekjoon1158.executor": "Run",
-    "Application.Baekjoon13300.executor": "Run",
-    "Application.Baekjoon1874.executor": "Run",
-    "Application.Baekjoon1919.executor": "Run",
-    "Application.Baekjoon2493.executor": "Run",
-    "Application.Baekjoon5397.executor": "Run",
-    "Application.Baekjoon6198.executor": "Run",
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/fkdle/OneDrive/바탕 화면/study/Algorithm",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "vcs.Git",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.A3273.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Backjoon1406.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baecjoon10773.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon10807.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon10828.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon11328.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon1158.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon13300.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon17298.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon1874.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon1919.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon2493.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon5397.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon6198.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/fkdle/OneDrive/바탕 화면/study/Algorithm&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Baekjoon6198">
+}</component>
+  <component name="RunManager" selected="Application.Baekjoon17298">
     <configuration name="Baecjoon10773" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baecjoon10773" />
       <module name="Algorithm" />
@@ -70,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon10828" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon10828" />
+    <configuration name="Baekjoon17298" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon17298" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -100,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baekjoon17298" />
         <item itemvalue="Application.Baekjoon6198" />
         <item itemvalue="Application.Baekjoon2493" />
         <item itemvalue="Application.Baekjoon1874" />
         <item itemvalue="Application.Baecjoon10773" />
-        <item itemvalue="Application.Baekjoon10828" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +141,11 @@
       <workItem from="1709861980857" duration="3333000" />
       <workItem from="1709869976775" duration="51000" />
       <workItem from="1709964532820" duration="5729000" />
-      <workItem from="1710042880308" duration="1920000" />
+      <workItem from="1710042880308" duration="1972000" />
+      <workItem from="1710055067710" duration="127000" />
+      <workItem from="1710117388063" duration="873000" />
+      <workItem from="1710129023863" duration="317000" />
+      <workItem from="1710137181996" duration="1632000" />
     </task>
     <task id="LOCAL-00001" summary="Start Java">
       <option name="closed" value="true" />
@@ -246,7 +251,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709972349335</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="6198 옥상 정원 꾸미기">
+      <option name="closed" value="true" />
+      <created>1710044820758</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1710044820759</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -265,6 +278,7 @@
     <MESSAGE value="10773 제로" />
     <MESSAGE value="1874 스택 수열" />
     <MESSAGE value="2493 탑" />
-    <option name="LAST_COMMIT_MESSAGE" value="2493 탑" />
+    <MESSAGE value="6198 옥상 정원 꾸미기" />
+    <option name="LAST_COMMIT_MESSAGE" value="6198 옥상 정원 꾸미기" />
   </component>
 </project>
