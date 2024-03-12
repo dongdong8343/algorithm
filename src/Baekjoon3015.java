@@ -6,7 +6,6 @@ import java.util.Stack;
 class Height
 {
     int height,cnt;
-
     public Height(int height, int cnt) {
         this.height = height;
         this.cnt = cnt;
@@ -27,7 +26,6 @@ public class Baekjoon3015 {
                 answer += p.cnt;
                 if (p.height == cur) next.cnt += p.cnt;
             }
-
             if (!s.isEmpty()) answer++;
             s.push(next);
         }

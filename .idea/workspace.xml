@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="17298 오큰수">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon3015.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="3015 오아시스 재결합">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Baekjoon3015.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon3015.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,7 +150,7 @@
       <workItem from="1710206987125" duration="1221000" />
       <workItem from="1710208535140" duration="6007000" />
       <workItem from="1710222966516" duration="3054000" />
-      <workItem from="1710239545452" duration="3791000" />
+      <workItem from="1710239545452" duration="5167000" />
     </task>
     <task id="LOCAL-00001" summary="Start Java">
       <option name="closed" value="true" />
@@ -272,7 +272,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710139017726</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="3015 오아시스 재결합">
+      <option name="closed" value="true" />
+      <created>1710243654329</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1710243654329</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -293,6 +301,7 @@
     <MESSAGE value="2493 탑" />
     <MESSAGE value="6198 옥상 정원 꾸미기" />
     <MESSAGE value="17298 오큰수" />
-    <option name="LAST_COMMIT_MESSAGE" value="17298 오큰수" />
+    <MESSAGE value="3015 오아시스 재결합" />
+    <option name="LAST_COMMIT_MESSAGE" value="3015 오아시스 재결합" />
   </component>
 </project>
