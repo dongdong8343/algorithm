@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="3015 오아시스 재결합">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon6549.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="6549 히스토그램에서 가장 큰 직사각형">
+      <change afterPath="$PROJECT_DIR$/src/practice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +51,7 @@
     "Application.Baekjoon6198.executor": "Run",
     "Application.Baekjoon6549.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.practice.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -65,16 +66,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon6549">
+  <component name="RunManager" selected="Application.practice">
     <configuration name="Baekjoon17298" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon17298" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Baekjoon2493" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon2493" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,13 +95,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.practice" />
         <item itemvalue="Application.Baekjoon6549" />
         <item itemvalue="Application.Baekjoon3015" />
         <item itemvalue="Application.Baekjoon17298" />
         <item itemvalue="Application.Baekjoon6198" />
-        <item itemvalue="Application.Baekjoon2493" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +153,8 @@
       <workItem from="1710208535140" duration="6007000" />
       <workItem from="1710222966516" duration="3054000" />
       <workItem from="1710239545452" duration="5514000" />
-      <workItem from="1710298257172" duration="3617000" />
+      <workItem from="1710298257172" duration="4800000" />
+      <workItem from="1710392426280" duration="4434000" />
     </task>
     <task id="LOCAL-00001" summary="Start Java">
       <option name="closed" value="true" />
@@ -290,7 +292,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710244869171</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="6549 히스토그램에서 가장 큰 직사각형">
+      <option name="closed" value="true" />
+      <created>1710301963650</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1710301963650</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -312,6 +322,7 @@
     <MESSAGE value="6198 옥상 정원 꾸미기" />
     <MESSAGE value="17298 오큰수" />
     <MESSAGE value="3015 오아시스 재결합" />
-    <option name="LAST_COMMIT_MESSAGE" value="3015 오아시스 재결합" />
+    <MESSAGE value="6549 히스토그램에서 가장 큰 직사각형" />
+    <option name="LAST_COMMIT_MESSAGE" value="6549 히스토그램에서 가장 큰 직사각형" />
   </component>
 </project>
