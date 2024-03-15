@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="6549 히스토그램에서 가장 큰 직사각형">
-      <change afterPath="$PROJECT_DIR$/src/practice.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="중복 제거 연습">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon2309.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +45,7 @@
     "Application.Baekjoon17298.executor": "Run",
     "Application.Baekjoon1874.executor": "Run",
     "Application.Baekjoon1919.executor": "Run",
+    "Application.Baekjoon2309.executor": "Run",
     "Application.Baekjoon2493.executor": "Run",
     "Application.Baekjoon3015.executor": "Run",
     "Application.Baekjoon5397.executor": "Run",
@@ -66,7 +67,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.practice">
+  <component name="RunManager" selected="Application.Baekjoon2309">
     <configuration name="Baekjoon17298" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon17298" />
       <module name="Algorithm" />
@@ -74,15 +75,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon3015" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon3015" />
+    <configuration name="Baekjoon2309" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon2309" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon6198" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon6198" />
+    <configuration name="Baekjoon3015" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon3015" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baekjoon2309" />
         <item itemvalue="Application.practice" />
         <item itemvalue="Application.Baekjoon6549" />
         <item itemvalue="Application.Baekjoon3015" />
         <item itemvalue="Application.Baekjoon17298" />
-        <item itemvalue="Application.Baekjoon6198" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +155,9 @@
       <workItem from="1710222966516" duration="3054000" />
       <workItem from="1710239545452" duration="5514000" />
       <workItem from="1710298257172" duration="4800000" />
-      <workItem from="1710392426280" duration="4434000" />
+      <workItem from="1710392426280" duration="4488000" />
+      <workItem from="1710414231986" duration="21000" />
+      <workItem from="1710467671829" duration="7113000" />
     </task>
     <task id="LOCAL-00001" summary="Start Java">
       <option name="closed" value="true" />
@@ -300,7 +303,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710301963650</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="중복 제거 연습">
+      <option name="closed" value="true" />
+      <created>1710402568099</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1710402568099</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -323,6 +334,7 @@
     <MESSAGE value="17298 오큰수" />
     <MESSAGE value="3015 오아시스 재결합" />
     <MESSAGE value="6549 히스토그램에서 가장 큰 직사각형" />
-    <option name="LAST_COMMIT_MESSAGE" value="6549 히스토그램에서 가장 큰 직사각형" />
+    <MESSAGE value="중복 제거 연습" />
+    <option name="LAST_COMMIT_MESSAGE" value="중복 제거 연습" />
   </component>
 </project>
