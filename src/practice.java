@@ -1,20 +1,26 @@
 import java.util.*;
-import java.util.stream.Collectors;
 
 public class practice {
+    static int n = 5, k = 3;
+    static int[] a = {1, 2, 3, 4, 5};
     public static void main(String[] args) {
-        List<Integer> s = new ArrayList<>(Arrays.asList(4, 3, 3, 5, 1, 2, 3));
-
-        // 중복 제거하면서 순서 유지
-        List<Integer> uniqueS = new ArrayList<>(new LinkedHashSet<>(s));
-        uniqueS.forEach(i -> System.out.print(i + " "));
-        System.out.println();
-
-        List<Integer> s2 = new ArrayList<>(Arrays.asList(4, 3, 3, 5, 1, 2, 3));
-
-        // 정렬 후 중복 제거
-        Collections.sort(s2);
-        List<Integer> uniqueSortedS2 = new ArrayList<>(new LinkedHashSet<>(s2));
-        uniqueSortedS2.forEach(i -> System.out.print(i + " "));
+        List<Integer> li = new ArrayList<>();
+        combi(-1, li);
     }
+    static void print(List<Integer> li){
+        for(int i : li) System.out.print(i + " ");
+        System.out.println();
+    }
+    static void combi(int start, List<Integer> li){
+        if(li.size() == k){
+            print(li);
+            return;
+        }
+        for(int i = start + 1; i < n; i++){
+            li.add(a[i]);
+            combi(i, li);
+            li.remove(li.size() - 1);
+        }
+    }
+
 }
