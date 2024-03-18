@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="1940 주몽">
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon1940.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon1940.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon3986.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +57,7 @@
     "Application.Baekjoon2559.executor": "Run",
     "Application.Baekjoon2979.executor": "Run",
     "Application.Baekjoon3015.executor": "Run",
+    "Application.Baekjoon3986.executor": "Run",
     "Application.Baekjoon5397.executor": "Run",
     "Application.Baekjoon6198.executor": "Run",
     "Application.Baekjoon6549.executor": "Run",
@@ -78,7 +80,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon1940">
+  <component name="RunManager" selected="Application.Baekjoon3986">
     <configuration name="Baekjoon1213" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon1213" />
       <module name="Algorithm" />
@@ -100,6 +102,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Baekjoon3986" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon3986" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Baekjoon9375" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon9375" />
       <module name="Algorithm" />
@@ -107,20 +116,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon9996" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon9996" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baekjoon3986" />
         <item itemvalue="Application.Baekjoon1940" />
         <item itemvalue="Application.Baekjoon1213" />
         <item itemvalue="Application.Baekjoon9375" />
         <item itemvalue="Application.Baekjoon1620" />
-        <item itemvalue="Application.Baekjoon9996" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +176,7 @@
       <workItem from="1710507423007" duration="6108000" />
       <workItem from="1710553963755" duration="12643000" />
       <workItem from="1710645354128" duration="13934000" />
-      <workItem from="1710719350954" duration="4144000" />
+      <workItem from="1710719350954" duration="9632000" />
     </task>
     <task id="LOCAL-00001" summary="Start Java">
       <option name="closed" value="true" />
@@ -432,7 +434,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710724044862</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="1940 주몽">
+      <option name="closed" value="true" />
+      <created>1710724428044</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1710724428044</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
