@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="3986 좋은 단어">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon4375.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="4375 1">
+      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe2309.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,6 +65,8 @@
     "Application.Baekjoon6549.executor": "Run",
     "Application.Baekjoon9375.executor": "Run",
     "Application.Baekjoon9996.executor": "Run",
+    "Application.BaekjoonRe2309.executor": "Run",
+    "Application.BaekjoonRe2909.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.practice.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -82,14 +84,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon4375">
-    <configuration name="Baekjoon1213" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon1213" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.BaekjoonRe2309">
     <configuration name="Baekjoon1629" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon1629" />
       <module name="Algorithm" />
@@ -118,13 +113,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BaekjoonRe2309" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekjoonRe2309" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BaekjoonRe2309" />
         <item itemvalue="Application.Baekjoon4375" />
         <item itemvalue="Application.Baekjoon1629" />
         <item itemvalue="Application.Baekjoon3986" />
         <item itemvalue="Application.Baekjoon1940" />
-        <item itemvalue="Application.Baekjoon1213" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +183,7 @@
       <workItem from="1710719350954" duration="9736000" />
       <workItem from="1710807713326" duration="1845000" />
       <workItem from="1710819769876" duration="515000" />
-      <workItem from="1710820669764" duration="4600000" />
+      <workItem from="1710820669764" duration="7696000" />
     </task>
     <task id="LOCAL-00001" summary="Start Java">
       <option name="closed" value="true" />
@@ -455,14 +457,21 @@
       <option name="project" value="LOCAL" />
       <updated>1710745282940</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="4375 1">
+      <option name="closed" value="true" />
+      <created>1710831579052</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1710831579052</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1406 에디터" />
     <MESSAGE value="5397 키로거" />
     <MESSAGE value="1158 요세푸스 문제" />
     <MESSAGE value="10828 스택" />
@@ -487,6 +496,7 @@
     <MESSAGE value="9375 패션왕 신해빈" />
     <MESSAGE value="1940 주몽" />
     <MESSAGE value="3986 좋은 단어" />
-    <option name="LAST_COMMIT_MESSAGE" value="3986 좋은 단어" />
+    <MESSAGE value="4375 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="4375 1" />
   </component>
 </project>
