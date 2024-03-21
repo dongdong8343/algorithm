@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="9375 패션왕 신해빈 재도전">
-      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe9996.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="9996 한국이 그리울 땐 서버에 접속하지 재도전">
+      <change afterPath="$PROJECT_DIR$/src/Adj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe2559.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/map.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +37,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.A3273.executor": "Run",
+    "Application.Adj.executor": "Run",
     "Application.Backjoon1406.executor": "Run",
     "Application.Baecjoon10773.executor": "Run",
     "Application.Baekjoon10807.executor": "Run",
@@ -67,10 +70,12 @@
     "Application.Baekjoon9996.executor": "Run",
     "Application.BaekjoonRe1620.executor": "Run",
     "Application.BaekjoonRe2309.executor": "Run",
+    "Application.BaekjoonRe2559.executor": "Run",
     "Application.BaekjoonRe2909.executor": "Run",
     "Application.BaekjoonRe9375.executor": "Run",
     "Application.BaekjoonRe9996.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.map.executor": "Run",
     "Application.practice.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -87,23 +92,16 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BaekjoonRe9996">
-    <configuration name="Baekjoon4375" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon4375" />
+  <component name="RunManager" selected="Application.map">
+    <configuration name="Adj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Adj" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaekjoonRe1620" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekjoonRe1620" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BaekjoonRe2309" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekjoonRe2309" />
+    <configuration name="BaekjoonRe2559" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekjoonRe2559" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -123,13 +121,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="map" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.map" />
+        <item itemvalue="Application.Adj" />
+        <item itemvalue="Application.BaekjoonRe2559" />
         <item itemvalue="Application.BaekjoonRe9996" />
         <item itemvalue="Application.BaekjoonRe9375" />
-        <item itemvalue="Application.BaekjoonRe1620" />
-        <item itemvalue="Application.BaekjoonRe2309" />
-        <item itemvalue="Application.Baekjoon4375" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +194,10 @@
       <workItem from="1710820669764" duration="7722000" />
       <workItem from="1710835556163" duration="17000" />
       <workItem from="1710849238672" duration="36000" />
-      <workItem from="1710898711380" duration="3085000" />
+      <workItem from="1710898711380" duration="5467000" />
+      <workItem from="1710931374840" duration="283000" />
+      <workItem from="1710992833732" duration="357000" />
+      <workItem from="1710999734434" duration="5207000" />
     </task>
     <task id="LOCAL-00001" summary="Start Java">
       <option name="closed" value="true" />
@@ -495,14 +503,21 @@
       <option name="project" value="LOCAL" />
       <updated>1710900575870</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="9996 한국이 그리울 땐 서버에 접속하지 재도전">
+      <option name="closed" value="true" />
+      <created>1710902210306</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1710902210306</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="10773 제로" />
     <MESSAGE value="1874 스택 수열" />
     <MESSAGE value="2493 탑" />
     <MESSAGE value="6198 옥상 정원 꾸미기" />
@@ -527,6 +542,7 @@
     <MESSAGE value="2309 일곱 난쟁이 다시 풀기" />
     <MESSAGE value="1620 나는야 포켓몬 마스터 이다솜 재도전" />
     <MESSAGE value="9375 패션왕 신해빈 재도전" />
-    <option name="LAST_COMMIT_MESSAGE" value="9375 패션왕 신해빈 재도전" />
+    <MESSAGE value="9996 한국이 그리울 땐 서버에 접속하지 재도전" />
+    <option name="LAST_COMMIT_MESSAGE" value="9996 한국이 그리울 땐 서버에 접속하지 재도전" />
   </component>
 </project>
