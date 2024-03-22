@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="9996 한국이 그리울 땐 서버에 접속하지 재도전">
-      <change afterPath="$PROJECT_DIR$/src/Adj.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe2559.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/map.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="그래프 연습1">
+      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe1213.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeDFS.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +67,7 @@
     "Application.Baekjoon6549.executor": "Run",
     "Application.Baekjoon9375.executor": "Run",
     "Application.Baekjoon9996.executor": "Run",
+    "Application.BaekjoonRe1213.executor": "Run",
     "Application.BaekjoonRe1620.executor": "Run",
     "Application.BaekjoonRe2309.executor": "Run",
     "Application.BaekjoonRe2559.executor": "Run",
@@ -75,6 +75,7 @@
     "Application.BaekjoonRe9375.executor": "Run",
     "Application.BaekjoonRe9996.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.PracticeDFS.executor": "Run",
     "Application.map.executor": "Run",
     "Application.practice.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -92,9 +93,16 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.map">
+  <component name="RunManager" selected="Application.PracticeDFS">
     <configuration name="Adj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Adj" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaekjoonRe1213" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekjoonRe1213" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -107,15 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaekjoonRe9375" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekjoonRe9375" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BaekjoonRe9996" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekjoonRe9996" />
+    <configuration name="PracticeDFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeDFS" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -130,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PracticeDFS" />
+        <item itemvalue="Application.BaekjoonRe1213" />
         <item itemvalue="Application.map" />
         <item itemvalue="Application.Adj" />
         <item itemvalue="Application.BaekjoonRe2559" />
-        <item itemvalue="Application.BaekjoonRe9996" />
-        <item itemvalue="Application.BaekjoonRe9375" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +198,9 @@
       <workItem from="1710898711380" duration="5467000" />
       <workItem from="1710931374840" duration="283000" />
       <workItem from="1710992833732" duration="357000" />
-      <workItem from="1710999734434" duration="5207000" />
+      <workItem from="1710999734434" duration="5900000" />
+      <workItem from="1711016328292" duration="1378000" />
+      <workItem from="1711065737164" duration="1511000" />
     </task>
     <task id="LOCAL-00001" summary="Start Java">
       <option name="closed" value="true" />
@@ -511,14 +514,21 @@
       <option name="project" value="LOCAL" />
       <updated>1710902210306</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="그래프 연습1">
+      <option name="closed" value="true" />
+      <created>1711006805501</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1711006805501</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1874 스택 수열" />
     <MESSAGE value="2493 탑" />
     <MESSAGE value="6198 옥상 정원 꾸미기" />
     <MESSAGE value="17298 오큰수" />
@@ -543,6 +553,7 @@
     <MESSAGE value="1620 나는야 포켓몬 마스터 이다솜 재도전" />
     <MESSAGE value="9375 패션왕 신해빈 재도전" />
     <MESSAGE value="9996 한국이 그리울 땐 서버에 접속하지 재도전" />
-    <option name="LAST_COMMIT_MESSAGE" value="9996 한국이 그리울 땐 서버에 접속하지 재도전" />
+    <MESSAGE value="그래프 연습1" />
+    <option name="LAST_COMMIT_MESSAGE" value="그래프 연습1" />
   </component>
 </project>
