@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="1213 팰린드롬 만들기">
-      <change afterPath="$PROJECT_DIR$/src/fartDfs.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="dfs 방귀쟁이">
+      <change afterPath="$PROJECT_DIR$/src/bfsCarret.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,6 +75,7 @@
     "Application.BaekjoonRe9996.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.PracticeDFS.executor": "Run",
+    "Application.bfsCarret.executor": "Run",
     "Application.fartDfs.executor": "Run",
     "Application.map.executor": "Run",
     "Application.practice.executor": "Run",
@@ -89,18 +90,11 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "vcs.Git",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.fartDfs">
-    <configuration name="Adj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Adj" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.bfsCarret">
     <configuration name="BaekjoonRe1213" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekjoonRe1213" />
       <module name="Algorithm" />
@@ -110,6 +104,13 @@
     </configuration>
     <configuration name="PracticeDFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PracticeDFS" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bfsCarret" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bfsCarret" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -131,11 +132,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.fartDfs" />
-        <item itemvalue="Application.PracticeDFS" />
-        <item itemvalue="Application.BaekjoonRe1213" />
-        <item itemvalue="Application.map" />
-        <item itemvalue="Application.Adj" />
+        <item itemvalue="Application.bfsCarret" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +197,10 @@
       <workItem from="1710992833732" duration="357000" />
       <workItem from="1710999734434" duration="5900000" />
       <workItem from="1711016328292" duration="1378000" />
-      <workItem from="1711065737164" duration="3688000" />
+      <workItem from="1711065737164" duration="4311000" />
+      <workItem from="1711073238091" duration="128000" />
+      <workItem from="1711073377788" duration="298000" />
+      <workItem from="1711103686689" duration="2320000" />
     </task>
     <task id="LOCAL-00001" summary="Start Java">
       <option name="closed" value="true" />
@@ -538,14 +538,21 @@
       <option name="project" value="LOCAL" />
       <updated>1711067302403</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="dfs 방귀쟁이">
+      <option name="closed" value="true" />
+      <created>1711069710404</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1711069710404</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="6198 옥상 정원 꾸미기" />
     <MESSAGE value="17298 오큰수" />
     <MESSAGE value="3015 오아시스 재결합" />
     <MESSAGE value="6549 히스토그램에서 가장 큰 직사각형" />
@@ -570,6 +577,7 @@
     <MESSAGE value="그래프 연습1" />
     <MESSAGE value="dfs 연습" />
     <MESSAGE value="1213 팰린드롬 만들기" />
-    <option name="LAST_COMMIT_MESSAGE" value="1213 팰린드롬 만들기" />
+    <MESSAGE value="dfs 방귀쟁이" />
+    <option name="LAST_COMMIT_MESSAGE" value="dfs 방귀쟁이" />
   </component>
 </project>
