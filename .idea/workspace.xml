@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="3986 좋은단어 재도전">
-      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe1629.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="1629 곱셈 재도전">
+      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe4375.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +73,7 @@
     "Application.BaekjoonRe2559.executor": "Run",
     "Application.BaekjoonRe2909.executor": "Run",
     "Application.BaekjoonRe3986.executor": "Run",
+    "Application.BaekjoonRe4375.executor": "Run",
     "Application.BaekjoonRe9375.executor": "Run",
     "Application.BaekjoonRe9996.executor": "Run",
     "Application.BaekjoonReRe2559.executor": "Run",
@@ -98,7 +99,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BaekjoonRe1629">
+  <component name="RunManager" selected="Application.BaekjoonRe4375">
     <configuration name="BaekjoonRe1629" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekjoonRe1629" />
       <module name="Algorithm" />
@@ -108,6 +109,13 @@
     </configuration>
     <configuration name="BaekjoonRe3986" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekjoonRe3986" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaekjoonRe4375" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekjoonRe4375" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -127,20 +135,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bfsCarret" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bfsCarret" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BaekjoonRe4375" />
         <item itemvalue="Application.BaekjoonRe1629" />
         <item itemvalue="Application.BaekjoonRe3986" />
         <item itemvalue="Application.BaekjoonReRe2559" />
         <item itemvalue="Application.BaekjoonReRe9996" />
-        <item itemvalue="Application.bfsCarret" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +210,7 @@
       <workItem from="1711073238091" duration="128000" />
       <workItem from="1711073377788" duration="298000" />
       <workItem from="1711103686689" duration="3337000" />
-      <workItem from="1711158482196" duration="4954000" />
+      <workItem from="1711158482196" duration="6230000" />
     </task>
     <task id="LOCAL-00001" summary="Start Java">
       <option name="closed" value="true" />
@@ -587,14 +588,21 @@
       <option name="project" value="LOCAL" />
       <updated>1711162085412</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="1629 곱셈 재도전">
+      <option name="closed" value="true" />
+      <created>1711164403037</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1711164403037</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2309 일곱난쟁이" />
     <MESSAGE value="2979 트럭 주차" />
     <MESSAGE value="팰린드롬인지 확인하기" />
     <MESSAGE value="1159 농구 경기" />
@@ -619,6 +627,7 @@
     <MESSAGE value="9996 한국이 그리울 땐 서버에 접속하지 재재도전" />
     <MESSAGE value="2559 수열 재재도전" />
     <MESSAGE value="3986 좋은단어 재도전" />
-    <option name="LAST_COMMIT_MESSAGE" value="3986 좋은단어 재도전" />
+    <MESSAGE value="1629 곱셈 재도전" />
+    <option name="LAST_COMMIT_MESSAGE" value="1629 곱셈 재도전" />
   </component>
 </project>
