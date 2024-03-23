@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="bfs 당근마켓">
-      <change afterPath="$PROJECT_DIR$/src/BaekjoonReRe9996.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="9996 한국이 그리울 땐 서버에 접속하지 재재도전">
+      <change afterPath="$PROJECT_DIR$/src/BaekjoonReRe2559.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +73,7 @@
     "Application.BaekjoonRe2909.executor": "Run",
     "Application.BaekjoonRe9375.executor": "Run",
     "Application.BaekjoonRe9996.executor": "Run",
+    "Application.BaekjoonReRe2559.executor": "Run",
     "Application.BaekjoonReRe9996.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.PracticeDFS.executor": "Run",
@@ -95,7 +96,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BaekjoonReRe9996">
+  <component name="RunManager" selected="Application.BaekjoonReRe2559">
+    <configuration name="BaekjoonReRe2559" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekjoonReRe2559" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BaekjoonReRe9996" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekjoonReRe9996" />
       <module name="Algorithm" />
@@ -117,13 +125,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fartDfs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fartDfs" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="map" />
       <module name="Algorithm" />
@@ -133,6 +134,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BaekjoonReRe2559" />
         <item itemvalue="Application.BaekjoonReRe9996" />
         <item itemvalue="Application.bfsCarret" />
       </list>
@@ -203,7 +205,7 @@
       <workItem from="1711073238091" duration="128000" />
       <workItem from="1711073377788" duration="298000" />
       <workItem from="1711103686689" duration="3337000" />
-      <workItem from="1711158482196" duration="917000" />
+      <workItem from="1711158482196" duration="2648000" />
     </task>
     <task id="LOCAL-00001" summary="Start Java">
       <option name="closed" value="true" />
@@ -557,14 +559,21 @@
       <option name="project" value="LOCAL" />
       <updated>1711106219584</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="9996 한국이 그리울 땐 서버에 접속하지 재재도전">
+      <option name="closed" value="true" />
+      <created>1711159514953</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1711159514953</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="3015 오아시스 재결합" />
     <MESSAGE value="6549 히스토그램에서 가장 큰 직사각형" />
     <MESSAGE value="중복 제거 연습" />
     <MESSAGE value="2309 일곱난쟁이" />
@@ -589,6 +598,7 @@
     <MESSAGE value="1213 팰린드롬 만들기" />
     <MESSAGE value="dfs 방귀쟁이" />
     <MESSAGE value="bfs 당근마켓" />
-    <option name="LAST_COMMIT_MESSAGE" value="bfs 당근마켓" />
+    <MESSAGE value="9996 한국이 그리울 땐 서버에 접속하지 재재도전" />
+    <option name="LAST_COMMIT_MESSAGE" value="9996 한국이 그리울 땐 서버에 접속하지 재재도전" />
   </component>
 </project>
