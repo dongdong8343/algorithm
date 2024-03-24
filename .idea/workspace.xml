@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="1012 유기농 배추">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon2468.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="2468 안전 영역">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon1992.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon2583.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,11 +56,13 @@
     "Application.Baekjoon1874.executor": "Run",
     "Application.Baekjoon1919.executor": "Run",
     "Application.Baekjoon1940.executor": "Run",
+    "Application.Baekjoon1992.executor": "Run",
     "Application.Baekjoon2178.executor": "Run",
     "Application.Baekjoon2309.executor": "Run",
     "Application.Baekjoon2468.executor": "Run",
     "Application.Baekjoon2493.executor": "Run",
     "Application.Baekjoon2559.executor": "Run",
+    "Application.Baekjoon2583.executor": "Run",
     "Application.Baekjoon2979.executor": "Run",
     "Application.Baekjoon3015.executor": "Run",
     "Application.Baekjoon3986.executor": "Run",
@@ -102,9 +105,16 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon2468">
+  <component name="RunManager" selected="Application.Baekjoon1992">
     <configuration name="Baekjoon1012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon1012" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Baekjoon1992" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon1992" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -124,15 +134,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaekjoonRe1629" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekjoonRe1629" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BaekjoonRe4375" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekjoonRe4375" />
+    <configuration name="Baekjoon2583" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon2583" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -140,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baekjoon1992" />
+        <item itemvalue="Application.Baekjoon2583" />
         <item itemvalue="Application.Baekjoon2468" />
         <item itemvalue="Application.Baekjoon1012" />
         <item itemvalue="Application.Baekjoon2178" />
-        <item itemvalue="Application.BaekjoonRe4375" />
-        <item itemvalue="Application.BaekjoonRe1629" />
       </list>
     </recent_temporary>
   </component>
@@ -214,15 +217,7 @@
       <workItem from="1711073377788" duration="298000" />
       <workItem from="1711103686689" duration="3337000" />
       <workItem from="1711158482196" duration="13011000" />
-      <workItem from="1711245455700" duration="4402000" />
-    </task>
-    <task id="LOCAL-00003" summary="3273 두 수의 합">
-      <option name="closed" value="true" />
-      <created>1709183200261</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1709183200261</updated>
+      <workItem from="1711245455700" duration="8695000" />
     </task>
     <task id="LOCAL-00004" summary="11328번 Strfry">
       <option name="closed" value="true" />
@@ -608,14 +603,21 @@
       <option name="project" value="LOCAL" />
       <updated>1711173745535</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="2468 안전 영역">
+      <option name="closed" value="true" />
+      <created>1711256965886</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1711256965888</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="11655 ROT13" />
     <MESSAGE value="9996 한국이 그리울 땐 서버에 접속하지" />
     <MESSAGE value="2559 수열" />
     <MESSAGE value="1620 나는야 포켓몬 마스터 이다솜" />
@@ -640,6 +642,7 @@
     <MESSAGE value="4375 1 재도전" />
     <MESSAGE value="2178 미로 탐색" />
     <MESSAGE value="1012 유기농 배추" />
-    <option name="LAST_COMMIT_MESSAGE" value="1012 유기농 배추" />
+    <MESSAGE value="2468 안전 영역" />
+    <option name="LAST_COMMIT_MESSAGE" value="2468 안전 영역" />
   </component>
 </project>
