@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="4375 1 재재도전">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon4659.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="4659 비밀번호 발음하기">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon2870.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +63,7 @@
     "Application.Baekjoon2559.executor": "Run",
     "Application.Baekjoon2583.executor": "Run",
     "Application.Baekjoon2828.executor": "Run",
+    "Application.Baekjoon2870.executor": "Run",
     "Application.Baekjoon2910.executor": "Run",
     "Application.Baekjoon2979.executor": "Run",
     "Application.Baekjoon3015.executor": "Run",
@@ -110,9 +111,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon4659">
-    <configuration name="Baekjoon2828" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon2828" />
+  <component name="RunManager" selected="Application.Baekjoon2870">
+    <configuration name="Baekjoon2870" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon2870" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -148,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baekjoon2870" />
         <item itemvalue="Application.Baekjoon4659" />
         <item itemvalue="Application.Baekjoon2910" />
         <item itemvalue="Application.BaekjoonReRe4375" />
         <item itemvalue="Application.BaekjoonReRe1629" />
-        <item itemvalue="Application.Baekjoon2828" />
       </list>
     </recent_temporary>
   </component>
@@ -228,15 +229,7 @@
       <workItem from="1711364085123" duration="607000" />
       <workItem from="1711412830312" duration="2547000" />
       <workItem from="1711424311865" duration="2250000" />
-      <workItem from="1711444381013" duration="2239000" />
-    </task>
-    <task id="LOCAL-00011" summary="10773 제로">
-      <option name="closed" value="true" />
-      <created>1709794668192</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1709794668192</updated>
+      <workItem from="1711444381013" duration="6326000" />
     </task>
     <task id="LOCAL-00012" summary="1874 스택 수열">
       <option name="closed" value="true" />
@@ -622,14 +615,21 @@
       <option name="project" value="LOCAL" />
       <updated>1711428536737</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="4659 비밀번호 발음하기">
+      <option name="closed" value="true" />
+      <created>1711448494722</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1711448494723</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="4375 1" />
     <MESSAGE value="2309 일곱 난쟁이 다시 풀기" />
     <MESSAGE value="1620 나는야 포켓몬 마스터 이다솜 재도전" />
     <MESSAGE value="9375 패션왕 신해빈 재도전" />
@@ -654,6 +654,7 @@
     <MESSAGE value="2828 사과 담기 게임" />
     <MESSAGE value="2910 빈도 정렬" />
     <MESSAGE value="4375 1 재재도전" />
-    <option name="LAST_COMMIT_MESSAGE" value="4375 1 재재도전" />
+    <MESSAGE value="4659 비밀번호 발음하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="4659 비밀번호 발음하기" />
   </component>
 </project>
