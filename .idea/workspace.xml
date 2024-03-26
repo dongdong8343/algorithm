@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="2583 영역 구하기">
-      <change afterPath="$PROJECT_DIR$/src/BaekjoonReRe1213.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="1213 팰린드롬 만들기 재재도전">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon2828.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekjoonReRe1629.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +63,7 @@
     "Application.Baekjoon2493.executor": "Run",
     "Application.Baekjoon2559.executor": "Run",
     "Application.Baekjoon2583.executor": "Run",
+    "Application.Baekjoon2828.executor": "Run",
     "Application.Baekjoon2979.executor": "Run",
     "Application.Baekjoon3015.executor": "Run",
     "Application.Baekjoon3986.executor": "Run",
@@ -80,6 +83,8 @@
     "Application.BaekjoonRe4375.executor": "Run",
     "Application.BaekjoonRe9375.executor": "Run",
     "Application.BaekjoonRe9996.executor": "Run",
+    "Application.BaekjoonReRe1213.executor": "Run",
+    "Application.BaekjoonReRe1629.executor": "Run",
     "Application.BaekjoonReRe2559.executor": "Run",
     "Application.BaekjoonReRe9996.executor": "Run",
     "Application.Main.executor": "Run",
@@ -103,23 +108,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BaekjoonReRe1213">
-    <configuration name="Baekjoon1012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon1012" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.BaekjoonReRe1629">
     <configuration name="Baekjoon1992" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon1992" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Baekjoon2468" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon2468" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -132,6 +123,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Baekjoon2828" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon2828" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BaekjoonReRe1213" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekjoonReRe1213" />
       <module name="Algorithm" />
@@ -139,13 +137,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BaekjoonReRe1629" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekjoonReRe1629" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BaekjoonReRe1629" />
+        <item itemvalue="Application.Baekjoon2828" />
         <item itemvalue="Application.BaekjoonReRe1213" />
         <item itemvalue="Application.Baekjoon1992" />
         <item itemvalue="Application.Baekjoon2583" />
-        <item itemvalue="Application.Baekjoon2468" />
-        <item itemvalue="Application.Baekjoon1012" />
       </list>
     </recent_temporary>
   </component>
@@ -215,15 +220,11 @@
       <workItem from="1711073377788" duration="298000" />
       <workItem from="1711103686689" duration="3337000" />
       <workItem from="1711158482196" duration="13011000" />
-      <workItem from="1711245455700" duration="10051000" />
-    </task>
-    <task id="LOCAL-00006" summary="1919 - 애너그램 만들기">
-      <option name="closed" value="true" />
-      <created>1709560365516</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1709560365516</updated>
+      <workItem from="1711245455700" duration="10973000" />
+      <workItem from="1711325111751" duration="1032000" />
+      <workItem from="1711336250404" duration="2202000" />
+      <workItem from="1711364085123" duration="607000" />
+      <workItem from="1711412830312" duration="1001000" />
     </task>
     <task id="LOCAL-00007" summary="1406 에디터">
       <option name="closed" value="true" />
@@ -609,14 +610,21 @@
       <option name="project" value="LOCAL" />
       <updated>1711272569242</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="1213 팰린드롬 만들기 재재도전">
+      <option name="closed" value="true" />
+      <created>1711280755882</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1711280755882</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1620 나는야 포켓몬 마스터 이다솜" />
     <MESSAGE value="9996 한국이 그리울 땐 서버에 접속하지(다시 풀어봄)" />
     <MESSAGE value="9375 패션왕 신해빈" />
     <MESSAGE value="1940 주몽" />
@@ -641,6 +649,7 @@
     <MESSAGE value="2468 안전 영역" />
     <MESSAGE value="1992 쿼드트리" />
     <MESSAGE value="2583 영역 구하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="2583 영역 구하기" />
+    <MESSAGE value="1213 팰린드롬 만들기 재재도전" />
+    <option name="LAST_COMMIT_MESSAGE" value="1213 팰린드롬 만들기 재재도전" />
   </component>
 </project>
