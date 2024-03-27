@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="1992 쿼드트리">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon10709.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="10709 기상캐스터">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon3474.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +68,7 @@
     "Application.Baekjoon2910.executor": "Run",
     "Application.Baekjoon2979.executor": "Run",
     "Application.Baekjoon3015.executor": "Run",
+    "Application.Baekjoon3474.executor": "Run",
     "Application.Baekjoon3986.executor": "Run",
     "Application.Baekjoon4375.executor": "Run",
     "Application.Baekjoon4659.executor": "Run",
@@ -114,7 +115,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon10709">
+  <component name="RunManager" selected="Application.Baekjoon3474">
     <configuration name="Baekjoon10709" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon10709" />
       <module name="Algorithm" />
@@ -129,8 +130,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon4659" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon4659" />
+    <configuration name="Baekjoon3474" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon3474" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -152,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baekjoon3474" />
         <item itemvalue="Application.Baekjoon10709" />
         <item itemvalue="Application.BaekjoonRe1992" />
         <item itemvalue="Application.BaekjoonRe2468" />
         <item itemvalue="Application.Baekjoon2870" />
-        <item itemvalue="Application.Baekjoon4659" />
       </list>
     </recent_temporary>
   </component>
@@ -233,15 +234,7 @@
       <workItem from="1711412830312" duration="2547000" />
       <workItem from="1711424311865" duration="2250000" />
       <workItem from="1711444381013" duration="6383000" />
-      <workItem from="1711499777900" duration="5967000" />
-    </task>
-    <task id="LOCAL-00015" summary="17298 오큰수">
-      <option name="closed" value="true" />
-      <created>1710139017726</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1710139017726</updated>
+      <workItem from="1711499777900" duration="7128000" />
     </task>
     <task id="LOCAL-00016" summary="3015 오아시스 재결합">
       <option name="closed" value="true" />
@@ -627,14 +620,21 @@
       <option name="project" value="LOCAL" />
       <updated>1711504396726</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="10709 기상캐스터">
+      <option name="closed" value="true" />
+      <created>1711506538240</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1711506538240</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="9375 패션왕 신해빈 재도전" />
     <MESSAGE value="9996 한국이 그리울 땐 서버에 접속하지 재도전" />
     <MESSAGE value="그래프 연습1" />
     <MESSAGE value="dfs 연습" />
@@ -659,6 +659,7 @@
     <MESSAGE value="2870 수학 문제" />
     <MESSAGE value="2468 안전 영역 재도전" />
     <MESSAGE value="1992 쿼드트리" />
-    <option name="LAST_COMMIT_MESSAGE" value="1992 쿼드트리" />
+    <MESSAGE value="10709 기상캐스터" />
+    <option name="LAST_COMMIT_MESSAGE" value="10709 기상캐스터" />
   </component>
 </project>
