@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="2852 NBA 농구">
-      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe2910.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="2910 빈도 정렬 재도전">
+      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe2870.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,6 +85,7 @@
     "Application.BaekjoonRe2309.executor": "Run",
     "Application.BaekjoonRe2468.executor": "Run",
     "Application.BaekjoonRe2559.executor": "Run",
+    "Application.BaekjoonRe2870.executor": "Run",
     "Application.BaekjoonRe2909.executor": "Run",
     "Application.BaekjoonRe2910.executor": "Run",
     "Application.BaekjoonRe3986.executor": "Run",
@@ -117,7 +118,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BaekjoonRe2910">
+  <component name="RunManager" selected="Application.BaekjoonRe2870">
     <configuration name="Baekjoon10709" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon10709" />
       <module name="Algorithm" />
@@ -139,8 +140,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaekjoonRe1992" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekjoonRe1992" />
+    <configuration name="BaekjoonRe2870" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekjoonRe2870" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -155,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BaekjoonRe2870" />
         <item itemvalue="Application.BaekjoonRe2910" />
         <item itemvalue="Application.Baekjoon2852" />
         <item itemvalue="Application.Baekjoon3474" />
         <item itemvalue="Application.Baekjoon10709" />
-        <item itemvalue="Application.BaekjoonRe1992" />
       </list>
     </recent_temporary>
   </component>
@@ -242,15 +243,7 @@
       <workItem from="1711622923206" duration="3902000" />
       <workItem from="1711671851492" duration="11000" />
       <workItem from="1711675197728" duration="1140000" />
-      <workItem from="1711681396074" duration="440000" />
-    </task>
-    <task id="LOCAL-00019" summary="중복 제거 연습">
-      <option name="closed" value="true" />
-      <created>1710402568099</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1710402568099</updated>
+      <workItem from="1711681396074" duration="3366000" />
     </task>
     <task id="LOCAL-00020" summary="2309 일곱난쟁이">
       <option name="closed" value="true" />
@@ -636,14 +629,21 @@
       <option name="project" value="LOCAL" />
       <updated>1711676430758</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="2910 빈도 정렬 재도전">
+      <option name="closed" value="true" />
+      <created>1711682061035</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1711682061035</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1213 팰린드롬 만들기" />
     <MESSAGE value="dfs 방귀쟁이" />
     <MESSAGE value="bfs 당근마켓" />
     <MESSAGE value="9996 한국이 그리울 땐 서버에 접속하지 재재도전" />
@@ -668,6 +668,7 @@
     <MESSAGE value="3474 교수가 된 현우" />
     <MESSAGE value="NBA 농구 푸는중" />
     <MESSAGE value="2852 NBA 농구" />
-    <option name="LAST_COMMIT_MESSAGE" value="2852 NBA 농구" />
+    <MESSAGE value="2910 빈도 정렬 재도전" />
+    <option name="LAST_COMMIT_MESSAGE" value="2910 빈도 정렬 재도전" />
   </component>
 </project>
