@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="NBA 농구 푸는중">
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="2852 NBA 농구">
+      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe2910.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon2852.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon2852.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +86,7 @@
     "Application.BaekjoonRe2468.executor": "Run",
     "Application.BaekjoonRe2559.executor": "Run",
     "Application.BaekjoonRe2909.executor": "Run",
+    "Application.BaekjoonRe2910.executor": "Run",
     "Application.BaekjoonRe3986.executor": "Run",
     "Application.BaekjoonRe4375.executor": "Run",
     "Application.BaekjoonRe9375.executor": "Run",
@@ -116,7 +117,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon2852">
+  <component name="RunManager" selected="Application.BaekjoonRe2910">
     <configuration name="Baekjoon10709" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon10709" />
       <module name="Algorithm" />
@@ -145,8 +146,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaekjoonRe2468" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekjoonRe2468" />
+    <configuration name="BaekjoonRe2910" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekjoonRe2910" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -154,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BaekjoonRe2910" />
         <item itemvalue="Application.Baekjoon2852" />
         <item itemvalue="Application.Baekjoon3474" />
         <item itemvalue="Application.Baekjoon10709" />
         <item itemvalue="Application.BaekjoonRe1992" />
-        <item itemvalue="Application.BaekjoonRe2468" />
       </list>
     </recent_temporary>
   </component>
@@ -240,15 +241,8 @@
       <workItem from="1711605910010" duration="4684000" />
       <workItem from="1711622923206" duration="3902000" />
       <workItem from="1711671851492" duration="11000" />
-      <workItem from="1711675197728" duration="935000" />
-    </task>
-    <task id="LOCAL-00018" summary="6549 히스토그램에서 가장 큰 직사각형">
-      <option name="closed" value="true" />
-      <created>1710301963650</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1710301963650</updated>
+      <workItem from="1711675197728" duration="1140000" />
+      <workItem from="1711681396074" duration="440000" />
     </task>
     <task id="LOCAL-00019" summary="중복 제거 연습">
       <option name="closed" value="true" />
@@ -634,14 +628,21 @@
       <option name="project" value="LOCAL" />
       <updated>1711627917677</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="2852 NBA 농구">
+      <option name="closed" value="true" />
+      <created>1711676430757</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1711676430758</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="dfs 연습" />
     <MESSAGE value="1213 팰린드롬 만들기" />
     <MESSAGE value="dfs 방귀쟁이" />
     <MESSAGE value="bfs 당근마켓" />
@@ -666,6 +667,7 @@
     <MESSAGE value="10709 기상캐스터" />
     <MESSAGE value="3474 교수가 된 현우" />
     <MESSAGE value="NBA 농구 푸는중" />
-    <option name="LAST_COMMIT_MESSAGE" value="NBA 농구 푸는중" />
+    <MESSAGE value="2852 NBA 농구" />
+    <option name="LAST_COMMIT_MESSAGE" value="2852 NBA 농구" />
   </component>
 </project>
