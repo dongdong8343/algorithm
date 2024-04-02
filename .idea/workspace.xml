@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="3474 교수가 된 현우">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon9012.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="9012 괄호">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon4949.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,6 +74,7 @@
     "Application.Baekjoon3986.executor": "Run",
     "Application.Baekjoon4375.executor": "Run",
     "Application.Baekjoon4659.executor": "Run",
+    "Application.Baekjoon4949.executor": "Run",
     "Application.Baekjoon5397.executor": "Run",
     "Application.Baekjoon6198.executor": "Run",
     "Application.Baekjoon6549.executor": "Run",
@@ -122,7 +123,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon9012">
+  <component name="RunManager" selected="Application.Baekjoon4949">
     <configuration name="Baekjoon1436" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon1436" />
       <module name="Algorithm" />
@@ -130,15 +131,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon9012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon9012" />
+    <configuration name="Baekjoon4949" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon4949" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaekjoonRe2870" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekjoonRe2870" />
+    <configuration name="Baekjoon9012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon9012" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -160,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baekjoon4949" />
         <item itemvalue="Application.Baekjoon9012" />
         <item itemvalue="Application.Baekjoon1436" />
         <item itemvalue="Application.BaekjoonReRe2852" />
         <item itemvalue="Application.BaekjoonRe3474" />
-        <item itemvalue="Application.BaekjoonRe2870" />
       </list>
     </recent_temporary>
   </component>
@@ -251,15 +252,8 @@
       <workItem from="1711769511036" duration="1389000" />
       <workItem from="1711930580056" duration="829000" />
       <workItem from="1711942327279" duration="1123000" />
-      <workItem from="1711957036029" duration="4472000" />
-    </task>
-    <task id="LOCAL-00025" summary="11655 ROT13">
-      <option name="closed" value="true" />
-      <created>1710557390323</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1710557390323</updated>
+      <workItem from="1711957036029" duration="5230000" />
+      <workItem from="1712030521310" duration="878000" />
     </task>
     <task id="LOCAL-00026" summary="9996 한국이 그리울 땐 서버에 접속하지">
       <option name="closed" value="true" />
@@ -645,14 +639,21 @@
       <option name="project" value="LOCAL" />
       <updated>1711965929600</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="9012 괄호">
+      <option name="closed" value="true" />
+      <created>1711966414849</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1711966414849</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="3986 좋은단어 재도전" />
     <MESSAGE value="1629 곱셈 재도전" />
     <MESSAGE value="4375 1 재도전" />
     <MESSAGE value="2178 미로 탐색" />
@@ -677,6 +678,7 @@
     <MESSAGE value="2852 NBA 농구 재도전" />
     <MESSAGE value="1436 영화감독 숌" />
     <MESSAGE value="3474 교수가 된 현우" />
-    <option name="LAST_COMMIT_MESSAGE" value="3474 교수가 된 현우" />
+    <MESSAGE value="9012 괄호" />
+    <option name="LAST_COMMIT_MESSAGE" value="9012 괄호" />
   </component>
 </project>
