@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="4949 균형잡힌 세상">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon14502.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekjoonReReRe1629.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,6 +103,7 @@
     "Application.BaekjoonReRe2852.executor": "Run",
     "Application.BaekjoonReRe4375.executor": "Run",
     "Application.BaekjoonReRe9996.executor": "Run",
+    "Application.BaekjoonReReRe1629.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.PracticeDFS.executor": "Run",
     "Application.bfsCarret.executor": "Run",
@@ -124,7 +125,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon14502">
+  <component name="RunManager" selected="Application.BaekjoonReReRe1629">
     <configuration name="Baekjoon1436" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon1436" />
       <module name="Algorithm" />
@@ -153,8 +154,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaekjoonReRe2852" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekjoonReRe2852" />
+    <configuration name="BaekjoonReReRe1629" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekjoonReReRe1629" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -162,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BaekjoonReReRe1629" />
         <item itemvalue="Application.Baekjoon14502" />
         <item itemvalue="Application.Baekjoon4949" />
         <item itemvalue="Application.Baekjoon9012" />
         <item itemvalue="Application.Baekjoon1436" />
-        <item itemvalue="Application.BaekjoonReRe2852" />
       </list>
     </recent_temporary>
   </component>
@@ -257,6 +258,7 @@
       <workItem from="1712030521310" duration="1892000" />
       <workItem from="1712037387146" duration="1208000" />
       <workItem from="1712055887810" duration="3902000" />
+      <workItem from="1712109936683" duration="1399000" />
     </task>
     <task id="LOCAL-00027" summary="2559 수열">
       <option name="closed" value="true" />
