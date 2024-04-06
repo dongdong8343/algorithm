@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="2636 치즈">
-      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe1436.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="1436 영화감독 숌">
+      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe14502.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BaekjoonRe1436.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekjoonRe1436.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +86,7 @@
     "Application.Baekjoon9996.executor": "Run",
     "Application.BaekjoonRe1213.executor": "Run",
     "Application.BaekjoonRe1436.executor": "Run",
+    "Application.BaekjoonRe14502.executor": "Run",
     "Application.BaekjoonRe1620.executor": "Run",
     "Application.BaekjoonRe1629.executor": "Run",
     "Application.BaekjoonRe1992.executor": "Run",
@@ -129,7 +131,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BaekjoonRe1436">
+  <component name="RunManager" selected="Application.BaekjoonRe14502">
     <configuration name="Baekjoon2636" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon2636" />
       <module name="Algorithm" />
@@ -151,6 +153,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BaekjoonRe14502" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekjoonRe14502" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BaekjoonReRe2870" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekjoonReRe2870" />
       <module name="Algorithm" />
@@ -158,20 +167,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaekjoonReRe2910" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekjoonReRe2910" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BaekjoonRe14502" />
         <item itemvalue="Application.BaekjoonRe1436" />
         <item itemvalue="Application.Baekjoon3474" />
         <item itemvalue="Application.Baekjoon2636" />
         <item itemvalue="Application.BaekjoonReRe2870" />
-        <item itemvalue="Application.BaekjoonReRe2910" />
       </list>
     </recent_temporary>
   </component>
@@ -265,15 +267,8 @@
       <workItem from="1712109936683" duration="4826000" />
       <workItem from="1712141252308" duration="1687000" />
       <workItem from="1712216699900" duration="7014000" />
-      <workItem from="1712291694595" duration="755000" />
-    </task>
-    <task id="LOCAL-00031" summary="9375 패션왕 신해빈">
-      <option name="closed" value="true" />
-      <created>1710723611576</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1710723611576</updated>
+      <workItem from="1712291694595" duration="951000" />
+      <workItem from="1712372279485" duration="2024000" />
     </task>
     <task id="LOCAL-00032" summary="1940 주몽">
       <option name="closed" value="true" />
@@ -659,7 +654,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712227398662</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="1436 영화감독 숌">
+      <option name="closed" value="true" />
+      <created>1712292542077</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1712292542077</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -683,7 +686,6 @@
     <MESSAGE value="2870 수학숙제" />
     <MESSAGE value="3474 교수가 된 현우 재도전" />
     <MESSAGE value="2852 NBA 농구 재도전" />
-    <MESSAGE value="1436 영화감독 숌" />
     <MESSAGE value="3474 교수가 된 현우" />
     <MESSAGE value="9012 괄호" />
     <MESSAGE value="4949 균형잡힌 세상" />
@@ -691,6 +693,7 @@
     <MESSAGE value="2910 빈도 정렬 재재도전" />
     <MESSAGE value="2870 수학숙제 재재도전" />
     <MESSAGE value="2636 치즈" />
-    <option name="LAST_COMMIT_MESSAGE" value="2636 치즈" />
+    <MESSAGE value="1436 영화감독 숌" />
+    <option name="LAST_COMMIT_MESSAGE" value="1436 영화감독 숌" />
   </component>
 </project>
