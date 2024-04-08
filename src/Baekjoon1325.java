@@ -1,52 +1,116 @@
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
-import java.util.*;
+import java.io.DataInputStream;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
 
 public class Baekjoon1325 {
-    static List<Integer>[] li;
-    static int[] visited;
-    static int dfs(int n){
-        visited[n] = 1;
-        int ret = 1;
-        for(int x : li[n]){
-            if(visited[x] == 1)
-                continue;
-            ret += dfs(x);
-        }
-        return ret;
-    }
-    public static void main(String[] args)throws Exception{
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st = new StringTokenizer(br.readLine());
-        int n = Integer.parseInt(st.nextToken());
-        int m = Integer.parseInt(st.nextToken());
-        Map<Integer, Integer> map = new HashMap<>();
-        li = new List[n + 1];
-        for(int i = 1; i <= n; i++){
-            li[i] = new ArrayList<>();
+    static int n, m;
+    static boolean[] visited;
+    static int[] result;
+    static List<Integer>[] arr;
+    public static void main(String[] args) throws IOException{
+        Reader reader = new Reader();
+
+        n = reader.nextInt();
+        m = reader.nextInt();
+
+        arr = new ArrayList[n];
+
+        for(int i = 0; i < n; i++) {
+            arr[i] = new ArrayList<>();
         }
 
-        for(int i = 0; i < m; i++){
-            st = new StringTokenizer(br.readLine());
-            int a = Integer.parseInt(st.nextToken());
-            int b = Integer.parseInt(st.nextToken());
-            li[b].add(a);
+        for(int i = 0; i < m; i++) {
+            arr[reader.nextInt() - 1].add(reader.nextInt() - 1);
         }
+
+        result = new int[n];
+        for(int i = 0; i < n; i++) {
+            visited = new boolean[n];
+            dfs(i);
+        }
+
         int max = 0;
-        for(int i = 1; i <= n; i++){
-            visited = new int[n + 1];
-            int cnt = dfs(i);
-            map.put(i, cnt);
-            max = Math.max(max, cnt);
+        for(int num : result) {
+            max = Math.max(max, num);
         }
 
-        List<Integer> ret = new ArrayList<>();
-        for(int key : map.keySet()){
-            if(map.get(key) == max)
-                ret.add(key);
+        StringBuilder sb = new StringBuilder();
+        for(int i = 0; i < n; i++) {
+            if(result[i] == max) {
+                sb.append(i + 1).append(" ");
+            }
         }
-        Collections.sort(ret);
-        for(int i : ret)
-            System.out.print(i + " ");
+        System.out.print(sb);
+    }
+
+    public static void dfs(int n) {
+        if(visited[n]) {
+            return;
+        }
+
+        visited[n] = true;
+
+        for(int num : arr[n]) {
+            if(!visited[num]) {
+                result[num]++;
+                dfs(num);
+            }
+        }
+    }
+
+    static class Reader {
+        final private int BUFFER_SIZE = 1 << 16;
+        private DataInputStream din;
+        private byte[] buffer;
+        private int bufferPointer, bytesRead;
+
+        public Reader() {
+            din = new DataInputStream(System.in);
+            buffer = new byte[BUFFER_SIZE];
+            bufferPointer = bytesRead = 0;
+        }
+
+        public int nextInt() throws IOException {
+            int ret = 0;
+            byte c = read();
+            while (c <= ' ') {
+                c = read();
+            }
+            boolean neg = (c == '-');
+            if (neg) {
+                c = read();
+            }
+            do {
+                ret = ret * 10 + c - '0';
+            } while ((c = read()) >= '0' && c <= '9');
+
+            if (neg) {
+                return -ret;
+            }
+            return ret;
+        }
+
+        private void fillBuffer() throws IOException {
+            bytesRead = din.read(buffer, bufferPointer = 0, BUFFER_SIZE);
+            if (bytesRead == -1) {
+                buffer[0] = -1;
+            }
+        }
+
+        private byte read() throws IOException {
+            if (bufferPointer == bytesRead) {
+                fillBuffer();
+            }
+            return buffer[bufferPointer++];
+        }
+
+        public void close() throws IOException
+        {
+            if (din == null) {
+                return;
+            }
+            din.close();
+        }
     }
 }
