@@ -21,10 +21,8 @@ public class BaekjoonRe17298 {
             ret[s.pop()] = -1;
         }
 
-        StringBuilder sb = new StringBuilder();
         for(int i : ret)
-            sb.append(i).append(' ');
+            System.out.print(i + " ");
 
-        System.out.println(sb);
     }
 }

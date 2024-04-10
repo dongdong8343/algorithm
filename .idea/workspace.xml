@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="1325 효율적인 해킹 수정">
-      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe17298.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="17298 오큰수" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -277,15 +274,7 @@
       <workItem from="1712495651936" duration="1198000" />
       <workItem from="1712559786540" duration="4622000" />
       <workItem from="1712569616176" duration="5783000" />
-      <workItem from="1712717991730" duration="5322000" />
-    </task>
-    <task id="LOCAL-00040" summary="그래프 연습1">
-      <option name="closed" value="true" />
-      <created>1711006805501</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1711006805501</updated>
+      <workItem from="1712717991730" duration="6028000" />
     </task>
     <task id="LOCAL-00041" summary="dfs 연습">
       <option name="closed" value="true" />
@@ -671,14 +660,21 @@
       <option name="project" value="LOCAL" />
       <updated>1712579350491</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="17298 오큰수">
+      <option name="closed" value="true" />
+      <created>1712725896460</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1712725896460</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2468 안전 영역 재도전" />
     <MESSAGE value="1992 쿼드트리" />
     <MESSAGE value="10709 기상캐스터" />
     <MESSAGE value="NBA 농구 푸는중" />
@@ -703,6 +699,7 @@
     <MESSAGE value="2636 치즈 재재도전" />
     <MESSAGE value="1325 효율적인 해킹" />
     <MESSAGE value="1325 효율적인 해킹 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="1325 효율적인 해킹 수정" />
+    <MESSAGE value="17298 오큰수" />
+    <option name="LAST_COMMIT_MESSAGE" value="17298 오큰수" />
   </component>
 </project>
