@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="17298 오큰수 제도전">
-      <change afterPath="$PROJECT_DIR$/src/BaekjoonReRe14502.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="14502 연구소 재재도전">
+      <change afterPath="$PROJECT_DIR$/src/BaekjoonReRe1068.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekjoonReRe17298.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,9 +106,11 @@
     "Application.BaekjoonRe4375.executor": "Run",
     "Application.BaekjoonRe9375.executor": "Run",
     "Application.BaekjoonRe9996.executor": "Run",
+    "Application.BaekjoonReRe1068.executor": "Run",
     "Application.BaekjoonReRe1213.executor": "Run",
     "Application.BaekjoonReRe14502.executor": "Run",
     "Application.BaekjoonReRe1629.executor": "Run",
+    "Application.BaekjoonReRe17298.executor": "Run",
     "Application.BaekjoonReRe2559.executor": "Run",
     "Application.BaekjoonReRe2636.executor": "Run",
     "Application.BaekjoonReRe2852.executor": "Run",
@@ -133,20 +136,16 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "settings.sync",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BaekjoonReRe14502">
+  <component name="RunManager" selected="Application.BaekjoonReRe17298">
     <configuration name="Baekjoon1325" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon1325" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BaekjoonRe1068" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekjoonRe1068" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -159,6 +158,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BaekjoonReRe1068" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekjoonReRe1068" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BaekjoonReRe14502" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekjoonReRe14502" />
       <module name="Algorithm" />
@@ -166,8 +172,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaekjoonReRe2636" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekjoonReRe2636" />
+    <configuration name="BaekjoonReRe17298" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekjoonReRe17298" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -175,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BaekjoonReRe17298" />
+        <item itemvalue="Application.BaekjoonReRe1068" />
         <item itemvalue="Application.BaekjoonReRe14502" />
         <item itemvalue="Application.BaekjoonRe17298" />
         <item itemvalue="Application.Baekjoon1325" />
-        <item itemvalue="Application.BaekjoonReRe2636" />
-        <item itemvalue="Application.BaekjoonRe1068" />
       </list>
     </recent_temporary>
   </component>
@@ -279,15 +285,9 @@
       <workItem from="1712559786540" duration="4622000" />
       <workItem from="1712569616176" duration="5783000" />
       <workItem from="1712717991730" duration="6971000" />
-      <workItem from="1712802269334" duration="3142000" />
-    </task>
-    <task id="LOCAL-00042" summary="1213 팰린드롬 만들기">
-      <option name="closed" value="true" />
-      <created>1711067302403</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1711067302403</updated>
+      <workItem from="1712802269334" duration="3366000" />
+      <workItem from="1712823896938" duration="1001000" />
+      <workItem from="1712880585027" duration="3252000" />
     </task>
     <task id="LOCAL-00043" summary="dfs 방귀쟁이">
       <option name="closed" value="true" />
@@ -673,14 +673,21 @@
       <option name="project" value="LOCAL" />
       <updated>1712727137509</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="14502 연구소 재재도전">
+      <option name="closed" value="true" />
+      <created>1712812488295</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1712812488296</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="10709 기상캐스터" />
     <MESSAGE value="NBA 농구 푸는중" />
     <MESSAGE value="2852 NBA 농구" />
     <MESSAGE value="2910 빈도 정렬 재도전" />
@@ -705,6 +712,7 @@
     <MESSAGE value="1325 효율적인 해킹 수정" />
     <MESSAGE value="17298 오큰수" />
     <MESSAGE value="17298 오큰수 제도전" />
-    <option name="LAST_COMMIT_MESSAGE" value="17298 오큰수 제도전" />
+    <MESSAGE value="14502 연구소 재재도전" />
+    <option name="LAST_COMMIT_MESSAGE" value="14502 연구소 재재도전" />
   </component>
 </project>
