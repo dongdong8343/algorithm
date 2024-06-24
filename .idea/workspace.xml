@@ -4,29 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="비트마스킹 연습">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon19942.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe15684.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe16637.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe3197.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekjoonReRe12851.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekjoonReRe12869.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekjoonReRe16637.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekjoonReRe17071.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekjoonReRe1987.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekjoonReRe2589.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekjoonReRe3197.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekjoonReRe4179.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekjoonReReRe12851.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekjoonReReRe12869.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekjoonReReRe16637.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekjoonReReRe17071.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekjoonReReRe17298.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekjoonReReRe2589.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekjoonReReRe4179.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="4179 불! 재재재재도전">
+      <change afterPath="$PROJECT_DIR$/src/BaekjoonReReReRe12851.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekjoonReReReRe12869.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekjoonReReReRe15684.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekjoonReReReRe16637.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/BaekjoonReReReRe17298.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +42,7 @@
     "Application.Adj.executor": "Run",
     "Application.Backjoon1406.executor": "Run",
     "Application.Baecjoon10773.executor": "Run",
+    "Application.Baekjon2608.executor": "Run",
     "Application.Baekjoon1012.executor": "Run",
     "Application.Baekjoon1068.executor": "Run",
     "Application.Baekjoon10709.executor": "Run",
@@ -71,6 +56,7 @@
     "Application.Baekjoon11655.executor": "Run",
     "Application.Baekjoon1189.executor": "Run",
     "Application.Baekjoon1213.executor": "Run",
+    "Application.Baekjoon1285.executor": "Run",
     "Application.Baekjoon12851.executor": "Run",
     "Application.Baekjoon12869.executor": "Run",
     "Application.Baekjoon1325.executor": "Run",
@@ -88,6 +74,7 @@
     "Application.Baekjoon16637.executor": "Run",
     "Application.Baekjoon17071.executor": "Run",
     "Application.Baekjoon17298.executor": "Run",
+    "Application.Baekjoon17471.executor": "Run",
     "Application.Baekjoon1874.executor": "Run",
     "Application.Baekjoon1919.executor": "Run",
     "Application.Baekjoon1940.executor": "Run",
@@ -96,6 +83,7 @@
     "Application.Baekjoon19942.executor": "Run",
     "Application.Baekjoon2178.executor": "Run",
     "Application.Baekjoon2309.executor": "Run",
+    "Application.Baekjoon23348.executor": "Run",
     "Application.Baekjoon2468.executor": "Run",
     "Application.Baekjoon2493.executor": "Run",
     "Application.Baekjoon2529.executor": "Run",
@@ -118,6 +106,7 @@
     "Application.Baekjoon4659.executor": "Run",
     "Application.Baekjoon4949.executor": "Run",
     "Application.Baekjoon5397.executor": "Run",
+    "Application.Baekjoon5426.executor": "Run",
     "Application.Baekjoon6198.executor": "Run",
     "Application.Baekjoon6549.executor": "Run",
     "Application.Baekjoon9012.executor": "Run",
@@ -126,6 +115,7 @@
     "Application.Baekjoon9996.executor": "Run",
     "Application.BaekjoonRe1068.executor": "Run",
     "Application.BaekjoonRe1213.executor": "Run",
+    "Application.BaekjoonRe1285.executor": "Run",
     "Application.BaekjoonRe12851.executor": "Run",
     "Application.BaekjoonRe12869.executor": "Run",
     "Application.BaekjoonRe1436.executor": "Run",
@@ -138,6 +128,7 @@
     "Application.BaekjoonRe17298.executor": "Run",
     "Application.BaekjoonRe1987.executor": "Run",
     "Application.BaekjoonRe1992.executor": "Run",
+    "Application.BaekjoonRe19942.executor": "Run",
     "Application.BaekjoonRe2309.executor": "Run",
     "Application.BaekjoonRe2468.executor": "Run",
     "Application.BaekjoonRe2559.executor": "Run",
@@ -155,14 +146,18 @@
     "Application.BaekjoonRe9996.executor": "Run",
     "Application.BaekjoonReRe1068.executor": "Run",
     "Application.BaekjoonReRe1213.executor": "Run",
+    "Application.BaekjoonReRe1285.executor": "Run",
     "Application.BaekjoonReRe12851.executor": "Run",
     "Application.BaekjoonReRe12869.executor": "Run",
     "Application.BaekjoonReRe14502.executor": "Run",
+    "Application.BaekjoonReRe15684.executor": "Run",
     "Application.BaekjoonReRe1629.executor": "Run",
     "Application.BaekjoonReRe16637.executor": "Run",
     "Application.BaekjoonReRe17071.executor": "Run",
     "Application.BaekjoonReRe17298.executor": "Run",
     "Application.BaekjoonReRe1987.executor": "Run",
+    "Application.BaekjoonReRe19942 (1).executor": "Run",
+    "Application.BaekjoonReRe19942.executor": "Run",
     "Application.BaekjoonReRe2559.executor": "Run",
     "Application.BaekjoonReRe2589.executor": "Run",
     "Application.BaekjoonReRe2636.executor": "Run",
@@ -175,18 +170,28 @@
     "Application.BaekjoonReRe4375.executor": "Run",
     "Application.BaekjoonReRe9996.executor": "Run",
     "Application.BaekjoonReReRe1068.executor": "Run",
+    "Application.BaekjoonReReRe1285.executor": "Run",
     "Application.BaekjoonReReRe12851.executor": "Run",
     "Application.BaekjoonReReRe12869.executor": "Run",
     "Application.BaekjoonReReRe14502.executor": "Run",
+    "Application.BaekjoonReReRe15684.executor": "Run",
     "Application.BaekjoonReReRe1629.executor": "Run",
     "Application.BaekjoonReReRe16637.executor": "Run",
     "Application.BaekjoonReReRe17071.executor": "Run",
     "Application.BaekjoonReReRe17298.executor": "Run",
+    "Application.BaekjoonReReRe19942.executor": "Run",
     "Application.BaekjoonReReRe2589.executor": "Run",
     "Application.BaekjoonReReRe2636.executor": "Run",
+    "Application.BaekjoonReReRe3197.executor": "Run",
     "Application.BaekjoonReReRe4179.executor": "Run",
     "Application.BaekjoonReReReRe1068.executor": "Run",
+    "Application.BaekjoonReReReRe12851.executor": "Run",
+    "Application.BaekjoonReReReRe12869.executor": "Run",
+    "Application.BaekjoonReReReRe15684.executor": "Run",
+    "Application.BaekjoonReReReRe16637.executor": "Run",
     "Application.BaekjoonReReReRe17298.executor": "Run",
+    "Application.BaekjoonReReReRe2589.executor": "Run",
+    "Application.BaekjoonReReReRe4179.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.PracticeDFS.executor": "Run",
     "Application.bfsCarret.executor": "Run",
@@ -199,7 +204,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/fkdle/OneDrive/바탕 화면/study/Algorithm",
+    "last_opened_file_path": "C:/Users/fkdle/OneDrive/바탕 화면/study/java_class",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -212,37 +217,37 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon19942">
-    <configuration name="Baekjoon1189" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon1189" />
+  <component name="RunManager" selected="Application.BaekjoonReReReRe12851">
+    <configuration name="BaekjoonReReRe1285" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekjoonReReRe1285" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon14620" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon14620" />
+    <configuration name="BaekjoonReReReRe12851" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekjoonReReReRe12851" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon19942" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon19942" />
+    <configuration name="BaekjoonReReReRe12869" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekjoonReReReRe12869" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bitmasking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bitmasking" />
+    <configuration name="BaekjoonReReReRe16637" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekjoonReReReRe16637" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice" />
+    <configuration name="BaekjoonReReReRe4179" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekjoonReReReRe4179" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -250,11 +255,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Baekjoon19942" />
-        <item itemvalue="Application.practice" />
-        <item itemvalue="Application.bitmasking" />
-        <item itemvalue="Application.Baekjoon1189" />
-        <item itemvalue="Application.Baekjoon14620" />
+        <item itemvalue="Application.BaekjoonReReReRe12851" />
+        <item itemvalue="Application.BaekjoonReReReRe16637" />
+        <item itemvalue="Application.BaekjoonReReReRe12869" />
+        <item itemvalue="Application.BaekjoonReReReRe4179" />
+        <item itemvalue="Application.BaekjoonReReRe1285" />
       </list>
     </recent_temporary>
   </component>
@@ -402,287 +407,41 @@
       <workItem from="1715922948568" duration="2797000" />
       <workItem from="1716023298913" duration="12872000" />
       <workItem from="1716084568285" duration="7978000" />
-      <workItem from="1716196077164" duration="8657000" />
-    </task>
-    <task id="LOCAL-00076" summary="1629 곱셈 재재재도전">
-      <option name="closed" value="true" />
-      <created>1712111364512</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1712111364512</updated>
-    </task>
-    <task id="LOCAL-00077" summary="2910 빈도 정렬 재재도전">
-      <option name="closed" value="true" />
-      <created>1712112685713</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1712112685713</updated>
-    </task>
-    <task id="LOCAL-00078" summary="2870 수학숙제 재재도전">
-      <option name="closed" value="true" />
-      <created>1712115311359</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1712115311359</updated>
-    </task>
-    <task id="LOCAL-00079" summary="2636 치즈">
-      <option name="closed" value="true" />
-      <created>1712227398661</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1712227398662</updated>
-    </task>
-    <task id="LOCAL-00080" summary="1436 영화감독 숌">
-      <option name="closed" value="true" />
-      <created>1712292542077</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1712292542077</updated>
-    </task>
-    <task id="LOCAL-00081" summary="14502 연구소 재도전">
-      <option name="closed" value="true" />
-      <created>1712374563663</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1712374563664</updated>
-    </task>
-    <task id="LOCAL-00082" summary="1436 영화감독 숌 재도전">
-      <option name="closed" value="true" />
-      <created>1712374581559</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1712374581560</updated>
-    </task>
-    <task id="LOCAL-00083" summary="1068 트리">
-      <option name="closed" value="true" />
-      <created>1712385939252</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1712385939252</updated>
-    </task>
-    <task id="LOCAL-00084" summary="2636 치즈 재도전">
-      <option name="closed" value="true" />
-      <created>1712385957672</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
-      <option name="project" value="LOCAL" />
-      <updated>1712385957672</updated>
-    </task>
-    <task id="LOCAL-00085" summary="1068 트리 재도전">
-      <option name="closed" value="true" />
-      <created>1712496775610</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1712496775611</updated>
-    </task>
-    <task id="LOCAL-00086" summary="2636 치즈 재재도전">
-      <option name="closed" value="true" />
-      <created>1712560679421</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1712560679421</updated>
-    </task>
-    <task id="LOCAL-00087" summary="1325 효율적인 해킹">
-      <option name="closed" value="true" />
-      <created>1712576394706</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
-      <option name="project" value="LOCAL" />
-      <updated>1712576394706</updated>
-    </task>
-    <task id="LOCAL-00088" summary="1325 효율적인 해킹 수정">
-      <option name="closed" value="true" />
-      <created>1712579350491</created>
-      <option name="number" value="00088" />
-      <option name="presentableId" value="LOCAL-00088" />
-      <option name="project" value="LOCAL" />
-      <updated>1712579350491</updated>
-    </task>
-    <task id="LOCAL-00089" summary="17298 오큰수">
-      <option name="closed" value="true" />
-      <created>1712725896460</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1712725896460</updated>
-    </task>
-    <task id="LOCAL-00090" summary="17298 오큰수 제도전">
-      <option name="closed" value="true" />
-      <created>1712727137509</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1712727137509</updated>
-    </task>
-    <task id="LOCAL-00091" summary="14502 연구소 재재도전">
-      <option name="closed" value="true" />
-      <created>1712812488295</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1712812488296</updated>
-    </task>
-    <task id="LOCAL-00092" summary="17298 오큰수 재재도전">
-      <option name="closed" value="true" />
-      <created>1712884932414</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1712884932414</updated>
-    </task>
-    <task id="LOCAL-00093" summary="1068 트리 재재도전">
-      <option name="closed" value="true" />
-      <created>1712884950097</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1712884950097</updated>
-    </task>
-    <task id="LOCAL-00094" summary="3474 교수가 된 현우 재재도전">
-      <option name="closed" value="true" />
-      <created>1713141076851</created>
-      <option name="number" value="00094" />
-      <option name="presentableId" value="LOCAL-00094" />
-      <option name="project" value="LOCAL" />
-      <updated>1713141076851</updated>
-    </task>
-    <task id="LOCAL-00095" summary="1068 트리 재재재도전">
-      <option name="closed" value="true" />
-      <created>1713227588216</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1713227588216</updated>
-    </task>
-    <task id="LOCAL-00096" summary="2908 상수">
-      <option name="closed" value="true" />
-      <created>1713313571302</created>
-      <option name="number" value="00096" />
-      <option name="presentableId" value="LOCAL-00096" />
-      <option name="project" value="LOCAL" />
-      <updated>1713313571302</updated>
-    </task>
-    <task id="LOCAL-00097" summary="17298 오큰수 재재도전">
-      <option name="closed" value="true" />
-      <created>1713492450291</created>
-      <option name="number" value="00097" />
-      <option name="presentableId" value="LOCAL-00097" />
-      <option name="project" value="LOCAL" />
-      <updated>1713492450292</updated>
-    </task>
-    <task id="LOCAL-00098" summary="15686 치킨 배달">
-      <option name="closed" value="true" />
-      <created>1714311400932</created>
-      <option name="number" value="00098" />
-      <option name="presentableId" value="LOCAL-00098" />
-      <option name="project" value="LOCAL" />
-      <updated>1714311400932</updated>
-    </task>
-    <task id="LOCAL-00099" summary="1068 트리 재재재재도전">
-      <option name="closed" value="true" />
-      <created>1714392154201</created>
-      <option name="number" value="00099" />
-      <option name="presentableId" value="LOCAL-00099" />
-      <option name="project" value="LOCAL" />
-      <updated>1714392154202</updated>
-    </task>
-    <task id="LOCAL-00100" summary="2589 보물섬">
-      <option name="closed" value="true" />
-      <created>1714441169917</created>
-      <option name="number" value="00100" />
-      <option name="presentableId" value="LOCAL-00100" />
-      <option name="project" value="LOCAL" />
-      <updated>1714441169917</updated>
-    </task>
-    <task id="LOCAL-00101" summary="16234 인구 이동">
-      <option name="closed" value="true" />
-      <created>1714477864268</created>
-      <option name="number" value="00101" />
-      <option name="presentableId" value="LOCAL-00101" />
-      <option name="project" value="LOCAL" />
-      <updated>1714477864268</updated>
-    </task>
-    <task id="LOCAL-00102" summary=" 2636 치즈">
-      <option name="closed" value="true" />
-      <created>1714572073600</created>
-      <option name="number" value="00102" />
-      <option name="presentableId" value="LOCAL-00102" />
-      <option name="project" value="LOCAL" />
-      <updated>1714572073600</updated>
-    </task>
-    <task id="LOCAL-00103" summary="4179 불!">
-      <option name="closed" value="true" />
-      <created>1714633027279</created>
-      <option name="number" value="00103" />
-      <option name="presentableId" value="LOCAL-00103" />
-      <option name="project" value="LOCAL" />
-      <updated>1714633027279</updated>
-    </task>
-    <task id="LOCAL-00104" summary="12869 뮤탈리스크">
-      <option name="closed" value="true" />
-      <created>1714708831920</created>
-      <option name="number" value="00104" />
-      <option name="presentableId" value="LOCAL-00104" />
-      <option name="project" value="LOCAL" />
-      <updated>1714708831921</updated>
-    </task>
-    <task id="LOCAL-00105" summary="2589 보물섬 재도전">
-      <option name="closed" value="true" />
-      <created>1714788593990</created>
-      <option name="number" value="00105" />
-      <option name="presentableId" value="LOCAL-00105" />
-      <option name="project" value="LOCAL" />
-      <updated>1714788593990</updated>
-    </task>
-    <task id="LOCAL-00106" summary="12851 숨바꼭질 2">
-      <option name="closed" value="true" />
-      <created>1714883292894</created>
-      <option name="number" value="00106" />
-      <option name="presentableId" value="LOCAL-00106" />
-      <option name="project" value="LOCAL" />
-      <updated>1714883292894</updated>
-    </task>
-    <task id="LOCAL-00107" summary="13913 숨바꼭질 4">
-      <option name="closed" value="true" />
-      <created>1714897791820</created>
-      <option name="number" value="00107" />
-      <option name="presentableId" value="LOCAL-00107" />
-      <option name="project" value="LOCAL" />
-      <updated>1714897791820</updated>
-    </task>
-    <task id="LOCAL-00108" summary="4179 불! 재도전">
-      <option name="closed" value="true" />
-      <created>1714960503793</created>
-      <option name="number" value="00108" />
-      <option name="presentableId" value="LOCAL-00108" />
-      <option name="project" value="LOCAL" />
-      <updated>1714960503793</updated>
-    </task>
-    <task id="LOCAL-00109" summary="17071 숨바꼭질 5">
-      <option name="closed" value="true" />
-      <created>1714976832720</created>
-      <option name="number" value="00109" />
-      <option name="presentableId" value="LOCAL-00109" />
-      <option name="project" value="LOCAL" />
-      <updated>1714976832720</updated>
-    </task>
-    <task id="LOCAL-00110" summary="14497 주난의 난">
-      <option name="closed" value="true" />
-      <created>1715046207515</created>
-      <option name="number" value="00110" />
-      <option name="presentableId" value="LOCAL-00110" />
-      <option name="project" value="LOCAL" />
-      <updated>1715046207516</updated>
+      <workItem from="1716196077164" duration="9425000" />
+      <workItem from="1716250242635" duration="6902000" />
+      <workItem from="1716292772160" duration="670000" />
+      <workItem from="1716347375166" duration="2593000" />
+      <workItem from="1716413370226" duration="1078000" />
+      <workItem from="1716432560236" duration="12865000" />
+      <workItem from="1716498321852" duration="4150000" />
+      <workItem from="1716595525025" duration="3571000" />
+      <workItem from="1716675364481" duration="884000" />
+      <workItem from="1716718849792" duration="6416000" />
+      <workItem from="1717025945790" duration="4595000" />
+      <workItem from="1717057435286" duration="151000" />
+      <workItem from="1717113926978" duration="2232000" />
+      <workItem from="1717126620495" duration="68000" />
+      <workItem from="1717194325794" duration="2333000" />
+      <workItem from="1717362458406" duration="3740000" />
+      <workItem from="1717385205116" duration="55000" />
+      <workItem from="1717448262149" duration="2689000" />
+      <workItem from="1717516385567" duration="3000" />
+      <workItem from="1717592213463" duration="44000" />
+      <workItem from="1717720204089" duration="5201000" />
+      <workItem from="1717850223437" duration="404000" />
+      <workItem from="1717987861703" duration="86000" />
+      <workItem from="1718108191108" duration="54000" />
+      <workItem from="1718200358147" duration="56000" />
+      <workItem from="1718245915546" duration="71000" />
+      <workItem from="1718334686505" duration="68000" />
+      <workItem from="1718458892880" duration="58000" />
+      <workItem from="1718632372910" duration="49000" />
+      <workItem from="1718696543279" duration="82000" />
+      <workItem from="1718757480308" duration="50000" />
+      <workItem from="1718757540744" duration="167000" />
+      <workItem from="1718940742078" duration="78000" />
+      <workItem from="1719138656259" duration="719000" />
+      <workItem from="1719189355155" duration="4841000" />
     </task>
     <task id="LOCAL-00111" summary="16637 괄호 추가하기">
       <option name="closed" value="true" />
@@ -796,38 +555,318 @@
       <option name="project" value="LOCAL" />
       <updated>1716196499684</updated>
     </task>
-    <option name="localTasksCounter" value="125" />
+    <task id="LOCAL-00125" summary="19942 다이어트">
+      <option name="closed" value="true" />
+      <created>1716206083509</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1716206083510</updated>
+    </task>
+    <task id="LOCAL-00126" summary="3197 백조의 호수 재도전">
+      <option name="closed" value="true" />
+      <created>1716263230564</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1716263230564</updated>
+    </task>
+    <task id="LOCAL-00127" summary="1285 동전 뒤집기">
+      <option name="closed" value="true" />
+      <created>1716350651468</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1716350651468</updated>
+    </task>
+    <task id="LOCAL-00128" summary="1285 동전 뒤집기 재도전">
+      <option name="closed" value="true" />
+      <created>1716414439094</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1716414439094</updated>
+    </task>
+    <task id="LOCAL-00129" summary="17471 게리맨더링">
+      <option name="closed" value="true" />
+      <created>1716598154862</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1716598154862</updated>
+    </task>
+    <task id="LOCAL-00130" summary="15684 사다리 조작">
+      <option name="closed" value="true" />
+      <created>1716676203093</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1716676203094</updated>
+    </task>
+    <task id="LOCAL-00131" summary="16637 괄호 추가하기">
+      <option name="closed" value="true" />
+      <created>1716676233430</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1716676233431</updated>
+    </task>
+    <task id="LOCAL-00132" summary="2608 로마 숫자">
+      <option name="closed" value="true" />
+      <created>1716726334560</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1716726334560</updated>
+    </task>
+    <task id="LOCAL-00133" summary="5426 비밀 편지">
+      <option name="closed" value="true" />
+      <created>1716726355872</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1716726355872</updated>
+    </task>
+    <task id="LOCAL-00134" summary="23348 스트릿 코딩 파이터">
+      <option name="closed" value="true" />
+      <created>1716726381930</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1716726381930</updated>
+    </task>
+    <task id="LOCAL-00135" summary="19942 다이어트">
+      <option name="closed" value="true" />
+      <created>1717030497421</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1717030497421</updated>
+    </task>
+    <task id="LOCAL-00136" summary="1285 동전 뒤집기">
+      <option name="closed" value="true" />
+      <created>1717030532528</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1717030532528</updated>
+    </task>
+    <task id="LOCAL-00137" summary="1987 알파벳">
+      <option name="closed" value="true" />
+      <created>1717116072073</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1717116072073</updated>
+    </task>
+    <task id="LOCAL-00138" summary="2589 보물섬 재재도전">
+      <option name="closed" value="true" />
+      <created>1717116150500</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1717116150500</updated>
+    </task>
+    <task id="LOCAL-00139" summary="3197 백조의 호수">
+      <option name="closed" value="true" />
+      <created>1717196638248</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1717196638248</updated>
+    </task>
+    <task id="LOCAL-00140" summary="4179 불! 재재도전">
+      <option name="closed" value="true" />
+      <created>1717196656600</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1717196656600</updated>
+    </task>
+    <task id="LOCAL-00141" summary="12851 숨바꼭질 2 재재도전">
+      <option name="closed" value="true" />
+      <created>1717363999251</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1717363999252</updated>
+    </task>
+    <task id="LOCAL-00142" summary="12869 뮤탈리스크 재재도전">
+      <option name="closed" value="true" />
+      <created>1717364025084</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1717364025084</updated>
+    </task>
+    <task id="LOCAL-00143" summary="15684 사다리 조작 재재도전">
+      <option name="closed" value="true" />
+      <created>1717450920272</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1717450920272</updated>
+    </task>
+    <task id="LOCAL-00144" summary="16637 괄호 추가하기 재재도전">
+      <option name="closed" value="true" />
+      <created>1717450939486</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1717450939486</updated>
+    </task>
+    <task id="LOCAL-00145" summary="17071 숨바꼭질 5 재재도전">
+      <option name="closed" value="true" />
+      <created>1717592243570</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1717592243571</updated>
+    </task>
+    <task id="LOCAL-00146" summary="19942 다이어트 재재도전">
+      <option name="closed" value="true" />
+      <created>1717729850382</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1717729850383</updated>
+    </task>
+    <task id="LOCAL-00147" summary="1285 숨바꼭질 2 재재재도전">
+      <option name="closed" value="true" />
+      <created>1717729867924</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1717729867924</updated>
+    </task>
+    <task id="LOCAL-00148" summary="2589 보물섬 재재재도전">
+      <option name="closed" value="true" />
+      <created>1717850611039</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1717850611040</updated>
+    </task>
+    <task id="LOCAL-00149" summary="3197 백조의호수 재재재도전">
+      <option name="closed" value="true" />
+      <created>1717987924689</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1717987924689</updated>
+    </task>
+    <task id="LOCAL-00150" summary="4179 불! 재재재도전">
+      <option name="closed" value="true" />
+      <created>1718108232476</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1718108232476</updated>
+    </task>
+    <task id="LOCAL-00151" summary="12851 숨바꼭질 2 재재재도전">
+      <option name="closed" value="true" />
+      <created>1718200393672</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1718200393672</updated>
+    </task>
+    <task id="LOCAL-00152" summary="12869 뮤탈리스크 재재재도전">
+      <option name="closed" value="true" />
+      <created>1718245960297</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1718245960297</updated>
+    </task>
+    <task id="LOCAL-00153" summary="15684 사다리 조작 재재재도전">
+      <option name="closed" value="true" />
+      <created>1718334727869</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1718334727870</updated>
+    </task>
+    <task id="LOCAL-00154" summary="16637 괄호 추가하기 재재재도전">
+      <option name="closed" value="true" />
+      <created>1718458931332</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
+      <option name="project" value="LOCAL" />
+      <updated>1718458931332</updated>
+    </task>
+    <task id="LOCAL-00155" summary="17071 숨바꼭질 5 재재재도전">
+      <option name="closed" value="true" />
+      <created>1718632406053</created>
+      <option name="number" value="00155" />
+      <option name="presentableId" value="LOCAL-00155" />
+      <option name="project" value="LOCAL" />
+      <updated>1718632406053</updated>
+    </task>
+    <task id="LOCAL-00156" summary="17298 오큰수 재재재도전">
+      <option name="closed" value="true" />
+      <created>1718696605908</created>
+      <option name="number" value="00156" />
+      <option name="presentableId" value="LOCAL-00156" />
+      <option name="project" value="LOCAL" />
+      <updated>1718696605908</updated>
+    </task>
+    <task id="LOCAL-00157" summary="19942 다이어트 재재재도전">
+      <option name="closed" value="true" />
+      <created>1718757510874</created>
+      <option name="number" value="00157" />
+      <option name="presentableId" value="LOCAL-00157" />
+      <option name="project" value="LOCAL" />
+      <updated>1718757510875</updated>
+    </task>
+    <task id="LOCAL-00158" summary="2589 보물섬 재재재재도전">
+      <option name="closed" value="true" />
+      <created>1718940803185</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
+      <option name="project" value="LOCAL" />
+      <updated>1718940803185</updated>
+    </task>
+    <task id="LOCAL-00159" summary="4179 불! 재재재재도전">
+      <option name="closed" value="true" />
+      <created>1719139416304</created>
+      <option name="number" value="00159" />
+      <option name="presentableId" value="LOCAL-00159" />
+      <option name="project" value="LOCAL" />
+      <updated>1719139416305</updated>
+    </task>
+    <option name="localTasksCounter" value="160" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1068 트리 재재재재도전" />
-    <MESSAGE value="2589 보물섬" />
-    <MESSAGE value="16234 인구 이동" />
-    <MESSAGE value=" 2636 치즈" />
-    <MESSAGE value="4179 불!" />
-    <MESSAGE value="12869 뮤탈리스크" />
-    <MESSAGE value="2589 보물섬 재도전" />
-    <MESSAGE value="12851 숨바꼭질 2" />
-    <MESSAGE value="13913 숨바꼭질 4" />
-    <MESSAGE value="4179 불! 재도전" />
-    <MESSAGE value="14497 주난의 난" />
-    <MESSAGE value="16637 괄호 추가하기" />
-    <MESSAGE value="3197 백조의 호수" />
-    <MESSAGE value="17071 숨바꼭질 5" />
-    <MESSAGE value="14502  연구소" />
-    <MESSAGE value="12851 숨바꼭질 2 재도전" />
-    <MESSAGE value="12869 뮤탈리스크 재도전" />
+    <MESSAGE value="19942 다이어트" />
+    <MESSAGE value="1285 동전 뒤집기" />
     <MESSAGE value="1987 알파벳" />
-    <MESSAGE value="15684 사다리 조작" />
-    <MESSAGE value="2529 부등호" />
-    <MESSAGE value="9934 완전 이진 트리" />
-    <MESSAGE value="1987 알파벳 재도전" />
-    <MESSAGE value="14620 꽃길" />
-    <MESSAGE value="1189 컴백홈" />
-    <MESSAGE value="비트마스킹 연습" />
-    <option name="LAST_COMMIT_MESSAGE" value="비트마스킹 연습" />
+    <MESSAGE value="2589 보물섬 재재도전" />
+    <MESSAGE value="3197 백조의 호수" />
+    <MESSAGE value="4179 불! 재재도전" />
+    <MESSAGE value="12851 숨바꼭질 2 재재도전" />
+    <MESSAGE value="12869 뮤탈리스크 재재도전" />
+    <MESSAGE value="15684 사다리 조작 재재도전" />
+    <MESSAGE value="16637 괄호 추가하기 재재도전" />
+    <MESSAGE value="17071 숨바꼭질 5 재재도전" />
+    <MESSAGE value="19942 다이어트 재재도전" />
+    <MESSAGE value="1285 숨바꼭질 2 재재재도전" />
+    <MESSAGE value="2589 보물섬 재재재도전" />
+    <MESSAGE value="3197 백조의호수 재재재도전" />
+    <MESSAGE value="4179 불! 재재재도전" />
+    <MESSAGE value="12851 숨바꼭질 2 재재재도전" />
+    <MESSAGE value="12869 뮤탈리스크 재재재도전" />
+    <MESSAGE value="15684 사다리 조작 재재재도전" />
+    <MESSAGE value="16637 괄호 추가하기 재재재도전" />
+    <MESSAGE value="17071 숨바꼭질 5 재재재도전" />
+    <MESSAGE value="17298 오큰수 재재재도전" />
+    <MESSAGE value="19942 다이어트 재재재도전" />
+    <MESSAGE value="2589 보물섬 재재재재도전" />
+    <MESSAGE value="4179 불! 재재재재도전" />
+    <option name="LAST_COMMIT_MESSAGE" value="4179 불! 재재재재도전" />
   </component>
 </project>
