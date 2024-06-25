@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="19942 다이어트 재재재재도전">
-      <change afterPath="$PROJECT_DIR$/src/BaekjoonReReReRe1285.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="1285 동전 뒤집기 재재재재도전">
+      <change afterPath="$PROJECT_DIR$/src/BaekjoonBit1987.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -109,6 +109,7 @@
     "Application.Baekjoon9375.executor": "Run",
     "Application.Baekjoon9934.executor": "Run",
     "Application.Baekjoon9996.executor": "Run",
+    "Application.BaekjoonBit1987.executor": "Run",
     "Application.BaekjoonRe1068.executor": "Run",
     "Application.BaekjoonRe1213.executor": "Run",
     "Application.BaekjoonRe1285.executor": "Run",
@@ -220,9 +221,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BaekjoonReReReRe1285">
-    <configuration name="BaekjoonReReRe1987" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekjoonReReRe1987" />
+  <component name="RunManager" selected="Application.BaekjoonBit1987">
+    <configuration name="BaekjoonBit1987" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekjoonBit1987" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -258,11 +259,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BaekjoonBit1987" />
         <item itemvalue="Application.BaekjoonReReReRe1285" />
         <item itemvalue="Application.BaekjoonReReReRe19942" />
         <item itemvalue="Application.BaekjoonReReReReRe12851" />
         <item itemvalue="Application.BaekjoonReReReReRe15684" />
-        <item itemvalue="Application.BaekjoonReReRe1987" />
       </list>
     </recent_temporary>
   </component>
@@ -445,15 +446,7 @@
       <workItem from="1718940742078" duration="78000" />
       <workItem from="1719138656259" duration="719000" />
       <workItem from="1719189355155" duration="22386000" />
-      <workItem from="1719275084367" duration="7083000" />
-    </task>
-    <task id="LOCAL-00118" summary="15684 사다리 조작">
-      <option name="closed" value="true" />
-      <created>1715861352229</created>
-      <option name="number" value="00118" />
-      <option name="presentableId" value="LOCAL-00118" />
-      <option name="project" value="LOCAL" />
-      <updated>1715861352229</updated>
+      <workItem from="1719275084367" duration="13416000" />
     </task>
     <task id="LOCAL-00119" summary="2529 부등호">
       <option name="closed" value="true" />
@@ -839,14 +832,21 @@
       <option name="project" value="LOCAL" />
       <updated>1719281679363</updated>
     </task>
-    <option name="localTasksCounter" value="167" />
+    <task id="LOCAL-00167" summary="1285 동전 뒤집기 재재재재도전">
+      <option name="closed" value="true" />
+      <created>1719283760328</created>
+      <option name="number" value="00167" />
+      <option name="presentableId" value="LOCAL-00167" />
+      <option name="project" value="LOCAL" />
+      <updated>1719283760328</updated>
+    </task>
+    <option name="localTasksCounter" value="168" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="12869 뮤탈리스크 재재도전" />
     <MESSAGE value="15684 사다리 조작 재재도전" />
     <MESSAGE value="16637 괄호 추가하기 재재도전" />
     <MESSAGE value="17071 숨바꼭질 5 재재도전" />
@@ -871,6 +871,7 @@
     <MESSAGE value="15684 사다리 조작 재재재재재도전" />
     <MESSAGE value="12851 숨바꼭질 2 재재재재재도전" />
     <MESSAGE value="19942 다이어트 재재재재도전" />
-    <option name="LAST_COMMIT_MESSAGE" value="19942 다이어트 재재재재도전" />
+    <MESSAGE value="1285 동전 뒤집기 재재재재도전" />
+    <option name="LAST_COMMIT_MESSAGE" value="1285 동전 뒤집기 재재재재도전" />
   </component>
 </project>
