@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="14890 경사로">
-      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe14391.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="14391 종이 조각">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon5430.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -110,6 +110,7 @@
     "Application.Baekjoon4949.executor": "Run",
     "Application.Baekjoon5397.executor": "Run",
     "Application.Baekjoon5426.executor": "Run",
+    "Application.Baekjoon5430.executor": "Run",
     "Application.Baekjoon6198.executor": "Run",
     "Application.Baekjoon6549.executor": "Run",
     "Application.Baekjoon9012.executor": "Run",
@@ -238,7 +239,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BaekjoonRe14391">
+  <component name="RunManager" selected="Application.Baekjoon5430">
     <configuration name="Baekjoon13244" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon13244" />
       <module name="Algorithm" />
@@ -246,8 +247,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon14391" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon14391" />
+    <configuration name="Baekjoon5430" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon5430" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -276,11 +277,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baekjoon5430" />
         <item itemvalue="Application.BaekjoonRe14391" />
         <item itemvalue="Application.BaekjoonReRe14890" />
         <item itemvalue="Application.BaekjoonReReReReRe1285" />
         <item itemvalue="Application.Baekjoon13244" />
-        <item itemvalue="Application.Baekjoon14391" />
       </list>
     </recent_temporary>
   </component>
@@ -469,15 +470,7 @@
       <workItem from="1719475948381" duration="603000" />
       <workItem from="1719537557765" duration="4350000" />
       <workItem from="1719548234095" duration="6211000" />
-      <workItem from="1719626217245" duration="5681000" />
-    </task>
-    <task id="LOCAL-00135" summary="19942 다이어트">
-      <option name="closed" value="true" />
-      <created>1717030497421</created>
-      <option name="number" value="00135" />
-      <option name="presentableId" value="LOCAL-00135" />
-      <option name="project" value="LOCAL" />
-      <updated>1717030497421</updated>
+      <workItem from="1719626217245" duration="11908000" />
     </task>
     <task id="LOCAL-00136" summary="1285 동전 뒤집기">
       <option name="closed" value="true" />
@@ -863,7 +856,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719631995990</updated>
     </task>
-    <option name="localTasksCounter" value="184" />
+    <task id="LOCAL-00184" summary="14391 종이 조각">
+      <option name="closed" value="true" />
+      <created>1719635684311</created>
+      <option name="number" value="00184" />
+      <option name="presentableId" value="LOCAL-00184" />
+      <option name="project" value="LOCAL" />
+      <updated>1719635684311</updated>
+    </task>
+    <option name="localTasksCounter" value="185" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -890,11 +891,11 @@
     <MESSAGE value="2234 성곽" />
     <MESSAGE value="11723 집합" />
     <MESSAGE value="15684 사다리 조작 오답(6)" />
-    <MESSAGE value="14391 종이 조각" />
     <MESSAGE value="11723 집합 오답(1)" />
     <MESSAGE value="13244 Tree" />
     <MESSAGE value="1285 동전 뒤집기 오답(5)" />
     <MESSAGE value="14890 경사로" />
-    <option name="LAST_COMMIT_MESSAGE" value="14890 경사로" />
+    <MESSAGE value="14391 종이 조각" />
+    <option name="LAST_COMMIT_MESSAGE" value="14391 종이 조각" />
   </component>
 </project>
