@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="5430 AC">
-      <change afterPath="$PROJECT_DIR$/src/BaekjoonReReReReReRe3197.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="3197 백조의 호수">
+      <change afterPath="$PROJECT_DIR$/src/BaekjoonReRe1062.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -153,6 +153,7 @@
     "Application.BaekjoonRe4375.executor": "Run",
     "Application.BaekjoonRe9375.executor": "Run",
     "Application.BaekjoonRe9996.executor": "Run",
+    "Application.BaekjoonReRe1062.executor": "Run",
     "Application.BaekjoonReRe1068.executor": "Run",
     "Application.BaekjoonReRe1213.executor": "Run",
     "Application.BaekjoonReRe1285.executor": "Run",
@@ -240,7 +241,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BaekjoonReReReReReRe3197">
+  <component name="RunManager" selected="Application.BaekjoonReRe1062">
     <configuration name="Baekjoon5430" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon5430" />
       <module name="Algorithm" />
@@ -255,15 +256,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaekjoonReRe14890" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekjoonReRe14890" />
+    <configuration name="BaekjoonReRe1062" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekjoonReRe1062" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaekjoonReReReReRe1285" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekjoonReReReReRe1285" />
+    <configuration name="BaekjoonReRe14890" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekjoonReRe14890" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -278,11 +279,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BaekjoonReRe1062" />
         <item itemvalue="Application.BaekjoonReReReReReRe3197" />
         <item itemvalue="Application.Baekjoon5430" />
         <item itemvalue="Application.BaekjoonRe14391" />
         <item itemvalue="Application.BaekjoonReRe14890" />
-        <item itemvalue="Application.BaekjoonReReReReRe1285" />
       </list>
     </recent_temporary>
   </component>
@@ -473,15 +474,7 @@
       <workItem from="1719548234095" duration="6211000" />
       <workItem from="1719626217245" duration="11908000" />
       <workItem from="1719644945411" duration="45000" />
-      <workItem from="1719726205167" duration="2657000" />
-    </task>
-    <task id="LOCAL-00137" summary="1987 알파벳">
-      <option name="closed" value="true" />
-      <created>1717116072073</created>
-      <option name="number" value="00137" />
-      <option name="presentableId" value="LOCAL-00137" />
-      <option name="project" value="LOCAL" />
-      <updated>1717116072073</updated>
+      <workItem from="1719726205167" duration="4477000" />
     </task>
     <task id="LOCAL-00138" summary="2589 보물섬 재재도전">
       <option name="closed" value="true" />
@@ -867,14 +860,21 @@
       <option name="project" value="LOCAL" />
       <updated>1719644976820</updated>
     </task>
-    <option name="localTasksCounter" value="186" />
+    <task id="LOCAL-00186" summary="3197 백조의 호수">
+      <option name="closed" value="true" />
+      <created>1719729082602</created>
+      <option name="number" value="00186" />
+      <option name="presentableId" value="LOCAL-00186" />
+      <option name="project" value="LOCAL" />
+      <updated>1719729082602</updated>
+    </task>
+    <option name="localTasksCounter" value="187" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="4179 불! 재재재재도전" />
     <MESSAGE value="12851 숨바꼭질2 재재재재도전" />
     <MESSAGE value="17071 숨바꼭질5 재재재재도전" />
     <MESSAGE value="3197 백조의 호수 재재재재도전" />
@@ -899,6 +899,7 @@
     <MESSAGE value="14890 경사로" />
     <MESSAGE value="14391 종이 조각" />
     <MESSAGE value="5430 AC" />
-    <option name="LAST_COMMIT_MESSAGE" value="5430 AC" />
+    <MESSAGE value="3197 백조의 호수" />
+    <option name="LAST_COMMIT_MESSAGE" value="3197 백조의 호수" />
   </component>
 </project>
