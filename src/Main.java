@@ -3,9 +3,11 @@ import java.io.*;
 public class Main{
     public static void main(String[] args)throws Exception{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st = new StringTokenizer(br.readLine());
-        int n = Integer.parseInt(st.nextToken());
-        int m = Integer.parseInt(st.nextToken());
-        System.out.println((double) n / m);
+        int a = Integer.parseInt(br.readLine());
+        int b = Integer.parseInt(br.readLine());
+        System.out.println(a * (b % 10));
+        System.out.println(a * (((b % 100) - (b % 10))) / 10);
+        System.out.println(a * (b / 100));
+        System.out.println(a * b);
     }
 }
