@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="1931 회의실 배정 오답(1)">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon1202.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="1202 보석 도둑">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon1664.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -260,7 +260,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon1202">
+  <component name="RunManager" selected="Application.Baekjoon1664">
     <configuration name="Baekjoon1202" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon1202" />
       <module name="Algorithm" />
@@ -270,6 +270,13 @@
     </configuration>
     <configuration name="Baekjoon14469" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon14469" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Baekjoon1664" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon1664" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -289,20 +296,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baekjoon1664" />
         <item itemvalue="Application.Baekjoon1202" />
         <item itemvalue="Application.BaekjoonRe1931_1" />
         <item itemvalue="Application.Baekjoon1931" />
         <item itemvalue="Application.Baekjoon14469" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -498,15 +498,7 @@
       <workItem from="1719808707213" duration="9813000" />
       <workItem from="1719880787203" duration="15682000" />
       <workItem from="1719968297559" duration="19841000" />
-      <workItem from="1720055429535" duration="3940000" />
-    </task>
-    <task id="LOCAL-00159" summary="4179 불! 재재재재도전">
-      <option name="closed" value="true" />
-      <created>1719139416304</created>
-      <option name="number" value="00159" />
-      <option name="presentableId" value="LOCAL-00159" />
-      <option name="project" value="LOCAL" />
-      <updated>1719139416305</updated>
+      <workItem from="1720055429535" duration="5152000" />
     </task>
     <task id="LOCAL-00160" summary="12851 숨바꼭질2 재재재재도전">
       <option name="closed" value="true" />
@@ -892,14 +884,21 @@
       <option name="project" value="LOCAL" />
       <updated>1720055815711</updated>
     </task>
-    <option name="localTasksCounter" value="208" />
+    <task id="LOCAL-00208" summary="1202 보석 도둑">
+      <option name="closed" value="true" />
+      <created>1720060204063</created>
+      <option name="number" value="00208" />
+      <option name="presentableId" value="LOCAL-00208" />
+      <option name="project" value="LOCAL" />
+      <updated>1720060204063</updated>
+    </task>
+    <option name="localTasksCounter" value="209" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="11723 집합 오답(1)" />
     <MESSAGE value="13244 Tree" />
     <MESSAGE value="1285 동전 뒤집기 오답(5)" />
     <MESSAGE value="14890 경사로" />
@@ -924,6 +923,7 @@
     <MESSAGE value="단계별로 풀어보기 연습" />
     <MESSAGE value="1931 회의실 배정" />
     <MESSAGE value="1931 회의실 배정 오답(1)" />
-    <option name="LAST_COMMIT_MESSAGE" value="1931 회의실 배정 오답(1)" />
+    <MESSAGE value="1202 보석 도둑" />
+    <option name="LAST_COMMIT_MESSAGE" value="1202 보석 도둑" />
   </component>
 </project>
