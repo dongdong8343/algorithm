@@ -20,6 +20,7 @@ public class Baekjoon13144 {
                 ret += e - s;
                 cnt[a[s]]--;
                 s++;
+                System.out.println(ret);
             }
         }
         ret += (long)(e - s) * (e - s + 1) / 2;

@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="1644 소수의 연속합 오답(1)">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon13144.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="13144 List of Unique Numbers">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Baekjoon13144.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon13144.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -506,15 +506,7 @@
       <workItem from="1719880787203" duration="15682000" />
       <workItem from="1719968297559" duration="19841000" />
       <workItem from="1720055429535" duration="10637000" />
-      <workItem from="1720139091510" duration="8250000" />
-    </task>
-    <task id="LOCAL-00165" summary="12851 숨바꼭질 2 재재재재재도전">
-      <option name="closed" value="true" />
-      <created>1719277397675</created>
-      <option name="number" value="00165" />
-      <option name="presentableId" value="LOCAL-00165" />
-      <option name="project" value="LOCAL" />
-      <updated>1719277397675</updated>
+      <workItem from="1720139091510" duration="10327000" />
     </task>
     <task id="LOCAL-00166" summary="19942 다이어트 재재재재도전">
       <option name="closed" value="true" />
@@ -900,14 +892,21 @@
       <option name="project" value="LOCAL" />
       <updated>1720146686022</updated>
     </task>
-    <option name="localTasksCounter" value="214" />
+    <task id="LOCAL-00214" summary="13144 List of Unique Numbers">
+      <option name="closed" value="true" />
+      <created>1720151272440</created>
+      <option name="number" value="00214" />
+      <option name="presentableId" value="LOCAL-00214" />
+      <option name="project" value="LOCAL" />
+      <updated>1720151272440</updated>
+    </task>
+    <option name="localTasksCounter" value="215" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="3197 백조의 호수" />
     <MESSAGE value="1062 가르침" />
     <MESSAGE value="2589 보물섬 오답(5)" />
     <MESSAGE value="11723 집합 오답(2)" />
@@ -932,6 +931,7 @@
     <MESSAGE value="15926 현욱은 괄호왕이야!" />
     <MESSAGE value="3015 오아시스 재결합" />
     <MESSAGE value="1644 소수의 연속합 오답(1)" />
-    <option name="LAST_COMMIT_MESSAGE" value="1644 소수의 연속합 오답(1)" />
+    <MESSAGE value="13144 List of Unique Numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="13144 List of Unique Numbers" />
   </component>
 </project>
