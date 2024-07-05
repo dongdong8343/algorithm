@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="13144 List of Unique Numbers">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon3273.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon13144.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon13144.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,6 +112,7 @@
     "Application.Baekjoon2979.executor": "Run",
     "Application.Baekjoon3015.executor": "Run",
     "Application.Baekjoon3197.executor": "Run",
+    "Application.Baekjoon3273.executor": "Run",
     "Application.Baekjoon3474.executor": "Run",
     "Application.Baekjoon3986.executor": "Run",
     "Application.Baekjoon4179.executor": "Run",
@@ -267,7 +268,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon13144">
+  <component name="RunManager" selected="Application.Baekjoon3273">
     <configuration name="Baekjoon13144" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon13144" />
       <module name="Algorithm" />
@@ -275,8 +276,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaekjoonRe15684_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekjoonRe15684_6" />
+    <configuration name="Baekjoon3273" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon3273" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -305,11 +306,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baekjoon3273" />
         <item itemvalue="Application.Baekjoon13144" />
         <item itemvalue="Application.BaekjoonRe1644_1" />
         <item itemvalue="Application.BaekjoonRe3015_2" />
         <item itemvalue="Application.BaekjoonRe15926_2" />
-        <item itemvalue="Application.BaekjoonRe15684_6" />
       </list>
     </recent_temporary>
   </component>
@@ -506,15 +507,7 @@
       <workItem from="1719880787203" duration="15682000" />
       <workItem from="1719968297559" duration="19841000" />
       <workItem from="1720055429535" duration="10637000" />
-      <workItem from="1720139091510" duration="10327000" />
-    </task>
-    <task id="LOCAL-00166" summary="19942 다이어트 재재재재도전">
-      <option name="closed" value="true" />
-      <created>1719281679363</created>
-      <option name="number" value="00166" />
-      <option name="presentableId" value="LOCAL-00166" />
-      <option name="project" value="LOCAL" />
-      <updated>1719281679363</updated>
+      <workItem from="1720139091510" duration="12053000" />
     </task>
     <task id="LOCAL-00167" summary="1285 동전 뒤집기 재재재재도전">
       <option name="closed" value="true" />
@@ -900,7 +893,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720151272440</updated>
     </task>
-    <option name="localTasksCounter" value="215" />
+    <task id="LOCAL-00215" summary="13144 List of Unique Numbers">
+      <option name="closed" value="true" />
+      <created>1720155086047</created>
+      <option name="number" value="00215" />
+      <option name="presentableId" value="LOCAL-00215" />
+      <option name="project" value="LOCAL" />
+      <updated>1720155086047</updated>
+    </task>
+    <option name="localTasksCounter" value="216" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
