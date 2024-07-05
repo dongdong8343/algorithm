@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="3015 오아시스 재결합">
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="1644 소수의 연속합 오답(1)">
       <change afterPath="$PROJECT_DIR$/src/Baekjoon13144.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe1644_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -268,7 +267,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BaekjoonRe1644_1">
+  <component name="RunManager" selected="Application.Baekjoon13144">
     <configuration name="Baekjoon13144" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon13144" />
       <module name="Algorithm" />
@@ -306,11 +305,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baekjoon13144" />
         <item itemvalue="Application.BaekjoonRe1644_1" />
         <item itemvalue="Application.BaekjoonRe3015_2" />
         <item itemvalue="Application.BaekjoonRe15926_2" />
         <item itemvalue="Application.BaekjoonRe15684_6" />
-        <item itemvalue="Application.Baekjoon13144" />
       </list>
     </recent_temporary>
   </component>
@@ -507,15 +506,7 @@
       <workItem from="1719880787203" duration="15682000" />
       <workItem from="1719968297559" duration="19841000" />
       <workItem from="1720055429535" duration="10637000" />
-      <workItem from="1720139091510" duration="5552000" />
-    </task>
-    <task id="LOCAL-00164" summary="15684 사다리 조작 재재재재재도전">
-      <option name="closed" value="true" />
-      <created>1719276150464</created>
-      <option name="number" value="00164" />
-      <option name="presentableId" value="LOCAL-00164" />
-      <option name="project" value="LOCAL" />
-      <updated>1719276150465</updated>
+      <workItem from="1720139091510" duration="8250000" />
     </task>
     <task id="LOCAL-00165" summary="12851 숨바꼭질 2 재재재재재도전">
       <option name="closed" value="true" />
@@ -901,14 +892,21 @@
       <option name="project" value="LOCAL" />
       <updated>1720144587605</updated>
     </task>
-    <option name="localTasksCounter" value="213" />
+    <task id="LOCAL-00213" summary="1644 소수의 연속합 오답(1)">
+      <option name="closed" value="true" />
+      <created>1720146686022</created>
+      <option name="number" value="00213" />
+      <option name="presentableId" value="LOCAL-00213" />
+      <option name="project" value="LOCAL" />
+      <updated>1720146686022</updated>
+    </task>
+    <option name="localTasksCounter" value="214" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="14391 종이 조각" />
     <MESSAGE value="3197 백조의 호수" />
     <MESSAGE value="1062 가르침" />
     <MESSAGE value="2589 보물섬 오답(5)" />
@@ -933,6 +931,7 @@
     <MESSAGE value="15684 사다리 조작" />
     <MESSAGE value="15926 현욱은 괄호왕이야!" />
     <MESSAGE value="3015 오아시스 재결합" />
-    <option name="LAST_COMMIT_MESSAGE" value="3015 오아시스 재결합" />
+    <MESSAGE value="1644 소수의 연속합 오답(1)" />
+    <option name="LAST_COMMIT_MESSAGE" value="1644 소수의 연속합 오답(1)" />
   </component>
 </project>
