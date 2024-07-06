@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="3273 두 수의 합">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon1700.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="1700 멀티탭 스케줄링">
+      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe1285_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe14890_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -137,11 +138,13 @@
     "Application.BaekjoonRe1213.executor": "Run",
     "Application.BaekjoonRe1285.executor": "Run",
     "Application.BaekjoonRe12851.executor": "Run",
+    "Application.BaekjoonRe1285_6.executor": "Run",
     "Application.BaekjoonRe12869.executor": "Run",
     "Application.BaekjoonRe1436.executor": "Run",
     "Application.BaekjoonRe14391.executor": "Run",
     "Application.BaekjoonRe14502.executor": "Run",
     "Application.BaekjoonRe14890.executor": "Run",
+    "Application.BaekjoonRe14890_3.executor": "Run",
     "Application.BaekjoonRe15684.executor": "Run",
     "Application.BaekjoonRe15684_6.executor": "Run",
     "Application.BaekjoonRe15926.executor": "Run",
@@ -269,7 +272,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon1700">
+  <component name="RunManager" selected="Application.BaekjoonRe14890_3">
     <configuration name="Baekjoon13144" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon13144" />
       <module name="Algorithm" />
@@ -291,15 +294,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaekjoonRe1644_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekjoonRe1644_1" />
+    <configuration name="BaekjoonRe1285_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekjoonRe1285_6" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaekjoonRe3015_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekjoonRe3015_2" />
+    <configuration name="BaekjoonRe14890_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekjoonRe14890_3" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -307,11 +310,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BaekjoonRe14890_3" />
+        <item itemvalue="Application.BaekjoonRe1285_6" />
         <item itemvalue="Application.Baekjoon1700" />
         <item itemvalue="Application.Baekjoon3273" />
         <item itemvalue="Application.Baekjoon13144" />
-        <item itemvalue="Application.BaekjoonRe1644_1" />
-        <item itemvalue="Application.BaekjoonRe3015_2" />
       </list>
     </recent_temporary>
   </component>
@@ -508,15 +511,9 @@
       <workItem from="1719880787203" duration="15682000" />
       <workItem from="1719968297559" duration="19841000" />
       <workItem from="1720055429535" duration="10637000" />
-      <workItem from="1720139091510" duration="13853000" />
-    </task>
-    <task id="LOCAL-00168" summary="1987 알파벳(비트마스킹)">
-      <option name="closed" value="true" />
-      <created>1719295222306</created>
-      <option name="number" value="00168" />
-      <option name="presentableId" value="LOCAL-00168" />
-      <option name="project" value="LOCAL" />
-      <updated>1719295222306</updated>
+      <workItem from="1720139091510" duration="14865000" />
+      <workItem from="1720181769516" duration="380000" />
+      <workItem from="1720227131463" duration="3168000" />
     </task>
     <task id="LOCAL-00169" summary="14890 경사로">
       <option name="closed" value="true" />
@@ -902,14 +899,21 @@
       <option name="project" value="LOCAL" />
       <updated>1720159391326</updated>
     </task>
-    <option name="localTasksCounter" value="217" />
+    <task id="LOCAL-00217" summary="1700 멀티탭 스케줄링">
+      <option name="closed" value="true" />
+      <created>1720166667650</created>
+      <option name="number" value="00217" />
+      <option name="presentableId" value="LOCAL-00217" />
+      <option name="project" value="LOCAL" />
+      <updated>1720166667650</updated>
+    </task>
+    <option name="localTasksCounter" value="218" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2589 보물섬 오답(5)" />
     <MESSAGE value="11723 집합 오답(2)" />
     <MESSAGE value="14405 피카츄" />
     <MESSAGE value="14391 종이 조각 오답(2)" />
@@ -934,6 +938,7 @@
     <MESSAGE value="1644 소수의 연속합 오답(1)" />
     <MESSAGE value="13144 List of Unique Numbers" />
     <MESSAGE value="3273 두 수의 합" />
-    <option name="LAST_COMMIT_MESSAGE" value="3273 두 수의 합" />
+    <MESSAGE value="1700 멀티탭 스케줄링" />
+    <option name="LAST_COMMIT_MESSAGE" value="1700 멀티탭 스케줄링" />
   </component>
 </project>
