@@ -4,19 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="단계별로 풀어보기 2단계 - 조건문">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon10950.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon10951.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon10952.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon11021.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon15552.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon2438.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon2439.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon25304.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon25314.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon2739.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon8393.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bakejoon11022.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="단계별로 풀어보기 3단계 - 반복문">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon10807_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon10810.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon10811.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon10813.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon10818.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon10871.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon1546.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon2562.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon3052.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon5597.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,8 +53,14 @@
     "Application.Baekjoon1068.executor": "Run",
     "Application.Baekjoon10709.executor": "Run",
     "Application.Baekjoon10807.executor": "Run",
+    "Application.Baekjoon10807_1.executor": "Run",
     "Application.Baekjoon10808.executor": "Run",
+    "Application.Baekjoon10810.executor": "Run",
+    "Application.Baekjoon10811.executor": "Run",
+    "Application.Baekjoon10813.executor": "Run",
+    "Application.Baekjoon10818.executor": "Run",
     "Application.Baekjoon10828.executor": "Run",
+    "Application.Baekjoon10871.executor": "Run",
     "Application.Baekjoon1094.executor": "Run",
     "Application.Baekjoon10950.executor": "Run",
     "Application.Baekjoon10951.executor": "Run",
@@ -91,6 +95,7 @@
     "Application.Baekjoon14681.executor": "Run",
     "Application.Baekjoon14889.executor": "Run",
     "Application.Baekjoon14890.executor": "Run",
+    "Application.Baekjoon1546.executor": "Run",
     "Application.Baekjoon15552.executor": "Run",
     "Application.Baekjoon15684.executor": "Run",
     "Application.Baekjoon15686.executor": "Run",
@@ -130,6 +135,7 @@
     "Application.Baekjoon25304.executor": "Run",
     "Application.Baekjoon25314.executor": "Run",
     "Application.Baekjoon2559.executor": "Run",
+    "Application.Baekjoon2562.executor": "Run",
     "Application.Baekjoon2583.executor": "Run",
     "Application.Baekjoon2589.executor": "Run",
     "Application.Baekjoon25956.executor": "Run",
@@ -144,6 +150,7 @@
     "Application.Baekjoon2910.executor": "Run",
     "Application.Baekjoon2979.executor": "Run",
     "Application.Baekjoon3015.executor": "Run",
+    "Application.Baekjoon3052.executor": "Run",
     "Application.Baekjoon3190.executor": "Run",
     "Application.Baekjoon3197.executor": "Run",
     "Application.Baekjoon3273.executor": "Run",
@@ -156,6 +163,7 @@
     "Application.Baekjoon5397.executor": "Run",
     "Application.Baekjoon5426.executor": "Run",
     "Application.Baekjoon5430.executor": "Run",
+    "Application.Baekjoon5597.executor": "Run",
     "Application.Baekjoon6198.executor": "Run",
     "Application.Baekjoon6549.executor": "Run",
     "Application.Baekjoon8393.executor": "Run",
@@ -322,37 +330,37 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon10951">
-    <configuration name="Baekjoon10951" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon10951" />
+  <component name="RunManager" selected="Application.Baekjoon1546">
+    <configuration name="Baekjoon10811" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon10811" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon10952" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon10952" />
+    <configuration name="Baekjoon10813" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon10813" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon2438" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon2438" />
+    <configuration name="Baekjoon1546" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon1546" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon2439" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon2439" />
+    <configuration name="Baekjoon3052" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon3052" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bakejoon11022" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bakejoon11022" />
+    <configuration name="Baekjoon5597" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon5597" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -360,11 +368,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Baekjoon10951" />
-        <item itemvalue="Application.Baekjoon10952" />
-        <item itemvalue="Application.Baekjoon2439" />
-        <item itemvalue="Application.Baekjoon2438" />
-        <item itemvalue="Application.Bakejoon11022" />
+        <item itemvalue="Application.Baekjoon1546" />
+        <item itemvalue="Application.Baekjoon10811" />
+        <item itemvalue="Application.Baekjoon3052" />
+        <item itemvalue="Application.Baekjoon5597" />
+        <item itemvalue="Application.Baekjoon10813" />
       </list>
     </recent_temporary>
   </component>
@@ -569,15 +577,7 @@
       <workItem from="1720357646457" duration="3351000" />
       <workItem from="1720398842960" duration="16034000" />
       <workItem from="1720486093617" duration="16783000" />
-      <workItem from="1720571230538" duration="11228000" />
-    </task>
-    <task id="LOCAL-00191" summary="14405 피카츄">
-      <option name="closed" value="true" />
-      <created>1719802165518</created>
-      <option name="number" value="00191" />
-      <option name="presentableId" value="LOCAL-00191" />
-      <option name="project" value="LOCAL" />
-      <updated>1719802165518</updated>
+      <workItem from="1720571230538" duration="15688000" />
     </task>
     <task id="LOCAL-00192" summary="15926 현욱은 괄호왕이야!!">
       <option name="closed" value="true" />
@@ -963,14 +963,21 @@
       <option name="project" value="LOCAL" />
       <updated>1720580001436</updated>
     </task>
-    <option name="localTasksCounter" value="240" />
+    <task id="LOCAL-00240" summary="단계별로 풀어보기 3단계 - 반복문">
+      <option name="closed" value="true" />
+      <created>1720587679518</created>
+      <option name="number" value="00240" />
+      <option name="presentableId" value="LOCAL-00240" />
+      <option name="project" value="LOCAL" />
+      <updated>1720587679518</updated>
+    </task>
+    <option name="localTasksCounter" value="241" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="13144 List of Unique Numbers" />
     <MESSAGE value="3273 두 수의 합" />
     <MESSAGE value="1700 멀티탭 스케줄링" />
     <MESSAGE value="14890 경사로 오답(3)" />
@@ -995,6 +1002,7 @@
     <MESSAGE value="12100 2048(Easy) 오답(1)" />
     <MESSAGE value="단계별로 풀어보기 1단계" />
     <MESSAGE value="단계별로 풀어보기 2단계 - 조건문" />
-    <option name="LAST_COMMIT_MESSAGE" value="단계별로 풀어보기 2단계 - 조건문" />
+    <MESSAGE value="단계별로 풀어보기 3단계 - 반복문" />
+    <option name="LAST_COMMIT_MESSAGE" value="단계별로 풀어보기 3단계 - 반복문" />
   </component>
 </project>
