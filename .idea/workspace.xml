@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="단계별로 풀어보기 5단계 - 문자열">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon10988_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon1157.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon1316.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon25206.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon2941.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon3003.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="단계별로 풀어보기 6단계 - 심화 1">
+      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe17144_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -218,6 +213,7 @@
     "Application.BaekjoonRe1700_2.executor": "Run",
     "Application.BaekjoonRe17071.executor": "Run",
     "Application.BaekjoonRe17144_1.executor": "Run",
+    "Application.BaekjoonRe17144_2.executor": "Run",
     "Application.BaekjoonRe17298.executor": "Run",
     "Application.BaekjoonRe1931_1.executor": "Run",
     "Application.BaekjoonRe1931_2.executor": "Run",
@@ -343,14 +339,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon25206">
-    <configuration name="Baekjoon10988_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon10988_1" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.BaekjoonRe17144_2">
     <configuration name="Baekjoon1157" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon1157" />
       <module name="Algorithm" />
@@ -379,13 +368,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BaekjoonRe17144_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekjoonRe17144_2" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BaekjoonRe17144_2" />
         <item itemvalue="Application.Baekjoon25206" />
         <item itemvalue="Application.Baekjoon1316" />
         <item itemvalue="Application.Baekjoon2941" />
         <item itemvalue="Application.Baekjoon1157" />
-        <item itemvalue="Application.Baekjoon10988_1" />
       </list>
     </recent_temporary>
   </component>
@@ -590,15 +586,8 @@
       <workItem from="1720357646457" duration="3351000" />
       <workItem from="1720398842960" duration="16034000" />
       <workItem from="1720486093617" duration="16783000" />
-      <workItem from="1720571230538" duration="24645000" />
-    </task>
-    <task id="LOCAL-00194" summary="14391 종이 조각 오답(2)">
-      <option name="closed" value="true" />
-      <created>1719882122048</created>
-      <option name="number" value="00194" />
-      <option name="presentableId" value="LOCAL-00194" />
-      <option name="project" value="LOCAL" />
-      <updated>1719882122048</updated>
+      <workItem from="1720571230538" duration="24927000" />
+      <workItem from="1720658399610" duration="1686000" />
     </task>
     <task id="LOCAL-00195" summary="15926 현욱은 괄호왕이야!!">
       <option name="closed" value="true" />
@@ -984,14 +973,21 @@
       <option name="project" value="LOCAL" />
       <updated>1720597533903</updated>
     </task>
-    <option name="localTasksCounter" value="243" />
+    <task id="LOCAL-00243" summary="단계별로 풀어보기 6단계 - 심화 1">
+      <option name="closed" value="true" />
+      <created>1720602824477</created>
+      <option name="number" value="00243" />
+      <option name="presentableId" value="LOCAL-00243" />
+      <option name="project" value="LOCAL" />
+      <updated>1720602824477</updated>
+    </task>
+    <option name="localTasksCounter" value="244" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="14890 경사로 오답(3)" />
     <MESSAGE value="1285 동전 뒤집기(6)" />
     <MESSAGE value="2109 순회 강연 오답(2)" />
     <MESSAGE value="9935 문자열 폭발 오답(2)" />
@@ -1016,6 +1012,7 @@
     <MESSAGE value="단계별로 풀어보기 3단계 - 반복문" />
     <MESSAGE value="단계별로 풀어보기 4단계 - 1차원 배열" />
     <MESSAGE value="단계별로 풀어보기 5단계 - 문자열" />
-    <option name="LAST_COMMIT_MESSAGE" value="단계별로 풀어보기 5단계 - 문자열" />
+    <MESSAGE value="단계별로 풀어보기 6단계 - 심화 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="단계별로 풀어보기 6단계 - 심화 1" />
   </component>
 </project>
