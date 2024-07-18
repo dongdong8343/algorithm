@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="17406 배열 돌리기 4">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon17144_3.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="17144 미세먼지 안녕! 오답(3)">
+      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe17406_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -295,6 +295,7 @@
     "Application.BaekjoonRe17144_1.executor": "Run",
     "Application.BaekjoonRe17144_2.executor": "Run",
     "Application.BaekjoonRe17298.executor": "Run",
+    "Application.BaekjoonRe17406_1.executor": "Run",
     "Application.BaekjoonRe1931_1.executor": "Run",
     "Application.BaekjoonRe1931_2.executor": "Run",
     "Application.BaekjoonRe1931_3.executor": "Run",
@@ -426,14 +427,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon17144_3">
-    <configuration name="Baekjoon17144_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon17144_3" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.BaekjoonRe17406_1">
     <configuration name="Baekjoon17406" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon17406" />
       <module name="Algorithm" />
@@ -455,8 +449,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon28279" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon28279" />
+    <configuration name="BaekjoonRe17144_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekjoonRe17144_3" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaekjoonRe17406_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekjoonRe17406_1" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -464,11 +465,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Baekjoon17144_3" />
+        <item itemvalue="Application.BaekjoonRe17406_1" />
+        <item itemvalue="Application.BaekjoonRe17144_3" />
         <item itemvalue="Application.Baekjoon17406" />
         <item itemvalue="Application.Baekjoon24511" />
         <item itemvalue="Application.Baekjoon2346" />
-        <item itemvalue="Application.Baekjoon28279" />
       </list>
     </recent_temporary>
   </component>
@@ -682,23 +683,7 @@
       <workItem from="1721096475374" duration="16559000" />
       <workItem from="1721180376863" duration="15201000" />
       <workItem from="1721214887176" duration="134000" />
-      <workItem from="1721265401518" duration="2345000" />
-    </task>
-    <task id="LOCAL-00217" summary="1700 멀티탭 스케줄링">
-      <option name="closed" value="true" />
-      <created>1720166667650</created>
-      <option name="number" value="00217" />
-      <option name="presentableId" value="LOCAL-00217" />
-      <option name="project" value="LOCAL" />
-      <updated>1720166667650</updated>
-    </task>
-    <task id="LOCAL-00218" summary="14890 경사로 오답(3)">
-      <option name="closed" value="true" />
-      <created>1720230552074</created>
-      <option name="number" value="00218" />
-      <option name="presentableId" value="LOCAL-00218" />
-      <option name="project" value="LOCAL" />
-      <updated>1720230552074</updated>
+      <workItem from="1721265401518" duration="5086000" />
     </task>
     <task id="LOCAL-00219" summary="1285 동전 뒤집기(6)">
       <option name="closed" value="true" />
@@ -1076,17 +1061,31 @@
       <option name="project" value="LOCAL" />
       <updated>1721214625083</updated>
     </task>
-    <option name="localTasksCounter" value="266" />
+    <task id="LOCAL-00266" summary="17144 미세먼지 안녕!">
+      <option name="closed" value="true" />
+      <created>1721267854574</created>
+      <option name="number" value="00266" />
+      <option name="presentableId" value="LOCAL-00266" />
+      <option name="project" value="LOCAL" />
+      <updated>1721267854574</updated>
+    </task>
+    <task id="LOCAL-00267" summary="17144 미세먼지 안녕! 오답(3)">
+      <option name="closed" value="true" />
+      <created>1721268050683</created>
+      <option name="number" value="00267" />
+      <option name="presentableId" value="LOCAL-00267" />
+      <option name="project" value="LOCAL" />
+      <updated>1721268050683</updated>
+    </task>
+    <option name="localTasksCounter" value="268" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="단계별로 풀어보기 4단계 - 1차원 배열" />
     <MESSAGE value="단계별로 풀어보기 5단계 - 문자열" />
     <MESSAGE value="단계별로 풀어보기 6단계 - 심화 1" />
-    <MESSAGE value="17144 미세먼지 안녕!" />
     <MESSAGE value="단계별로 풀어보기 - 7단계(2차원 배열)" />
     <MESSAGE value="단계별로 풀어보기 - 8단계(일반 수학 1)" />
     <MESSAGE value="단계별로 풀어보기 - 9단계(약수, 배수와 소수)" />
@@ -1108,6 +1107,8 @@
     <MESSAGE value="단계별로 풀어보기 15단계" />
     <MESSAGE value="단계별로 풀어보기 16단계" />
     <MESSAGE value="17406 배열 돌리기 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="17406 배열 돌리기 4" />
+    <MESSAGE value="17144 미세먼지 안녕!" />
+    <MESSAGE value="17144 미세먼지 안녕! 오답(3)" />
+    <option name="LAST_COMMIT_MESSAGE" value="17144 미세먼지 안녕! 오답(3)" />
   </component>
 </project>
