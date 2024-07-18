@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="단계별로 풀어보기 16단계">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon17406.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="17406 배열 돌리기 4">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon17144_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -133,6 +133,7 @@
     "Application.Baekjoon17071.executor": "Run",
     "Application.Baekjoon17103.executor": "Run",
     "Application.Baekjoon17144.executor": "Run",
+    "Application.Baekjoon17144_3.executor": "Run",
     "Application.Baekjoon17298.executor": "Run",
     "Application.Baekjoon1735.executor": "Run",
     "Application.Baekjoon17406.executor": "Run",
@@ -425,9 +426,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon17406">
-    <configuration name="Baekjoon11866" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon11866" />
+  <component name="RunManager" selected="Application.Baekjoon17144_3">
+    <configuration name="Baekjoon17144_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon17144_3" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -463,11 +464,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baekjoon17144_3" />
         <item itemvalue="Application.Baekjoon17406" />
         <item itemvalue="Application.Baekjoon24511" />
         <item itemvalue="Application.Baekjoon2346" />
         <item itemvalue="Application.Baekjoon28279" />
-        <item itemvalue="Application.Baekjoon11866" />
       </list>
     </recent_temporary>
   </component>
@@ -679,15 +680,9 @@
       <workItem from="1720929346030" duration="3240000" />
       <workItem from="1721005653405" duration="17229000" />
       <workItem from="1721096475374" duration="16559000" />
-      <workItem from="1721180376863" duration="15159000" />
-    </task>
-    <task id="LOCAL-00216" summary="3273 두 수의 합">
-      <option name="closed" value="true" />
-      <created>1720159391326</created>
-      <option name="number" value="00216" />
-      <option name="presentableId" value="LOCAL-00216" />
-      <option name="project" value="LOCAL" />
-      <updated>1720159391326</updated>
+      <workItem from="1721180376863" duration="15201000" />
+      <workItem from="1721214887176" duration="134000" />
+      <workItem from="1721265401518" duration="2345000" />
     </task>
     <task id="LOCAL-00217" summary="1700 멀티탭 스케줄링">
       <option name="closed" value="true" />
@@ -1073,14 +1068,21 @@
       <option name="project" value="LOCAL" />
       <updated>1721188409675</updated>
     </task>
-    <option name="localTasksCounter" value="265" />
+    <task id="LOCAL-00265" summary="17406 배열 돌리기 4">
+      <option name="closed" value="true" />
+      <created>1721214625082</created>
+      <option name="number" value="00265" />
+      <option name="presentableId" value="LOCAL-00265" />
+      <option name="project" value="LOCAL" />
+      <updated>1721214625083</updated>
+    </task>
+    <option name="localTasksCounter" value="266" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="단계별로 풀어보기 3단계 - 반복문" />
     <MESSAGE value="단계별로 풀어보기 4단계 - 1차원 배열" />
     <MESSAGE value="단계별로 풀어보기 5단계 - 문자열" />
     <MESSAGE value="단계별로 풀어보기 6단계 - 심화 1" />
@@ -1105,6 +1107,7 @@
     <MESSAGE value="13144 List of Unique Numbers 오답(3)" />
     <MESSAGE value="단계별로 풀어보기 15단계" />
     <MESSAGE value="단계별로 풀어보기 16단계" />
-    <option name="LAST_COMMIT_MESSAGE" value="단계별로 풀어보기 16단계" />
+    <MESSAGE value="17406 배열 돌리기 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="17406 배열 돌리기 4" />
   </component>
 </project>
