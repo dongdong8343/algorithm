@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 import java.awt.Point;
-public class Baekjoon17144_3 {
+public class BaekjoonRe17144_3 {
     static int n, m, t, ret = 0;
     static int[][] a = new int[1004][1004];
     static int[] dy1 = {0, -1, 0, 1};
