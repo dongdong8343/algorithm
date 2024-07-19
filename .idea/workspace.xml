@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="15662 톱니바퀴 (2)">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon1911.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="1911 흙길 보수하기">
+      <change afterPath="$PROJECT_DIR$/src/baekjoonRe12100_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -405,6 +405,10 @@
     "Application.baekjoon2234.executor": "Run",
     "Application.baekjoon24262.executor": "Run",
     "Application.baekjoon24264.executor": "Run",
+    "Application.baekjoonRe12100.executor": "Run",
+    "Application.baekjoonRe12100_3 (1).executor": "Run",
+    "Application.baekjoonRe12100_3 (2).executor": "Run",
+    "Application.baekjoonRe12100_3.executor": "Run",
     "Application.bfsCarret.executor": "Run",
     "Application.bitmasking.executor": "Run",
     "Application.fartDfs.executor": "Run",
@@ -429,21 +433,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon1911">
-    <configuration name="Baekjoon15662" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon15662" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Baekjoon17406" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon17406" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.baekjoonRe12100_3 (3)">
     <configuration name="Baekjoon1911" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon1911" />
       <module name="Algorithm" />
@@ -451,15 +441,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaekjoonRe17144_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekjoonRe17144_3" />
+    <configuration name="baekjoonRe12100_3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoonRe12100_3" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaekjoonRe17406_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekjoonRe17406_1" />
+    <configuration name="baekjoonRe12100_3 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoonRe12100_3" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="baekjoonRe12100_3 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoonRe12100_3" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="baekjoonRe12100_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoonRe12100_3" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -467,11 +471,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.baekjoonRe12100_3 (3)" />
+        <item itemvalue="Application.baekjoonRe12100_3" />
+        <item itemvalue="Application.baekjoonRe12100_3 (2)" />
+        <item itemvalue="Application.baekjoonRe12100_3 (1)" />
         <item itemvalue="Application.Baekjoon1911" />
-        <item itemvalue="Application.Baekjoon15662" />
-        <item itemvalue="Application.BaekjoonRe17406_1" />
-        <item itemvalue="Application.BaekjoonRe17144_3" />
-        <item itemvalue="Application.Baekjoon17406" />
       </list>
     </recent_temporary>
   </component>
@@ -685,15 +689,8 @@
       <workItem from="1721096475374" duration="16559000" />
       <workItem from="1721180376863" duration="15201000" />
       <workItem from="1721214887176" duration="134000" />
-      <workItem from="1721265401518" duration="15417000" />
-    </task>
-    <task id="LOCAL-00221" summary="9935 문자열 폭발 오답(2)">
-      <option name="closed" value="true" />
-      <created>1720232356283</created>
-      <option name="number" value="00221" />
-      <option name="presentableId" value="LOCAL-00221" />
-      <option name="project" value="LOCAL" />
-      <updated>1720232356283</updated>
+      <workItem from="1721265401518" duration="16810000" />
+      <workItem from="1721366504844" duration="2176000" />
     </task>
     <task id="LOCAL-00222" summary="13144 List of Unique Numbers 오답(1)">
       <option name="closed" value="true" />
@@ -1079,14 +1076,21 @@
       <option name="project" value="LOCAL" />
       <updated>1721282397715</updated>
     </task>
-    <option name="localTasksCounter" value="270" />
+    <task id="LOCAL-00270" summary="1911 흙길 보수하기">
+      <option name="closed" value="true" />
+      <created>1721291746541</created>
+      <option name="number" value="00270" />
+      <option name="presentableId" value="LOCAL-00270" />
+      <option name="project" value="LOCAL" />
+      <updated>1721291746542</updated>
+    </task>
+    <option name="localTasksCounter" value="271" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="단계별로 풀어보기 - 7단계(2차원 배열)" />
     <MESSAGE value="단계별로 풀어보기 - 8단계(일반 수학 1)" />
     <MESSAGE value="단계별로 풀어보기 - 9단계(약수, 배수와 소수)" />
     <MESSAGE value="15926 현욱은 괄호왕이야!! 오답(3)" />
@@ -1111,6 +1115,7 @@
     <MESSAGE value="17144 미세먼지 안녕! 오답(3)" />
     <MESSAGE value="17406 배열 돌리기 4 오답(1)" />
     <MESSAGE value="15662 톱니바퀴 (2)" />
-    <option name="LAST_COMMIT_MESSAGE" value="15662 톱니바퀴 (2)" />
+    <MESSAGE value="1911 흙길 보수하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="1911 흙길 보수하기" />
   </component>
 </project>
