@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="17825 주사위 윷놀이 오답(1)">
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="1911 흙길 보수하기 오답(2)">
       <change afterPath="$PROJECT_DIR$/src/Baekjoon17143.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe1911_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -443,7 +442,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BaekjoonRe1911_2">
+  <component name="RunManager" selected="Application.Baekjoon17143">
     <configuration name="Baekjoon14888" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon14888" />
       <module name="Algorithm" />
@@ -481,8 +480,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BaekjoonRe1911_2" />
         <item itemvalue="Application.Baekjoon17143" />
+        <item itemvalue="Application.BaekjoonRe1911_2" />
         <item itemvalue="Application.BaekjoonRe17825_2" />
         <item itemvalue="Application.BaekjoonRe17406_2" />
         <item itemvalue="Application.Baekjoon14888" />
@@ -705,15 +704,7 @@
       <workItem from="1721456444500" duration="1852000" />
       <workItem from="1721468720515" duration="2103000" />
       <workItem from="1721535412669" duration="11779000" />
-      <workItem from="1721610323525" duration="738000" />
-    </task>
-    <task id="LOCAL-00229" summary="14391 종이 조각 오답(3)">
-      <option name="closed" value="true" />
-      <created>1720402672064</created>
-      <option name="number" value="00229" />
-      <option name="presentableId" value="LOCAL-00229" />
-      <option name="project" value="LOCAL" />
-      <updated>1720402672064</updated>
+      <workItem from="1721610323525" duration="4953000" />
     </task>
     <task id="LOCAL-00230" summary="14889 스타트와 링크">
       <option name="closed" value="true" />
@@ -1099,14 +1090,21 @@
       <option name="project" value="LOCAL" />
       <updated>1721544003871</updated>
     </task>
-    <option name="localTasksCounter" value="278" />
+    <task id="LOCAL-00278" summary="1911 흙길 보수하기 오답(2)">
+      <option name="closed" value="true" />
+      <created>1721611198051</created>
+      <option name="number" value="00278" />
+      <option name="presentableId" value="LOCAL-00278" />
+      <option name="project" value="LOCAL" />
+      <updated>1721611198052</updated>
+    </task>
+    <option name="localTasksCounter" value="279" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2109 순회강연 - 오답(3)" />
     <MESSAGE value="9935 문자열 폭발 - 오답(3)" />
     <MESSAGE value="1931 회의실 배정 - 오답(3)" />
     <MESSAGE value="12100 2041(Easy) - 오답(2)" />
@@ -1131,6 +1129,7 @@
     <MESSAGE value="17825 주사위 윷놀이" />
     <MESSAGE value="17406 배열 돌리기 오답(2)" />
     <MESSAGE value="17825 주사위 윷놀이 오답(1)" />
-    <option name="LAST_COMMIT_MESSAGE" value="17825 주사위 윷놀이 오답(1)" />
+    <MESSAGE value="1911 흙길 보수하기 오답(2)" />
+    <option name="LAST_COMMIT_MESSAGE" value="1911 흙길 보수하기 오답(2)" />
   </component>
 </project>
