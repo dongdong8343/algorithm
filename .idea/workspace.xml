@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="1911 흙길 보수하기 오답(2)">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon17143.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="17143 낚시왕">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon15685.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -122,6 +122,7 @@
     "Application.Baekjoon15552.executor": "Run",
     "Application.Baekjoon15662.executor": "Run",
     "Application.Baekjoon15684.executor": "Run",
+    "Application.Baekjoon15685.executor": "Run",
     "Application.Baekjoon15686.executor": "Run",
     "Application.Baekjoon15894.executor": "Run",
     "Application.Baekjoon15926.executor": "Run",
@@ -442,9 +443,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon17143">
-    <configuration name="Baekjoon14888" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon14888" />
+  <component name="RunManager" selected="Application.Baekjoon15685">
+    <configuration name="Baekjoon15685" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon15685" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -480,11 +481,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baekjoon15685" />
         <item itemvalue="Application.Baekjoon17143" />
         <item itemvalue="Application.BaekjoonRe1911_2" />
         <item itemvalue="Application.BaekjoonRe17825_2" />
         <item itemvalue="Application.BaekjoonRe17406_2" />
-        <item itemvalue="Application.Baekjoon14888" />
       </list>
     </recent_temporary>
   </component>
@@ -704,15 +705,7 @@
       <workItem from="1721456444500" duration="1852000" />
       <workItem from="1721468720515" duration="2103000" />
       <workItem from="1721535412669" duration="11779000" />
-      <workItem from="1721610323525" duration="4953000" />
-    </task>
-    <task id="LOCAL-00230" summary="14889 스타트와 링크">
-      <option name="closed" value="true" />
-      <created>1720412630793</created>
-      <option name="number" value="00230" />
-      <option name="presentableId" value="LOCAL-00230" />
-      <option name="project" value="LOCAL" />
-      <updated>1720412630793</updated>
+      <workItem from="1721610323525" duration="6604000" />
     </task>
     <task id="LOCAL-00231" summary="12100 2048 (Easy)">
       <option name="closed" value="true" />
@@ -1098,14 +1091,21 @@
       <option name="project" value="LOCAL" />
       <updated>1721611198052</updated>
     </task>
-    <option name="localTasksCounter" value="279" />
+    <task id="LOCAL-00279" summary="17143 낚시왕">
+      <option name="closed" value="true" />
+      <created>1721616874873</created>
+      <option name="number" value="00279" />
+      <option name="presentableId" value="LOCAL-00279" />
+      <option name="project" value="LOCAL" />
+      <updated>1721616874873</updated>
+    </task>
+    <option name="localTasksCounter" value="280" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="9935 문자열 폭발 - 오답(3)" />
     <MESSAGE value="1931 회의실 배정 - 오답(3)" />
     <MESSAGE value="12100 2041(Easy) - 오답(2)" />
     <MESSAGE value="3190 뱀 - 오답(2)" />
@@ -1130,6 +1130,7 @@
     <MESSAGE value="17406 배열 돌리기 오답(2)" />
     <MESSAGE value="17825 주사위 윷놀이 오답(1)" />
     <MESSAGE value="1911 흙길 보수하기 오답(2)" />
-    <option name="LAST_COMMIT_MESSAGE" value="1911 흙길 보수하기 오답(2)" />
+    <MESSAGE value="17143 낚시왕" />
+    <option name="LAST_COMMIT_MESSAGE" value="17143 낚시왕" />
   </component>
 </project>
