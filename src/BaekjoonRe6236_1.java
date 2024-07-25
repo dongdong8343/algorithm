@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 public class BaekjoonRe6236_1 {
-    static int n, m, max = -987654321, ret = 0, l, h;
+    static int n, m, max = -987654321, ret = 0, l, h, sum = 0;
     static int[] a = new int[100004];
     static boolean check(int mid){
         int cnt = 1;
@@ -24,8 +24,9 @@ public class BaekjoonRe6236_1 {
         for(int i = 0; i < n; i++){
             a[i] = Integer.parseInt(br.readLine());
             max = Math.max(a[i], max);
+            sum += a[i];
         }
-        l = max; h = 1000000004;
+        l = max; h = sum;
         while(l <= h){
             int mid = (l + h) / 2;
             if(check(mid)){
