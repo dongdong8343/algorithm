@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="16434 드래곤 앤 던전">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon1072.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="1072 게임">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon2776.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -216,6 +217,7 @@
     "Application.Baekjoon2750.executor": "Run",
     "Application.Baekjoon2751.executor": "Run",
     "Application.Baekjoon2753.executor": "Run",
+    "Application.Baekjoon2776.executor": "Run",
     "Application.Baekjoon27866.executor": "Run",
     "Application.Baekjoon2792.executor": "Run",
     "Application.Baekjoon2798.executor": "Run",
@@ -461,7 +463,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon1072">
+  <component name="RunManager" selected="Application.Baekjoon2776">
     <configuration name="Baekjoon1072" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon1072" />
       <module name="Algorithm" />
@@ -490,8 +492,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon7795" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon7795" />
+    <configuration name="Baekjoon2776" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon2776" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -499,11 +501,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baekjoon2776" />
         <item itemvalue="Application.Baekjoon1072" />
         <item itemvalue="Application.Baekjoon16434" />
         <item itemvalue="Application.Baekjoon1269_1" />
         <item itemvalue="Application.Baekjoon1269" />
-        <item itemvalue="Application.Baekjoon7795" />
       </list>
     </recent_temporary>
   </component>
@@ -729,15 +731,7 @@
       <workItem from="1721785551313" duration="3102000" />
       <workItem from="1721794536033" duration="9594000" />
       <workItem from="1721869033175" duration="7825000" />
-      <workItem from="1721883323371" duration="4460000" />
-    </task>
-    <task id="LOCAL-00252" summary="1285 동전 뒤집기 오답(7)">
-      <option name="closed" value="true" />
-      <created>1720842971898</created>
-      <option name="number" value="00252" />
-      <option name="presentableId" value="LOCAL-00252" />
-      <option name="project" value="LOCAL" />
-      <updated>1720842971898</updated>
+      <workItem from="1721883323371" duration="5906000" />
     </task>
     <task id="LOCAL-00253" summary="2109 순회강연 - 오답(3)">
       <option name="closed" value="true" />
@@ -1123,14 +1117,21 @@
       <option name="project" value="LOCAL" />
       <updated>1721886963262</updated>
     </task>
-    <option name="localTasksCounter" value="301" />
+    <task id="LOCAL-00301" summary="1072 게임">
+      <option name="closed" value="true" />
+      <created>1721891430225</created>
+      <option name="number" value="00301" />
+      <option name="presentableId" value="LOCAL-00301" />
+      <option name="project" value="LOCAL" />
+      <updated>1721891430225</updated>
+    </task>
+    <option name="localTasksCounter" value="302" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="14888 연산자 끼워넣기" />
     <MESSAGE value="17825 주사위 윷놀이" />
     <MESSAGE value="17406 배열 돌리기 오답(2)" />
     <MESSAGE value="1911 흙길 보수하기 오답(2)" />
@@ -1155,6 +1156,7 @@
     <MESSAGE value="1269 대칭 차집합" />
     <MESSAGE value="7795 먹을 것인가 먹힐 것인가" />
     <MESSAGE value="16434 드래곤 앤 던전" />
-    <option name="LAST_COMMIT_MESSAGE" value="16434 드래곤 앤 던전" />
+    <MESSAGE value="1072 게임" />
+    <option name="LAST_COMMIT_MESSAGE" value="1072 게임" />
   </component>
 </project>
