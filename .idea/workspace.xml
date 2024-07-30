@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="2670 연속부분최대곱">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon11053.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="11053 가장 긴 증가하는 부분 수열">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon14002.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,6 +107,7 @@
     "Application.Baekjoon13300.executor": "Run",
     "Application.Baekjoon13909.executor": "Run",
     "Application.Baekjoon13913.executor": "Run",
+    "Application.Baekjoon14002.executor": "Run",
     "Application.Baekjoon14003.executor": "Run",
     "Application.Baekjoon14215.executor": "Run",
     "Application.Baekjoon1427.executor": "Run",
@@ -483,9 +484,16 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon11053">
+  <component name="RunManager" selected="Application.Baekjoon14002">
     <configuration name="Baekjoon11053" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon11053" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Baekjoon14002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon14002" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -505,13 +513,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaekjoonRe14391_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekjoonRe14391_4" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="BaekjoonRe1561_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekjoonRe1561_1" />
       <module name="Algorithm" />
@@ -521,11 +522,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baekjoon14002" />
         <item itemvalue="Application.Baekjoon11053" />
         <item itemvalue="Application.Baekjoon2670" />
         <item itemvalue="Application.Baekjoon14003" />
         <item itemvalue="Application.BaekjoonRe1561_1" />
-        <item itemvalue="Application.BaekjoonRe14391_4" />
       </list>
     </recent_temporary>
   </component>
@@ -758,15 +759,7 @@
       <workItem from="1722133901511" duration="15666000" />
       <workItem from="1722218745792" duration="12051000" />
       <workItem from="1722257598520" duration="1166000" />
-      <workItem from="1722302236010" duration="6565000" />
-    </task>
-    <task id="LOCAL-00273" summary="1911 흙길 보수하기 오답(1)">
-      <option name="closed" value="true" />
-      <created>1721445660435</created>
-      <option name="number" value="00273" />
-      <option name="presentableId" value="LOCAL-00273" />
-      <option name="project" value="LOCAL" />
-      <updated>1721445660435</updated>
+      <workItem from="1722302236010" duration="7643000" />
     </task>
     <task id="LOCAL-00274" summary="14888 연산자 끼워넣기">
       <option name="closed" value="true" />
@@ -1152,14 +1145,21 @@
       <option name="project" value="LOCAL" />
       <updated>1722314894514</updated>
     </task>
-    <option name="localTasksCounter" value="322" />
+    <task id="LOCAL-00322" summary="11053 가장 긴 증가하는 부분 수열">
+      <option name="closed" value="true" />
+      <created>1722316530283</created>
+      <option name="number" value="00322" />
+      <option name="presentableId" value="LOCAL-00322" />
+      <option name="project" value="LOCAL" />
+      <updated>1722316530285</updated>
+    </task>
+    <option name="localTasksCounter" value="323" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2792 보석 상자 오답(1)" />
     <MESSAGE value="2343 기타 레슨 오답(1)" />
     <MESSAGE value="6236 용돈 관리 오답(1)" />
     <MESSAGE value="1269 대칭 차집합" />
@@ -1184,6 +1184,7 @@
     <MESSAGE value="1561 놀이 공원" />
     <MESSAGE value="14003 가장 긴 증가하는 부분 수열 5" />
     <MESSAGE value="2670 연속부분최대곱" />
-    <option name="LAST_COMMIT_MESSAGE" value="2670 연속부분최대곱" />
+    <MESSAGE value="11053 가장 긴 증가하는 부분 수열" />
+    <option name="LAST_COMMIT_MESSAGE" value="11053 가장 긴 증가하는 부분 수열" />
   </component>
 </project>
