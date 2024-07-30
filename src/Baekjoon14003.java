@@ -27,6 +27,7 @@ public class Baekjoon14003 {
                     else l = mid + 1;
                 }
                 li.set(h, a[i]);
+                System.out.println(h + " " + a[i]);
                 idx[i] = h;
             }
         }
