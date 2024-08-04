@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="6236 용돈 관리 오답(3)">
-      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe2098_1.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="2098 외판원 순회 오답(3)">
+      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe17070_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -329,6 +329,7 @@
     "Application.BaekjoonRe1700_1.executor": "Run",
     "Application.BaekjoonRe1700_2.executor": "Run",
     "Application.BaekjoonRe1700_3.executor": "Run",
+    "Application.BaekjoonRe17070_1.executor": "Run",
     "Application.BaekjoonRe17071.executor": "Run",
     "Application.BaekjoonRe17143_1.executor": "Run",
     "Application.BaekjoonRe17143_2.executor": "Run",
@@ -506,9 +507,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BaekjoonRe2098_1">
-    <configuration name="BaekjoonRe1931_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekjoonRe1931_4" />
+  <component name="RunManager" selected="Application.BaekjoonRe17070_1">
+    <configuration name="BaekjoonRe17070_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekjoonRe17070_1" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -544,11 +545,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BaekjoonRe17070_1" />
         <item itemvalue="Application.BaekjoonRe2098_1" />
         <item itemvalue="Application.BaekjoonRe6236_3" />
         <item itemvalue="Application.BaekjoonRe2343_3" />
         <item itemvalue="Application.BaekjoonRe2792_3" />
-        <item itemvalue="Application.BaekjoonRe1931_4" />
       </list>
     </recent_temporary>
   </component>
@@ -788,15 +789,7 @@
       <workItem from="1722564443296" duration="10523000" />
       <workItem from="1722646097889" duration="11305000" />
       <workItem from="1722683472233" duration="3092000" />
-      <workItem from="1722740950396" duration="3700000" />
-    </task>
-    <task id="LOCAL-00297" summary="6236 용돈 관리 오답(1)">
-      <option name="closed" value="true" />
-      <created>1721877166707</created>
-      <option name="number" value="00297" />
-      <option name="presentableId" value="LOCAL-00297" />
-      <option name="project" value="LOCAL" />
-      <updated>1721877166707</updated>
+      <workItem from="1722740950396" duration="4894000" />
     </task>
     <task id="LOCAL-00298" summary="1269 대칭 차집합">
       <option name="closed" value="true" />
@@ -1182,14 +1175,21 @@
       <option name="project" value="LOCAL" />
       <updated>1722743718300</updated>
     </task>
-    <option name="localTasksCounter" value="346" />
+    <task id="LOCAL-00346" summary="2098 외판원 순회 오답(3)">
+      <option name="closed" value="true" />
+      <created>1722745157445</created>
+      <option name="number" value="00346" />
+      <option name="presentableId" value="LOCAL-00346" />
+      <option name="project" value="LOCAL" />
+      <updated>1722745157445</updated>
+    </task>
+    <option name="localTasksCounter" value="347" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2670 연속부분최대곱" />
     <MESSAGE value="11053 가장 긴 증가하는 부분 수열" />
     <MESSAGE value="14002 가장 긴 증가하는 부분 수열 4" />
     <MESSAGE value="1062 가르침 오답(5)" />
@@ -1214,6 +1214,7 @@
     <MESSAGE value="2792 보석 상자 오답(3)" />
     <MESSAGE value="2343 기타 레슨 오답(3)" />
     <MESSAGE value="6236 용돈 관리 오답(3)" />
-    <option name="LAST_COMMIT_MESSAGE" value="6236 용돈 관리 오답(3)" />
+    <MESSAGE value="2098 외판원 순회 오답(3)" />
+    <option name="LAST_COMMIT_MESSAGE" value="2098 외판원 순회 오답(3)" />
   </component>
 </project>
