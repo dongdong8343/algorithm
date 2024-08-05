@@ -1,14 +1,14 @@
 import java.util.*;
 import java.io.*;
-public class BaekjoonRe14627_3 {
-    static long n, m, sum, l, h, ret;
+public class BaekjoonRe14627_2 {
+    static long n, m, sum = 0, ret = 0, cnt, l, h;
     static long[] a = new long[1000004];
     static boolean check(long mid){
-        long cnt = 0;
+        cnt = 0;
         for(int i = 0; i < n; i++){
             cnt += a[i] / mid;
         }
-        return m <= cnt;
+        return cnt >= m;
     }
     public static void main(String[] args)throws Exception{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -16,10 +16,11 @@ public class BaekjoonRe14627_3 {
         n = Integer.parseInt(st.nextToken());
         m = Integer.parseInt(st.nextToken());
         for(int i = 0; i < n; i++){
-            a[i] = Integer.parseInt(br.readLine());
-            sum += a[i];
+            int x = Integer.parseInt(br.readLine());
+            a[i] = x;
+            sum += x;
         }
-        l = 1; h = (int)1e9;
+        l = 1; h = (long)1e9;
         while(l <= h){
             long mid = (l + h) / 2;
             if(check(mid)){
@@ -27,6 +28,6 @@ public class BaekjoonRe14627_3 {
                 ret = mid;
             }else h = mid - 1;
         }
-        System.out.println(sum - m * ret);
+        System.out.println(sum - (ret * m));
     }
 }
