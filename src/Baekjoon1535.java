@@ -24,11 +24,12 @@ public class Baekjoon1535 {
         Collections.sort(li, (o1, o2) -> {
             return o1.x - o2.x;
         });
-        for(Point p : li){
-            for(int j = 100; j > p.x; j--){
+        for (Point p : li) {
+            for (int j = 100; j > p.x; j--) {
                 dp[j] = Math.max(dp[j], p.y + dp[j - p.x]);
             }
         }
+
         System.out.println(dp[100]);
     }
 }
