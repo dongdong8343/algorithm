@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="14003 가장 긴 증가하는 부분 수열 5 오답(3)">
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="2565 전깃줄 오답(3)">
       <change afterPath="$PROJECT_DIR$/src/Baekjoon16235.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe2565_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe12852_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekjoonRe2565_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekjoonRe2565_3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -534,9 +533,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BaekjoonRe2565_3">
-    <configuration name="Baekjoon16235" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon16235" />
+  <component name="RunManager" selected="Application.BaekjoonRe12852_2">
+    <configuration name="BaekjoonRe12852_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekjoonRe12852_2" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -572,11 +571,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BaekjoonRe12852_2" />
         <item itemvalue="Application.BaekjoonRe2565_3" />
         <item itemvalue="Application.BaekjoonRe14003_3" />
         <item itemvalue="Application.BaekjoonRe1561_3" />
         <item itemvalue="Application.BaekjoonRe1513_1" />
-        <item itemvalue="Application.Baekjoon16235" />
       </list>
     </recent_temporary>
   </component>
@@ -824,15 +823,7 @@
       <workItem from="1723078084774" duration="6348000" />
       <workItem from="1723090886750" duration="9556000" />
       <workItem from="1723185596567" duration="4436000" />
-      <workItem from="1723256463529" duration="3094000" />
-    </task>
-    <task id="LOCAL-00324" summary="1062 가르침 오답(5)">
-      <option name="closed" value="true" />
-      <created>1722389939366</created>
-      <option name="number" value="00324" />
-      <option name="presentableId" value="LOCAL-00324" />
-      <option name="project" value="LOCAL" />
-      <updated>1722389939366</updated>
+      <workItem from="1723256463529" duration="4241000" />
     </task>
     <task id="LOCAL-00325" summary="2565 전깃줄">
       <option name="closed" value="true" />
@@ -1218,14 +1209,21 @@
       <option name="project" value="LOCAL" />
       <updated>1723258648603</updated>
     </task>
-    <option name="localTasksCounter" value="373" />
+    <task id="LOCAL-00373" summary="2565 전깃줄 오답(3)">
+      <option name="closed" value="true" />
+      <created>1723259612992</created>
+      <option name="number" value="00373" />
+      <option name="presentableId" value="LOCAL-00373" />
+      <option name="project" value="LOCAL" />
+      <updated>1723259612992</updated>
+    </task>
+    <option name="localTasksCounter" value="374" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="17070 파이프 옮기기1 오답(3)" />
     <MESSAGE value="1103 게임" />
     <MESSAGE value="2240 자두나무" />
     <MESSAGE value="1644 소수의 연속합 오답(4)" />
@@ -1250,6 +1248,7 @@
     <MESSAGE value="1535 안녕" />
     <MESSAGE value="1561 놀이 공원 오답(3)" />
     <MESSAGE value="14003 가장 긴 증가하는 부분 수열 5 오답(3)" />
-    <option name="LAST_COMMIT_MESSAGE" value="14003 가장 긴 증가하는 부분 수열 5 오답(3)" />
+    <MESSAGE value="2565 전깃줄 오답(3)" />
+    <option name="LAST_COMMIT_MESSAGE" value="2565 전깃줄 오답(3)" />
   </component>
 </project>
