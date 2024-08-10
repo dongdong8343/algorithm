@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="12852 1로 만들기 2 오답(2)">
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="4781 사탕 가게 오답(2)">
       <change afterPath="$PROJECT_DIR$/src/Baekjoon16235.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe4781_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -534,7 +534,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BaekjoonRe4781_2">
+  <component name="RunManager" selected="Application.Baekjoon16235">
+    <configuration name="Baekjoon16235" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon16235" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BaekjoonRe12852_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekjoonRe12852_2" />
       <module name="Algorithm" />
@@ -544,13 +551,6 @@
     </configuration>
     <configuration name="BaekjoonRe14003_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekjoonRe14003_3" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BaekjoonRe1561_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekjoonRe1561_3" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -572,11 +572,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baekjoon16235" />
         <item itemvalue="Application.BaekjoonRe4781_2" />
         <item itemvalue="Application.BaekjoonRe12852_2" />
         <item itemvalue="Application.BaekjoonRe2565_3" />
         <item itemvalue="Application.BaekjoonRe14003_3" />
-        <item itemvalue="Application.BaekjoonRe1561_3" />
       </list>
     </recent_temporary>
   </component>
@@ -824,15 +824,7 @@
       <workItem from="1723078084774" duration="6348000" />
       <workItem from="1723090886750" duration="9556000" />
       <workItem from="1723185596567" duration="4436000" />
-      <workItem from="1723256463529" duration="5061000" />
-    </task>
-    <task id="LOCAL-00326" summary="5430 AC 오답(4)">
-      <option name="closed" value="true" />
-      <created>1722393539404</created>
-      <option name="number" value="00326" />
-      <option name="presentableId" value="LOCAL-00326" />
-      <option name="project" value="LOCAL" />
-      <updated>1722393539404</updated>
+      <workItem from="1723256463529" duration="7441000" />
     </task>
     <task id="LOCAL-00327" summary="14003 가장 긴 증가하는 부분 수열 5 오답(1)">
       <option name="closed" value="true" />
@@ -1218,14 +1210,21 @@
       <option name="project" value="LOCAL" />
       <updated>1723262944719</updated>
     </task>
-    <option name="localTasksCounter" value="375" />
+    <task id="LOCAL-00375" summary="4781 사탕 가게 오답(2)">
+      <option name="closed" value="true" />
+      <created>1723263625372</created>
+      <option name="number" value="00375" />
+      <option name="presentableId" value="LOCAL-00375" />
+      <option name="project" value="LOCAL" />
+      <updated>1723263625372</updated>
+    </task>
+    <option name="localTasksCounter" value="376" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2240 자두나무" />
     <MESSAGE value="1644 소수의 연속합 오답(4)" />
     <MESSAGE value="14627 파닭파닭 오답(3)" />
     <MESSAGE value="1103 게임 오답(1)" />
@@ -1250,6 +1249,7 @@
     <MESSAGE value="14003 가장 긴 증가하는 부분 수열 5 오답(3)" />
     <MESSAGE value="2565 전깃줄 오답(3)" />
     <MESSAGE value="12852 1로 만들기 2 오답(2)" />
-    <option name="LAST_COMMIT_MESSAGE" value="12852 1로 만들기 2 오답(2)" />
+    <MESSAGE value="4781 사탕 가게 오답(2)" />
+    <option name="LAST_COMMIT_MESSAGE" value="4781 사탕 가게 오답(2)" />
   </component>
 </project>
