@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="14867 물통">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon1344.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="1344 축구">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon10942.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +63,7 @@
     "Application.Baekjoon1085.executor": "Run",
     "Application.Baekjoon10871.executor": "Run",
     "Application.Baekjoon1094.executor": "Run",
+    "Application.Baekjoon10942.executor": "Run",
     "Application.Baekjoon10950.executor": "Run",
     "Application.Baekjoon10951.executor": "Run",
     "Application.Baekjoon10952.executor": "Run",
@@ -547,7 +548,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon1344">
+  <component name="RunManager" selected="Application.Baekjoon10942">
+    <configuration name="Baekjoon10942" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon10942" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Baekjoon1344" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon1344" />
       <module name="Algorithm" />
@@ -576,20 +584,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaekjoonRe2098_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekjoonRe2098_3" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baekjoon10942" />
         <item itemvalue="Application.Baekjoon1344" />
         <item itemvalue="Application.BaekjoonRe1344" />
         <item itemvalue="Application.Baekjoon14867" />
         <item itemvalue="Application.BaekjoonRe17070_3" />
-        <item itemvalue="Application.BaekjoonRe2098_3" />
       </list>
     </recent_temporary>
   </component>
@@ -841,15 +842,7 @@
       <workItem from="1723423398515" duration="17665000" />
       <workItem from="1723529864103" duration="8006000" />
       <workItem from="1723595486322" duration="9878000" />
-      <workItem from="1723613247333" duration="1427000" />
-    </task>
-    <task id="LOCAL-00339" summary="2098 외판원 순회">
-      <option name="closed" value="true" />
-      <created>1722655422088</created>
-      <option name="number" value="00339" />
-      <option name="presentableId" value="LOCAL-00339" />
-      <option name="project" value="LOCAL" />
-      <updated>1722655422088</updated>
+      <workItem from="1723613247333" duration="8120000" />
     </task>
     <task id="LOCAL-00340" summary="17070 파이프 옮기기 1">
       <option name="closed" value="true" />
@@ -1235,14 +1228,21 @@
       <option name="project" value="LOCAL" />
       <updated>1723606046951</updated>
     </task>
-    <option name="localTasksCounter" value="388" />
+    <task id="LOCAL-00388" summary="1344 축구">
+      <option name="closed" value="true" />
+      <created>1723614733491</created>
+      <option name="number" value="00388" />
+      <option name="presentableId" value="LOCAL-00388" />
+      <option name="project" value="LOCAL" />
+      <updated>1723614733491</updated>
+    </task>
+    <option name="localTasksCounter" value="389" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="12865 평범한 배낭" />
     <MESSAGE value="2098 외판원 순회 오답(2)" />
     <MESSAGE value="17070 파이프 옮기기 1 오답(2)" />
     <MESSAGE value="17144 미세먼지 안녕! 오답(4)" />
@@ -1267,6 +1267,7 @@
     <MESSAGE value="2098 외판원 순회 오답(3)" />
     <MESSAGE value="17070 파이프 옮기기 1 오답(3)" />
     <MESSAGE value="14867 물통" />
-    <option name="LAST_COMMIT_MESSAGE" value="14867 물통" />
+    <MESSAGE value="1344 축구" />
+    <option name="LAST_COMMIT_MESSAGE" value="1344 축구" />
   </component>
 </project>
