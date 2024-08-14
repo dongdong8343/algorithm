@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="17070 파이프 옮기기 1 오답(3)">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon14867.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="14867 물통">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon1344.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,6 +108,7 @@
     "Application.Baekjoon1325.executor": "Run",
     "Application.Baekjoon1330.executor": "Run",
     "Application.Baekjoon13300.executor": "Run",
+    "Application.Baekjoon1344.executor": "Run",
     "Application.Baekjoon13909.executor": "Run",
     "Application.Baekjoon13913.executor": "Run",
     "Application.Baekjoon14002.executor": "Run",
@@ -324,6 +325,7 @@
     "Application.BaekjoonRe13144_3.executor": "Run",
     "Application.BaekjoonRe13144_4.executor": "Run",
     "Application.BaekjoonRe13144_5.executor": "Run",
+    "Application.BaekjoonRe1344.executor": "Run",
     "Application.BaekjoonRe14003_2.executor": "Run",
     "Application.BaekjoonRe14003_3.executor": "Run",
     "Application.BaekjoonRe1436.executor": "Run",
@@ -545,7 +547,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon14867">
+  <component name="RunManager" selected="Application.Baekjoon1344">
+    <configuration name="Baekjoon1344" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon1344" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Baekjoon14867" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon14867" />
       <module name="Algorithm" />
@@ -553,22 +562,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BaekjoonRe1344" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekjoonRe1344" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BaekjoonRe17070_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekjoonRe17070_3" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BaekjoonRe17136_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekjoonRe17136_1" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BaekjoonRe17837_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekjoonRe17837_1" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -583,11 +585,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baekjoon1344" />
+        <item itemvalue="Application.BaekjoonRe1344" />
         <item itemvalue="Application.Baekjoon14867" />
         <item itemvalue="Application.BaekjoonRe17070_3" />
         <item itemvalue="Application.BaekjoonRe2098_3" />
-        <item itemvalue="Application.BaekjoonRe17837_1" />
-        <item itemvalue="Application.BaekjoonRe17136_1" />
       </list>
     </recent_temporary>
   </component>
@@ -838,15 +840,8 @@
       <workItem from="1723256463529" duration="7715000" />
       <workItem from="1723423398515" duration="17665000" />
       <workItem from="1723529864103" duration="8006000" />
-      <workItem from="1723595486322" duration="8954000" />
-    </task>
-    <task id="LOCAL-00338" summary="2565 전깃줄 오답(3)">
-      <option name="closed" value="true" />
-      <created>1722649502102</created>
-      <option name="number" value="00338" />
-      <option name="presentableId" value="LOCAL-00338" />
-      <option name="project" value="LOCAL" />
-      <updated>1722649502102</updated>
+      <workItem from="1723595486322" duration="9878000" />
+      <workItem from="1723613247333" duration="1427000" />
     </task>
     <task id="LOCAL-00339" summary="2098 외판원 순회">
       <option name="closed" value="true" />
@@ -1232,14 +1227,21 @@
       <option name="project" value="LOCAL" />
       <updated>1723597546536</updated>
     </task>
-    <option name="localTasksCounter" value="387" />
+    <task id="LOCAL-00387" summary="14867 물통">
+      <option name="closed" value="true" />
+      <created>1723606046951</created>
+      <option name="number" value="00387" />
+      <option name="presentableId" value="LOCAL-00387" />
+      <option name="project" value="LOCAL" />
+      <updated>1723606046951</updated>
+    </task>
+    <option name="localTasksCounter" value="388" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="4781 사탕 가게 오답(1)" />
     <MESSAGE value="12865 평범한 배낭" />
     <MESSAGE value="2098 외판원 순회 오답(2)" />
     <MESSAGE value="17070 파이프 옮기기 1 오답(2)" />
@@ -1264,6 +1266,7 @@
     <MESSAGE value="17837 새로운 게임 2 오답(1)" />
     <MESSAGE value="2098 외판원 순회 오답(3)" />
     <MESSAGE value="17070 파이프 옮기기 1 오답(3)" />
-    <option name="LAST_COMMIT_MESSAGE" value="17070 파이프 옮기기 1 오답(3)" />
+    <MESSAGE value="14867 물통" />
+    <option name="LAST_COMMIT_MESSAGE" value="14867 물통" />
   </component>
 </project>
