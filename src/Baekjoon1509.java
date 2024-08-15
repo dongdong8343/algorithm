@@ -1,31 +1,31 @@
 import java.util.*;
 import java.io.*;
 public class Baekjoon1509 {
-    static char[] a = new char[2504];
     static boolean[][] dp = new boolean[2504][2504];
-    static int max, cnt = 0;
+    static int[] dp2 = new int[2504];
+    static String s;
+    static int go(int here){
+        if(here == s.length()) return 0;
+        if(dp2[here] != 987654321) return dp2[here];
+        for(int i = 1; here + i <= s.length(); i++){
+            if(dp[here][i]) dp2[here] = Math.min(dp2[here], go(here + i) + 1);
+        }
+        return dp2[here];
+    }
     public static void main(String[] args)throws Exception{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        String s = br.readLine();
+        s = br.readLine();
         int n = s.length();
-        for(int i = 0; i < n; i++) a[i] = s.charAt(i);
-        for(int i = 0; i < n; i++) dp[i][i] = true;
-        for(int i = 0; i < n; i++) {
-            if(a[i] == a[i + 1]) dp[i][i + 1] = true;
+        for(int i = 0; i < n; i++) dp[i][1] = true;
+        for(int i = 0; i < n - 1; i++) {
+            if(s.charAt(i) == s.charAt(i + 1)) dp[i][2] = true;
         }
-        for(int size = 2; size < n; size++){
-            for(int i = 0; i + size < n; i++){
-                if(a[i] == a[i + size] && dp[i + 1][i + size - 1]) dp[i][i + size] = true;
+        for(int size = 3; size <= n; size++){
+            for(int i = 0; i + size <= n; i++){
+                if(s.charAt(i) == s.charAt(i + size - 1) && dp[i + 1][size - 2]) dp[i][size] = true;
             }
         }
-        for(int i = 0; i < n; i = max + 1){
-            cnt++;
-            for(int j = i; j < n; j++){
-                if(dp[i][j]) {
-                    max = j;
-                }
-            }
-        }
-        System.out.println(cnt);
+        Arrays.fill(dp2, 987654321);
+        System.out.println(go(0));
     }
 }
