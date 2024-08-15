@@ -14,9 +14,9 @@ public class Baekjoon10942 {
         for(int i = 0; i < n; i++){
             if(a[i] == a[i + 1]) dp[i][i + 1] = 1;
         }
-        for(int i = 2; i < n; i++){
-            for(int j = 0; j <= n - i; j++){
-                if(a[j] == a[j + i] && dp[j + 1][j + i - 1] == 1) dp[j][j + i] = 1;
+        for(int size = 2; size < n; size++){
+            for(int j = 0; j <= n - size - 1; j++){
+                if(a[j] == a[j + size] && dp[j + 1][j + size - 1] == 1) dp[j][j + size] = 1;
             }
         }
         m = Integer.parseInt(br.readLine());

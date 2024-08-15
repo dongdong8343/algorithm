@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="1344 축구">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon10942.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="10942 팰린드롬?">
+      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe14867_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Baekjoon10942.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon10942.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -336,6 +337,7 @@
     "Application.BaekjoonRe14502.executor": "Run",
     "Application.BaekjoonRe14627_1.executor": "Run",
     "Application.BaekjoonRe14627_3.executor": "Run",
+    "Application.BaekjoonRe14867.executor": "Run",
     "Application.BaekjoonRe14890.executor": "Run",
     "Application.BaekjoonRe14890_3.executor": "Run",
     "Application.BaekjoonRe14890_4.executor": "Run",
@@ -548,7 +550,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon10942">
+  <component name="RunManager" selected="Application.BaekjoonRe14867_1">
     <configuration name="Baekjoon10942" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon10942" />
       <module name="Algorithm" />
@@ -577,8 +579,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaekjoonRe17070_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekjoonRe17070_3" />
+    <configuration name="BaekjoonRe14867_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekjoonRe14867_1" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -586,11 +588,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BaekjoonRe14867_1" />
         <item itemvalue="Application.Baekjoon10942" />
         <item itemvalue="Application.Baekjoon1344" />
         <item itemvalue="Application.BaekjoonRe1344" />
         <item itemvalue="Application.Baekjoon14867" />
-        <item itemvalue="Application.BaekjoonRe17070_3" />
       </list>
     </recent_temporary>
   </component>
@@ -842,15 +844,8 @@
       <workItem from="1723423398515" duration="17665000" />
       <workItem from="1723529864103" duration="8006000" />
       <workItem from="1723595486322" duration="9878000" />
-      <workItem from="1723613247333" duration="8120000" />
-    </task>
-    <task id="LOCAL-00340" summary="17070 파이프 옮기기 1">
-      <option name="closed" value="true" />
-      <created>1722684399922</created>
-      <option name="number" value="00340" />
-      <option name="presentableId" value="LOCAL-00340" />
-      <option name="project" value="LOCAL" />
-      <updated>1722684399924</updated>
+      <workItem from="1723613247333" duration="9790000" />
+      <workItem from="1723693357726" duration="3350000" />
     </task>
     <task id="LOCAL-00341" summary="14003 가장 긴 증가하는 부분 수열 5 오답(2)">
       <option name="closed" value="true" />
@@ -1236,14 +1231,21 @@
       <option name="project" value="LOCAL" />
       <updated>1723614733491</updated>
     </task>
-    <option name="localTasksCounter" value="389" />
+    <task id="LOCAL-00389" summary="10942 팰린드롬?">
+      <option name="closed" value="true" />
+      <created>1723622746125</created>
+      <option name="number" value="00389" />
+      <option name="presentableId" value="LOCAL-00389" />
+      <option name="project" value="LOCAL" />
+      <updated>1723622746125</updated>
+    </task>
+    <option name="localTasksCounter" value="390" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2098 외판원 순회 오답(2)" />
     <MESSAGE value="17070 파이프 옮기기 1 오답(2)" />
     <MESSAGE value="17144 미세먼지 안녕! 오답(4)" />
     <MESSAGE value="1103 게임 오답(2)" />
@@ -1268,6 +1270,7 @@
     <MESSAGE value="17070 파이프 옮기기 1 오답(3)" />
     <MESSAGE value="14867 물통" />
     <MESSAGE value="1344 축구" />
-    <option name="LAST_COMMIT_MESSAGE" value="1344 축구" />
+    <MESSAGE value="10942 팰린드롬?" />
+    <option name="LAST_COMMIT_MESSAGE" value="10942 팰린드롬?" />
   </component>
 </project>
