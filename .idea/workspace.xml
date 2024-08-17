@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="14863 서울에서 경산까지">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon2342.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="2342 Dance Dance Revolution">
+      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe17406_4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -388,6 +388,7 @@
     "Application.BaekjoonRe17406_1.executor": "Run",
     "Application.BaekjoonRe17406_2.executor": "Run",
     "Application.BaekjoonRe17406_3.executor": "Run",
+    "Application.BaekjoonRe17406_4.executor": "Run",
     "Application.BaekjoonRe17825_2.executor": "Run",
     "Application.BaekjoonRe17825_3.executor": "Run",
     "Application.BaekjoonRe17837_1.executor": "Run",
@@ -563,14 +564,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon2342">
-    <configuration name="Baekjoon1450" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon1450" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.BaekjoonRe17406_4">
     <configuration name="Baekjoon14863" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon14863" />
       <module name="Algorithm" />
@@ -592,6 +586,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BaekjoonRe17406_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekjoonRe17406_4" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BaekjoonRe4781_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekjoonRe4781_3" />
       <module name="Algorithm" />
@@ -601,11 +602,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BaekjoonRe17406_4" />
         <item itemvalue="Application.Baekjoon2342" />
         <item itemvalue="Application.Baekjoon14863" />
         <item itemvalue="Application.BaekjoonRe1450_1" />
         <item itemvalue="Application.BaekjoonRe4781_3" />
-        <item itemvalue="Application.Baekjoon1450" />
       </list>
     </recent_temporary>
   </component>
@@ -862,15 +863,7 @@
       <workItem from="1723768036225" duration="1866000" />
       <workItem from="1723781297692" duration="14582000" />
       <workItem from="1723868655283" duration="5866000" />
-      <workItem from="1723890607297" duration="3852000" />
-    </task>
-    <task id="LOCAL-00357" summary="12852 1로 만들기 2 오답(1)">
-      <option name="closed" value="true" />
-      <created>1722908701192</created>
-      <option name="number" value="00357" />
-      <option name="presentableId" value="LOCAL-00357" />
-      <option name="project" value="LOCAL" />
-      <updated>1722908701192</updated>
+      <workItem from="1723890607297" duration="7468000" />
     </task>
     <task id="LOCAL-00358" summary="2294 동전 2">
       <option name="closed" value="true" />
@@ -1256,14 +1249,21 @@
       <option name="project" value="LOCAL" />
       <updated>1723876797597</updated>
     </task>
-    <option name="localTasksCounter" value="406" />
+    <task id="LOCAL-00406" summary="2342 Dance Dance Revolution">
+      <option name="closed" value="true" />
+      <created>1723894842761</created>
+      <option name="number" value="00406" />
+      <option name="presentableId" value="LOCAL-00406" />
+      <option name="project" value="LOCAL" />
+      <updated>1723894842761</updated>
+    </task>
+    <option name="localTasksCounter" value="407" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="3190 뱀 오답(4)" />
     <MESSAGE value="17136 색종이 붙이기" />
     <MESSAGE value="17837 새로운 게임 2" />
     <MESSAGE value="13144 List of Unique Numbers 오답(5)" />
@@ -1288,6 +1288,7 @@
     <MESSAGE value="4781 사탕 가게" />
     <MESSAGE value="1450 냅색문제 오답(1)" />
     <MESSAGE value="14863 서울에서 경산까지" />
-    <option name="LAST_COMMIT_MESSAGE" value="14863 서울에서 경산까지" />
+    <MESSAGE value="2342 Dance Dance Revolution" />
+    <option name="LAST_COMMIT_MESSAGE" value="2342 Dance Dance Revolution" />
   </component>
 </project>
