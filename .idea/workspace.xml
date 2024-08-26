@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="1912 연속합">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon1149.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="1149 RGB거리">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon1932.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -182,6 +182,7 @@
     "Application.Baekjoon1919.executor": "Run",
     "Application.Baekjoon1929.executor": "Run",
     "Application.Baekjoon1931.executor": "Run",
+    "Application.Baekjoon1932.executor": "Run",
     "Application.Baekjoon1934.executor": "Run",
     "Application.Baekjoon1940.executor": "Run",
     "Application.Baekjoon19532.executor": "Run",
@@ -587,7 +588,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon1149">
+  <component name="RunManager" selected="Application.Baekjoon1932">
     <configuration name="Baekjoon1149" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon1149" />
       <module name="Algorithm" />
@@ -602,8 +603,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaekjoonRe1450_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekjoonRe1450_3" />
+    <configuration name="Baekjoon1932" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon1932" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -625,11 +626,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baekjoon1932" />
         <item itemvalue="Application.Baekjoon1149" />
         <item itemvalue="Application.Baekjoon1912_1" />
         <item itemvalue="Application.BaekjoonRe2792_4" />
         <item itemvalue="Application.BaekjoonRe17837_3" />
-        <item itemvalue="Application.BaekjoonRe1450_3" />
       </list>
     </recent_temporary>
   </component>
@@ -896,15 +897,7 @@
       <workItem from="1724377340605" duration="6092000" />
       <workItem from="1724402708473" duration="1000000" />
       <workItem from="1724580963244" duration="1409000" />
-      <workItem from="1724633261619" duration="1516000" />
-    </task>
-    <task id="LOCAL-00381" summary="17837 새로운 게임 2">
-      <option name="closed" value="true" />
-      <created>1723452726966</created>
-      <option name="number" value="00381" />
-      <option name="presentableId" value="LOCAL-00381" />
-      <option name="project" value="LOCAL" />
-      <updated>1723452726966</updated>
+      <workItem from="1724633261619" duration="4050000" />
     </task>
     <task id="LOCAL-00382" summary="13144 List of Unique Numbers 오답(5)">
       <option name="closed" value="true" />
@@ -1290,14 +1283,21 @@
       <option name="project" value="LOCAL" />
       <updated>1724633519587</updated>
     </task>
-    <option name="localTasksCounter" value="430" />
+    <task id="LOCAL-00430" summary="1149 RGB거리">
+      <option name="closed" value="true" />
+      <created>1724635456246</created>
+      <option name="number" value="00430" />
+      <option name="presentableId" value="LOCAL-00430" />
+      <option name="project" value="LOCAL" />
+      <updated>1724635456246</updated>
+    </task>
+    <option name="localTasksCounter" value="431" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="14863 서울에서 경산까지" />
     <MESSAGE value="2342 Dance Dance Revolution" />
     <MESSAGE value="17406 배열 돌리기 4 오답(4)" />
     <MESSAGE value="14867 물통 오답(2)" />
@@ -1322,6 +1322,7 @@
     <MESSAGE value="17837 새로운 게임 오답(3)" />
     <MESSAGE value="2792 보석 상자 오답(4)" />
     <MESSAGE value="1912 연속합" />
-    <option name="LAST_COMMIT_MESSAGE" value="1912 연속합" />
+    <MESSAGE value="1149 RGB거리" />
+    <option name="LAST_COMMIT_MESSAGE" value="1149 RGB거리" />
   </component>
 </project>
