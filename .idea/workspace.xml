@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="9251 LCS">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon12865_1.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="12865 평범한 배낭">
+      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe_14627_4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -562,6 +562,7 @@
     "Application.BaekjoonReReReReRe3197.executor": "Run",
     "Application.BaekjoonReReReReReRe15684.executor": "Run",
     "Application.BaekjoonReReReReReRe3197.executor": "Run",
+    "Application.BaekjoonRe_14627_4.executor": "Run",
     "Application.BaekjoonRe_2343.executor": "Run",
     "Application.BaekjooonRe14003_1.executor": "Run",
     "Application.Bakejoon11022.executor": "Run",
@@ -600,14 +601,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon12865_1">
-    <configuration name="Baekjoon11053_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon11053_1" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.BaekjoonRe_14627_4">
     <configuration name="Baekjoon11054" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon11054" />
       <module name="Algorithm" />
@@ -636,13 +630,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BaekjoonRe_14627_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekjoonRe_14627_4" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BaekjoonRe_14627_4" />
         <item itemvalue="Application.Baekjoon12865_1" />
         <item itemvalue="Application.Baekjoon9251" />
         <item itemvalue="Application.BaekjoonRe2565_4" />
         <item itemvalue="Application.Baekjoon11054" />
-        <item itemvalue="Application.Baekjoon11053_1" />
       </list>
     </recent_temporary>
   </component>
@@ -910,15 +911,7 @@
       <workItem from="1724402708473" duration="1000000" />
       <workItem from="1724580963244" duration="1409000" />
       <workItem from="1724633261619" duration="16619000" />
-      <workItem from="1724720719551" duration="8584000" />
-    </task>
-    <task id="LOCAL-00394" summary="1103 게임 오답(3)">
-      <option name="closed" value="true" />
-      <created>1723703995543</created>
-      <option name="number" value="00394" />
-      <option name="presentableId" value="LOCAL-00394" />
-      <option name="project" value="LOCAL" />
-      <updated>1723703995543</updated>
+      <workItem from="1724720719551" duration="9642000" />
     </task>
     <task id="LOCAL-00395" summary="1509 팰린드롬 분할">
       <option name="closed" value="true" />
@@ -1304,14 +1297,21 @@
       <option name="project" value="LOCAL" />
       <updated>1724740985523</updated>
     </task>
-    <option name="localTasksCounter" value="443" />
+    <task id="LOCAL-00443" summary="12865 평범한 배낭">
+      <option name="closed" value="true" />
+      <created>1724742153436</created>
+      <option name="number" value="00443" />
+      <option name="presentableId" value="LOCAL-00443" />
+      <option name="project" value="LOCAL" />
+      <updated>1724742153436</updated>
+    </task>
+    <option name="localTasksCounter" value="444" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="3687 성냥개비" />
     <MESSAGE value="1480 보석 모으기 오답(1)" />
     <MESSAGE value="3687 성냥개비 오답(1)" />
     <MESSAGE value="24416 알고리즘 수업 - 피보나치 수 1" />
@@ -1336,6 +1336,7 @@
     <MESSAGE value="11054 가장 긴 바이토닉 부분 수열" />
     <MESSAGE value="2565 전깃줄" />
     <MESSAGE value="9251 LCS" />
-    <option name="LAST_COMMIT_MESSAGE" value="9251 LCS" />
+    <MESSAGE value="12865 평범한 배낭" />
+    <option name="LAST_COMMIT_MESSAGE" value="12865 평범한 배낭" />
   </component>
 </project>
