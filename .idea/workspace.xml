@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="10942 팰린드롬? 오답(3)">
-      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe1509_3.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="1509 팰린드롬 분할 오답(3)">
+      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe1480_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -369,6 +369,7 @@
     "Application.BaekjoonRe14627_1.executor": "Run",
     "Application.BaekjoonRe14627_3.executor": "Run",
     "Application.BaekjoonRe1480_1.executor": "Run",
+    "Application.BaekjoonRe1480_2.executor": "Run",
     "Application.BaekjoonRe14867.executor": "Run",
     "Application.BaekjoonRe14867_2.executor": "Run",
     "Application.BaekjoonRe14867_3.executor": "Run",
@@ -606,7 +607,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BaekjoonRe1509_3">
+  <component name="RunManager" selected="Application.BaekjoonRe1480_2">
     <configuration name="BaekjoonRe10942_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekjoonRe10942_3" />
       <module name="Algorithm" />
@@ -616,6 +617,13 @@
     </configuration>
     <configuration name="BaekjoonRe1344_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekjoonRe1344_3" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaekjoonRe1480_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekjoonRe1480_2" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -635,20 +643,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaekjoonRe17136_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekjoonRe17136_3" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BaekjoonRe1480_2" />
         <item itemvalue="Application.BaekjoonRe1509_3" />
         <item itemvalue="Application.BaekjoonRe10942_3" />
         <item itemvalue="Application.BaekjoonRe1344_3" />
         <item itemvalue="Application.BaekjoonRe14867_3" />
-        <item itemvalue="Application.BaekjoonRe17136_3" />
       </list>
     </recent_temporary>
   </component>
@@ -917,15 +918,7 @@
       <workItem from="1724580963244" duration="1409000" />
       <workItem from="1724633261619" duration="16619000" />
       <workItem from="1724720719551" duration="9790000" />
-      <workItem from="1724813008892" duration="9931000" />
-    </task>
-    <task id="LOCAL-00401" summary="1509 팰린드롬 분할 오답(1)">
-      <option name="closed" value="true" />
-      <created>1723790365198</created>
-      <option name="number" value="00401" />
-      <option name="presentableId" value="LOCAL-00401" />
-      <option name="project" value="LOCAL" />
-      <updated>1723790365198</updated>
+      <workItem from="1724813008892" duration="11110000" />
     </task>
     <task id="LOCAL-00402" summary="1450 냅색문제">
       <option name="closed" value="true" />
@@ -1311,14 +1304,21 @@
       <option name="project" value="LOCAL" />
       <updated>1724830468912</updated>
     </task>
-    <option name="localTasksCounter" value="450" />
+    <task id="LOCAL-00450" summary="1509 팰린드롬 분할 오답(3)">
+      <option name="closed" value="true" />
+      <created>1724832595584</created>
+      <option name="number" value="00450" />
+      <option name="presentableId" value="LOCAL-00450" />
+      <option name="project" value="LOCAL" />
+      <updated>1724832595584</updated>
+    </task>
+    <option name="localTasksCounter" value="451" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1450 냅색문제 오답(3)" />
     <MESSAGE value="2342 Dance Dance Revolution 오답(2)" />
     <MESSAGE value="17837 새로운 게임 오답(3)" />
     <MESSAGE value="2792 보석 상자 오답(4)" />
@@ -1343,6 +1343,7 @@
     <MESSAGE value="14867 물통 오답(3)" />
     <MESSAGE value="1344 축구 오답(3)" />
     <MESSAGE value="10942 팰린드롬? 오답(3)" />
-    <option name="LAST_COMMIT_MESSAGE" value="10942 팰린드롬? 오답(3)" />
+    <MESSAGE value="1509 팰린드롬 분할 오답(3)" />
+    <option name="LAST_COMMIT_MESSAGE" value="1509 팰린드롬 분할 오답(3)" />
   </component>
 </project>
