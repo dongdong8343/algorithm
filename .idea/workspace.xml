@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="3687 성냥개비 오답(3)">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon2618.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="2618 경찰차">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon1315.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Baekjoon2618.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon2618.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -929,15 +930,7 @@
       <workItem from="1724813008892" duration="11455000" />
       <workItem from="1724983498739" duration="2792000" />
       <workItem from="1725187579341" duration="5397000" />
-      <workItem from="1725230313484" duration="8023000" />
-    </task>
-    <task id="LOCAL-00409" summary="1344 축구 오답(2)">
-      <option name="closed" value="true" />
-      <created>1723958456669</created>
-      <option name="number" value="00409" />
-      <option name="presentableId" value="LOCAL-00409" />
-      <option name="project" value="LOCAL" />
-      <updated>1723958456670</updated>
+      <workItem from="1725230313484" duration="11109000" />
     </task>
     <task id="LOCAL-00410" summary="10942 팰린드롬? 오답(2)">
       <option name="closed" value="true" />
@@ -1323,14 +1316,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725231428380</updated>
     </task>
-    <option name="localTasksCounter" value="458" />
+    <task id="LOCAL-00458" summary="2618 경찰차">
+      <option name="closed" value="true" />
+      <created>1725241456228</created>
+      <option name="number" value="00458" />
+      <option name="presentableId" value="LOCAL-00458" />
+      <option name="project" value="LOCAL" />
+      <updated>1725241456228</updated>
+    </task>
+    <option name="localTasksCounter" value="459" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1463 1로 만들기" />
     <MESSAGE value="10844 쉬운 계단 수" />
     <MESSAGE value="17143 낚시왕 오답(4)" />
     <MESSAGE value="2343 기타 레슨 오답(4)" />
@@ -1355,6 +1355,7 @@
     <MESSAGE value="14003 가장 긴 증가하는 부분 수열 오답(4)" />
     <MESSAGE value="1480 보석 모으기 오답(3)" />
     <MESSAGE value="3687 성냥개비 오답(3)" />
-    <option name="LAST_COMMIT_MESSAGE" value="3687 성냥개비 오답(3)" />
+    <MESSAGE value="2618 경찰차" />
+    <option name="LAST_COMMIT_MESSAGE" value="2618 경찰차" />
   </component>
 </project>
