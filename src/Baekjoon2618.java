@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.*;
 import java.awt.Point;
 public class Baekjoon2618 {
-    static int n, w, ret = 0;
+    static int n, w;
     static Point[] a = new Point[1004];
     static int[][] dp = new int[1004][1004];
     static int val(int a, int b){
