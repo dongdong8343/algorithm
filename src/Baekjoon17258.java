@@ -6,9 +6,12 @@ public class Baekjoon17258 {
     static int[] a = new int[304];
     static int[][] dp = new int[304][304];
     static List<Point> v = new ArrayList<>();
+    // num = 얼마나 투입 가능한지
+    // prev = 이전에 얼마나 썼는지
     static int go(int here, int num, int prev){
         if(here == v.size()) return 0;
         if(dp[here][num] != 0) return dp[here][num];
+        // 필요한 cost
         int cost = Math.max(0, t - v.get(here).y);
         int real_cost = (prev >= cost) ? 0 : cost - prev;
         if(num - real_cost >= 0)
