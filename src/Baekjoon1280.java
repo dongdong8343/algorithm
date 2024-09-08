@@ -13,7 +13,9 @@ public class Baekjoon1280 {
         n = sc.nextInt();
 
         for (int i = 1; i <= n; i++) {
+            // 새로 입력 받은 나무의 거리
             value = sc.nextInt() + 1;
+            // 처음 심어지는 나무는 계산할 필요 x
             if (i != 1) {
                 long left = value * sum(tree_cnt, 1, value - 1) - sum(tree_sum, 1, value - 1);
                 long right = sum(tree_sum, value + 1, max_n - 1) - value * sum(tree_cnt, value + 1, max_n - 1);
