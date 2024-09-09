@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="2302 극장 좌석">
-      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe17297_1.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="17297 Messi Gimossi 오답(1)">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon11658.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,6 +89,7 @@
     "Application.Baekjoon11653.executor": "Run",
     "Application.Baekjoon11654.executor": "Run",
     "Application.Baekjoon11655.executor": "Run",
+    "Application.Baekjoon11658.executor": "Run",
     "Application.Baekjoon11718.executor": "Run",
     "Application.Baekjoon11720.executor": "Run",
     "Application.Baekjoon11723.executor": "Run",
@@ -636,9 +637,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BaekjoonRe17297_1">
-    <configuration name="Baekjoon2042" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon2042" />
+  <component name="RunManager" selected="Application.Baekjoon11658">
+    <configuration name="Baekjoon11658" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon11658" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -674,11 +675,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baekjoon11658" />
         <item itemvalue="Application.BaekjoonRe17297_1" />
         <item itemvalue="Application.BaekjoonRe2302_2" />
         <item itemvalue="Application.BaekjoonRe1315_2" />
         <item itemvalue="Application.BaekjoonRe4781_4" />
-        <item itemvalue="Application.Baekjoon2042" />
       </list>
     </recent_temporary>
   </component>
@@ -959,15 +960,8 @@
       <workItem from="1725577950457" duration="10248000" />
       <workItem from="1725683355082" duration="1660000" />
       <workItem from="1725706383716" duration="361000" />
-      <workItem from="1725756576966" duration="10897000" />
-    </task>
-    <task id="LOCAL-00434" summary="10844 쉬운 계단 수">
-      <option name="closed" value="true" />
-      <created>1724652893356</created>
-      <option name="number" value="00434" />
-      <option name="presentableId" value="LOCAL-00434" />
-      <option name="project" value="LOCAL" />
-      <updated>1724652893356</updated>
+      <workItem from="1725756576966" duration="11254000" />
+      <workItem from="1725837831639" duration="2207000" />
     </task>
     <task id="LOCAL-00435" summary="17143 낚시왕 오답(4)">
       <option name="closed" value="true" />
@@ -1353,14 +1347,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725776927961</updated>
     </task>
-    <option name="localTasksCounter" value="483" />
+    <task id="LOCAL-00483" summary="17297 Messi Gimossi 오답(1)">
+      <option name="closed" value="true" />
+      <created>1725778103938</created>
+      <option name="number" value="00483" />
+      <option name="presentableId" value="LOCAL-00483" />
+      <option name="project" value="LOCAL" />
+      <updated>1725778103938</updated>
+    </task>
+    <option name="localTasksCounter" value="484" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2342 Dance Dance Revolution 오답(3)" />
     <MESSAGE value="1561 놀이 공원 오답(4)" />
     <MESSAGE value="14003 가장 긴 증가하는 부분 수열 오답(4)" />
     <MESSAGE value="1480 보석 모으기 오답(3)" />
@@ -1385,6 +1386,7 @@
     <MESSAGE value="4781 사탕 가게" />
     <MESSAGE value="1315 RPG" />
     <MESSAGE value="2302 극장 좌석" />
-    <option name="LAST_COMMIT_MESSAGE" value="2302 극장 좌석" />
+    <MESSAGE value="17297 Messi Gimossi 오답(1)" />
+    <option name="LAST_COMMIT_MESSAGE" value="17297 Messi Gimossi 오답(1)" />
   </component>
 </project>
