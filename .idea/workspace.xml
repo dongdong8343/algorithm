@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="1486 등산">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon5719.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="5719 거의 최단 경로">
+      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe17258_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon1486.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon1486.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -439,6 +438,7 @@
     "Application.BaekjoonRe17144_2.executor": "Run",
     "Application.BaekjoonRe17144_4.executor": "Run",
     "Application.BaekjoonRe17258_1.executor": "Run",
+    "Application.BaekjoonRe17258_2.executor": "Run",
     "Application.BaekjoonRe17297_1.executor": "Run",
     "Application.BaekjoonRe17298.executor": "Run",
     "Application.BaekjoonRe17406_1.executor": "Run",
@@ -641,7 +641,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon5719">
+  <component name="RunManager" selected="Application.BaekjoonRe17258_2">
     <configuration name="Baekjoon11658" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon11658" />
       <module name="Algorithm" />
@@ -670,8 +670,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaekjoonRe17297_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekjoonRe17297_1" />
+    <configuration name="BaekjoonRe17258_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekjoonRe17258_2" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -679,11 +679,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BaekjoonRe17258_2" />
         <item itemvalue="Application.Baekjoon5719" />
         <item itemvalue="Application.Baekjoon1486" />
         <item itemvalue="Application.BaekjoonRe1513_4" />
         <item itemvalue="Application.Baekjoon11658" />
-        <item itemvalue="Application.BaekjoonRe17297_1" />
       </list>
     </recent_temporary>
   </component>
@@ -967,23 +967,7 @@
       <workItem from="1725756576966" duration="11254000" />
       <workItem from="1725837831639" duration="5336000" />
       <workItem from="1725879731992" duration="4086000" />
-      <workItem from="1725924052677" duration="3800000" />
-    </task>
-    <task id="LOCAL-00438" summary="2156 포도주 시식">
-      <option name="closed" value="true" />
-      <created>1724721030411</created>
-      <option name="number" value="00438" />
-      <option name="presentableId" value="LOCAL-00438" />
-      <option name="project" value="LOCAL" />
-      <updated>1724721030411</updated>
-    </task>
-    <task id="LOCAL-00439" summary="11053 가장 긴 증가하는 부분 수열">
-      <option name="closed" value="true" />
-      <created>1724721973197</created>
-      <option name="number" value="00439" />
-      <option name="presentableId" value="LOCAL-00439" />
-      <option name="project" value="LOCAL" />
-      <updated>1724721973198</updated>
+      <workItem from="1725924052677" duration="7425000" />
     </task>
     <task id="LOCAL-00440" summary="11054 가장 긴 바이토닉 부분 수열">
       <option name="closed" value="true" />
@@ -1361,14 +1345,29 @@
       <option name="project" value="LOCAL" />
       <updated>1725885045448</updated>
     </task>
-    <option name="localTasksCounter" value="487" />
+    <task id="LOCAL-00487" summary="1486 등산">
+      <option name="closed" value="true" />
+      <created>1725930383381</created>
+      <option name="number" value="00487" />
+      <option name="presentableId" value="LOCAL-00487" />
+      <option name="project" value="LOCAL" />
+      <updated>1725930383382</updated>
+    </task>
+    <task id="LOCAL-00488" summary="5719 거의 최단 경로">
+      <option name="closed" value="true" />
+      <created>1725930396123</created>
+      <option name="number" value="00488" />
+      <option name="presentableId" value="LOCAL-00488" />
+      <option name="project" value="LOCAL" />
+      <updated>1725930396124</updated>
+    </task>
+    <option name="localTasksCounter" value="489" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="3687 성냥개비 오답(3)" />
     <MESSAGE value="2618 경찰차" />
     <MESSAGE value="2618 경찰차 오답(1)" />
     <MESSAGE value="1315 RPG 오답(1)" />
@@ -1393,6 +1392,7 @@
     <MESSAGE value="11658 구간 합 구하기 3" />
     <MESSAGE value="1513 경로 찾기 오답(4)" />
     <MESSAGE value="1486 등산" />
-    <option name="LAST_COMMIT_MESSAGE" value="1486 등산" />
+    <MESSAGE value="5719 거의 최단 경로" />
+    <option name="LAST_COMMIT_MESSAGE" value="5719 거의 최단 경로" />
   </component>
 </project>
