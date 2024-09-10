@@ -30,16 +30,15 @@ public class Baekjoon1486 {
         for(int[] row : b){
             Arrays.fill(row, INF);
         }
+
+        // 초기값 세팅
         for(int i = 0; i < n; i++){
             for(int j = 0; j < m; j++){
                 for(int d = 0; d < 4; d++){
                     int ny = i + dy[d];
                     int nx = j + dx[d];
-
                     if(ny < 0 || ny >= n || nx < 0 || nx >= m) continue;
-
                     int h = Math.abs(a[i][j] - a[ny][nx]);
-
                     if(h <= t){
                         if(a[ny][nx] > a[i][j]) b[i * 100 + j][ny * 100 + nx] = h * h;
                         else b[i * 100 + j][ny * 100 + nx] = 1;
