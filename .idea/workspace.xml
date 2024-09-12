@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="5719 거의 최단 경로 오답(1)">
-      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe1280_2.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="1213 팰린드롬 만들기 오답(2)">
+      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe3653_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekjoonRe1213.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekjoonRe1213_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -520,6 +519,7 @@
     "Application.BaekjoonRe3197.executor": "Run",
     "Application.BaekjoonRe3474.executor": "Run",
     "Application.BaekjoonRe3653_1.executor": "Run",
+    "Application.BaekjoonRe3653_2.executor": "Run",
     "Application.BaekjoonRe3687_1.executor": "Run",
     "Application.BaekjoonRe3687_2.executor": "Run",
     "Application.BaekjoonRe3687_3.executor": "Run",
@@ -649,14 +649,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BaekjoonRe1280_2">
-    <configuration name="BaekjoonRe1280_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekjoonRe1280_1" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.BaekjoonRe3653_2">
     <configuration name="BaekjoonRe1280_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekjoonRe1280_2" />
       <module name="Algorithm" />
@@ -678,6 +671,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BaekjoonRe3653_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekjoonRe3653_2" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BaekjoonRe5719_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekjoonRe5719_1" />
       <module name="Algorithm" />
@@ -687,11 +687,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BaekjoonRe3653_2" />
         <item itemvalue="Application.BaekjoonRe1280_2" />
         <item itemvalue="Application.BaekjoonRe5719_1" />
         <item itemvalue="Application.BaekjoonRe1486_1" />
         <item itemvalue="Application.BaekjoonRe3653_1" />
-        <item itemvalue="Application.BaekjoonRe1280_1" />
       </list>
     </recent_temporary>
   </component>
@@ -980,23 +980,8 @@
       <workItem from="1725968752843" duration="556000" />
       <workItem from="1726010288464" duration="2019000" />
       <workItem from="1726096835746" duration="1707000" />
-      <workItem from="1726124984966" duration="2711000" />
-    </task>
-    <task id="LOCAL-00447" summary="14867 물통 오답(3)">
-      <option name="closed" value="true" />
-      <created>1724826195474</created>
-      <option name="number" value="00447" />
-      <option name="presentableId" value="LOCAL-00447" />
-      <option name="project" value="LOCAL" />
-      <updated>1724826195474</updated>
-    </task>
-    <task id="LOCAL-00448" summary="1344 축구 오답(3)">
-      <option name="closed" value="true" />
-      <created>1724827676179</created>
-      <option name="number" value="00448" />
-      <option name="presentableId" value="LOCAL-00448" />
-      <option name="project" value="LOCAL" />
-      <updated>1724827676179</updated>
+      <workItem from="1726124984966" duration="2772000" />
+      <workItem from="1726182497021" duration="806000" />
     </task>
     <task id="LOCAL-00449" summary="10942 팰린드롬? 오답(3)">
       <option name="closed" value="true" />
@@ -1374,15 +1359,29 @@
       <option name="project" value="LOCAL" />
       <updated>1726098466329</updated>
     </task>
-    <option name="localTasksCounter" value="496" />
+    <task id="LOCAL-00496" summary="1280 나무 심기 오답(2)">
+      <option name="closed" value="true" />
+      <created>1726127747350</created>
+      <option name="number" value="00496" />
+      <option name="presentableId" value="LOCAL-00496" />
+      <option name="project" value="LOCAL" />
+      <updated>1726127747350</updated>
+    </task>
+    <task id="LOCAL-00497" summary="1213 팰린드롬 만들기 오답(2)">
+      <option name="closed" value="true" />
+      <created>1726127766779</created>
+      <option name="number" value="00497" />
+      <option name="presentableId" value="LOCAL-00497" />
+      <option name="project" value="LOCAL" />
+      <updated>1726127766779</updated>
+    </task>
+    <option name="localTasksCounter" value="498" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="17258 인기가 넘쳐흘러 오답(1)" />
-    <MESSAGE value="1103 게임 오답(4)" />
     <MESSAGE value="2302 극장 좌석 오답(1)" />
     <MESSAGE value="12852 1로 만들기 2" />
     <MESSAGE value="2618 경찰차 오답(2)" />
@@ -1406,6 +1405,8 @@
     <MESSAGE value="1486 등산 오답(1)" />
     <MESSAGE value="3653 영화 수집 오답(1)" />
     <MESSAGE value="5719 거의 최단 경로 오답(1)" />
-    <option name="LAST_COMMIT_MESSAGE" value="5719 거의 최단 경로 오답(1)" />
+    <MESSAGE value="1280 나무 심기 오답(2)" />
+    <MESSAGE value="1213 팰린드롬 만들기 오답(2)" />
+    <option name="LAST_COMMIT_MESSAGE" value="1213 팰린드롬 만들기 오답(2)" />
   </component>
 </project>
