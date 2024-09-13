@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="3653 영화 수집 오답(2)">
-      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe17297_2.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="17297 Messi Gimossi 오답(2)">
+      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe1514_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -407,6 +407,7 @@
     "Application.BaekjoonRe1513_3.executor": "Run",
     "Application.BaekjoonRe1513_4.executor": "Run",
     "Application.BaekjoonRe1514_1.executor": "Run",
+    "Application.BaekjoonRe1514_2.executor": "Run",
     "Application.BaekjoonRe1561_1.executor": "Run",
     "Application.BaekjoonRe1561_2.executor": "Run",
     "Application.BaekjoonRe1561_3.executor": "Run",
@@ -650,7 +651,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BaekjoonRe17297_2">
+  <component name="RunManager" selected="Application.BaekjoonRe1514_2">
     <configuration name="BaekjoonRe1280_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekjoonRe1280_2" />
       <module name="Algorithm" />
@@ -658,8 +659,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaekjoonRe1486_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekjoonRe1486_1" />
+    <configuration name="BaekjoonRe1514_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekjoonRe1514_2" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -688,11 +689,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BaekjoonRe1514_2" />
         <item itemvalue="Application.BaekjoonRe17297_2" />
         <item itemvalue="Application.BaekjoonRe3653_2" />
         <item itemvalue="Application.BaekjoonRe1280_2" />
         <item itemvalue="Application.BaekjoonRe5719_1" />
-        <item itemvalue="Application.BaekjoonRe1486_1" />
       </list>
     </recent_temporary>
   </component>
@@ -982,15 +983,7 @@
       <workItem from="1726010288464" duration="2019000" />
       <workItem from="1726096835746" duration="1707000" />
       <workItem from="1726124984966" duration="2772000" />
-      <workItem from="1726182497021" duration="2514000" />
-    </task>
-    <task id="LOCAL-00450" summary="1509 팰린드롬 분할 오답(3)">
-      <option name="closed" value="true" />
-      <created>1724832595584</created>
-      <option name="number" value="00450" />
-      <option name="presentableId" value="LOCAL-00450" />
-      <option name="project" value="LOCAL" />
-      <updated>1724832595584</updated>
+      <workItem from="1726182497021" duration="5825000" />
     </task>
     <task id="LOCAL-00451" summary="1480 보석 모으기 오답(2)">
       <option name="closed" value="true" />
@@ -1376,14 +1369,21 @@
       <option name="project" value="LOCAL" />
       <updated>1726183316304</updated>
     </task>
-    <option name="localTasksCounter" value="499" />
+    <task id="LOCAL-00499" summary="17297 Messi Gimossi 오답(2)">
+      <option name="closed" value="true" />
+      <created>1726196888711</created>
+      <option name="number" value="00499" />
+      <option name="presentableId" value="LOCAL-00499" />
+      <option name="project" value="LOCAL" />
+      <updated>1726196888711</updated>
+    </task>
+    <option name="localTasksCounter" value="500" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="12852 1로 만들기 2" />
     <MESSAGE value="2618 경찰차 오답(2)" />
     <MESSAGE value="17297 Messi Gimossi" />
     <MESSAGE value="17623 괄호" />
@@ -1408,6 +1408,7 @@
     <MESSAGE value="1280 나무 심기 오답(2)" />
     <MESSAGE value="1213 팰린드롬 만들기 오답(2)" />
     <MESSAGE value="3653 영화 수집 오답(2)" />
-    <option name="LAST_COMMIT_MESSAGE" value="3653 영화 수집 오답(2)" />
+    <MESSAGE value="17297 Messi Gimossi 오답(2)" />
+    <option name="LAST_COMMIT_MESSAGE" value="17297 Messi Gimossi 오답(2)" />
   </component>
 </project>
