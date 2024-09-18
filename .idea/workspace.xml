@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="18352 특정 거리의 도시 찾기">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon1916.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="1916 최소비용 구하기">
+      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe5719_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -540,6 +540,7 @@
     "Application.BaekjoonRe5430_3.executor": "Run",
     "Application.BaekjoonRe5430_4.executor": "Run",
     "Application.BaekjoonRe5719_1.executor": "Run",
+    "Application.BaekjoonRe5719_2.executor": "Run",
     "Application.BaekjoonRe6236_1.executor": "Run",
     "Application.BaekjoonRe6236_2.executor": "Run",
     "Application.BaekjoonRe6236_3.executor": "Run",
@@ -656,7 +657,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon1916">
+  <component name="RunManager" selected="Application.BaekjoonRe5719_2">
     <configuration name="Baekjoon1753" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon1753" />
       <module name="Algorithm" />
@@ -685,8 +686,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="baekjoonRe1486_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoonRe1486_2" />
+    <configuration name="BaekjoonRe5719_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekjoonRe5719_2" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -694,11 +695,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BaekjoonRe5719_2" />
         <item itemvalue="Application.Baekjoon1916" />
         <item itemvalue="Application.Baekjoon18352" />
         <item itemvalue="Application.Baekjoon1753" />
         <item itemvalue="Application.BaekjoonRe2302_3" />
-        <item itemvalue="Application.baekjoonRe1486_2" />
       </list>
     </recent_temporary>
   </component>
@@ -991,15 +992,7 @@
       <workItem from="1726182497021" duration="6124000" />
       <workItem from="1726439946000" duration="3661000" />
       <workItem from="1726534744168" duration="3880000" />
-      <workItem from="1726637648842" duration="492000" />
-    </task>
-    <task id="LOCAL-00456" summary="1480 보석 모으기 오답(3)">
-      <option name="closed" value="true" />
-      <created>1725197102038</created>
-      <option name="number" value="00456" />
-      <option name="presentableId" value="LOCAL-00456" />
-      <option name="project" value="LOCAL" />
-      <updated>1725197102038</updated>
+      <workItem from="1726637648842" duration="2475000" />
     </task>
     <task id="LOCAL-00457" summary="3687 성냥개비 오답(3)">
       <option name="closed" value="true" />
@@ -1385,14 +1378,21 @@
       <option name="project" value="LOCAL" />
       <updated>1726541818441</updated>
     </task>
-    <option name="localTasksCounter" value="505" />
+    <task id="LOCAL-00505" summary="1916 최소비용 구하기">
+      <option name="closed" value="true" />
+      <created>1726638419503</created>
+      <option name="number" value="00505" />
+      <option name="presentableId" value="LOCAL-00505" />
+      <option name="project" value="LOCAL" />
+      <updated>1726638419505</updated>
+    </task>
+    <option name="localTasksCounter" value="506" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2042 구간 합 구하기" />
     <MESSAGE value="4781 사탕 가게" />
     <MESSAGE value="1315 RPG" />
     <MESSAGE value="2302 극장 좌석" />
@@ -1417,6 +1417,7 @@
     <MESSAGE value="2302 극장 좌석 오답(4)" />
     <MESSAGE value="1753 최단경로" />
     <MESSAGE value="18352 특정 거리의 도시 찾기" />
-    <option name="LAST_COMMIT_MESSAGE" value="18352 특정 거리의 도시 찾기" />
+    <MESSAGE value="1916 최소비용 구하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="1916 최소비용 구하기" />
   </component>
 </project>
