@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="10942 팰린드롬? 오답(4)">
-      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe1344_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe1280_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -360,6 +360,7 @@
     "Application.BaekjoonRe1213.executor": "Run",
     "Application.BaekjoonRe1280_1.executor": "Run",
     "Application.BaekjoonRe1280_2.executor": "Run",
+    "Application.BaekjoonRe1280_3.executor": "Run",
     "Application.BaekjoonRe1285.executor": "Run",
     "Application.BaekjoonRe12851.executor": "Run",
     "Application.BaekjoonRe12852_1.executor": "Run",
@@ -659,14 +660,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BaekjoonRe1344_4">
-    <configuration name="Baekjoon18352" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon18352" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.BaekjoonRe1280_3">
     <configuration name="Baekjoon1916" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon1916" />
       <module name="Algorithm" />
@@ -676,6 +670,13 @@
     </configuration>
     <configuration name="BaekjoonRe10942_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekjoonRe10942_4" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaekjoonRe1280_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekjoonRe1280_3" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -697,11 +698,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BaekjoonRe1280_3" />
         <item itemvalue="Application.BaekjoonRe1344_4" />
         <item itemvalue="Application.BaekjoonRe10942_4" />
         <item itemvalue="Application.BaekjoonRe5719_2" />
         <item itemvalue="Application.Baekjoon1916" />
-        <item itemvalue="Application.Baekjoon18352" />
       </list>
     </recent_temporary>
   </component>
@@ -997,6 +998,7 @@
       <workItem from="1726637648842" duration="3809000" />
       <workItem from="1726657896108" duration="787000" />
       <workItem from="1726702949792" duration="422000" />
+      <workItem from="1726787699202" duration="1886000" />
     </task>
     <task id="LOCAL-00459" summary="1315 RPG">
       <option name="closed" value="true" />
