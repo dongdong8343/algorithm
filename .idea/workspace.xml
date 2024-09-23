@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="17136 색종이 붙이기 오답(4)">
-      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe17837_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="17837 새로운 게임 2 오답(4)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -1005,15 +1002,7 @@
       <workItem from="1726888974673" duration="1254000" />
       <workItem from="1726910087542" duration="598000" />
       <workItem from="1726918361541" duration="1732000" />
-      <workItem from="1726974747547" duration="5398000" />
-    </task>
-    <task id="LOCAL-00462" summary="1315 RPG 오답(1)">
-      <option name="closed" value="true" />
-      <created>1725319175351</created>
-      <option name="number" value="00462" />
-      <option name="presentableId" value="LOCAL-00462" />
-      <option name="project" value="LOCAL" />
-      <updated>1725319175351</updated>
+      <workItem from="1726974747547" duration="6083000" />
     </task>
     <task id="LOCAL-00463" summary="17258 인기가 넘쳐흘러">
       <option name="closed" value="true" />
@@ -1399,14 +1388,21 @@
       <option name="project" value="LOCAL" />
       <updated>1726976115507</updated>
     </task>
-    <option name="localTasksCounter" value="511" />
+    <task id="LOCAL-00511" summary="17837 새로운 게임 2 오답(4)">
+      <option name="closed" value="true" />
+      <created>1726983845159</created>
+      <option name="number" value="00511" />
+      <option name="presentableId" value="LOCAL-00511" />
+      <option name="project" value="LOCAL" />
+      <updated>1726983845159</updated>
+    </task>
+    <option name="localTasksCounter" value="512" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1513 경로 찾기 오답(4)" />
     <MESSAGE value="1486 등산" />
     <MESSAGE value="5719 거의 최단 경로" />
     <MESSAGE value="17258 인기가 넘쳐흘러 오답(2)" />
@@ -1431,6 +1427,7 @@
     <MESSAGE value="1280 나무 심기 오답(3)" />
     <MESSAGE value="5719 거의 최단 경로 오답(3)" />
     <MESSAGE value="17136 색종이 붙이기 오답(4)" />
-    <option name="LAST_COMMIT_MESSAGE" value="17136 색종이 붙이기 오답(4)" />
+    <MESSAGE value="17837 새로운 게임 2 오답(4)" />
+    <option name="LAST_COMMIT_MESSAGE" value="17837 새로운 게임 2 오답(4)" />
   </component>
 </project>

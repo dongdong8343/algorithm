@@ -15,7 +15,7 @@ public class BaekjoonRe17837_4 {
     static Mal[] mal = new Mal[14];
     static int[] dy = {0, 0, -1, 1};
     static int[] dx = {1, -1, 0, 0};
-    static void go(int cnt){
+    static void go(){
         while(true){
             if(cnt > 1000) {
                 System.out.println(-1);
@@ -75,6 +75,6 @@ public class BaekjoonRe17837_4 {
             mal[i] = new Mal(y, x, d);
             board[y][x].add(i);
         }
-        go(0);
+        go();
     }
 }
