@@ -16,6 +16,7 @@ public class BaekjoonRe17837_4 {
     static int[] dy = {0, 0, -1, 1};
     static int[] dx = {1, -1, 0, 0};
     static void go(){
+        int cnt = 0;
         while(true){
             if(cnt > 1000) {
                 System.out.println(-1);
