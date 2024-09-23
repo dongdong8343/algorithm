@@ -1,3 +1,4 @@
+// dp 문제를 풀 때는 손으로 풀어보고 완벽히 이해한 후 코드를 작성할 것!
 import java.util.*;
 import java.io.*;
 public class Baekjoon9465 {
