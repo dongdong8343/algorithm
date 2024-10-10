@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="프로그래머스 완주하지 못한 선수">
-      <change afterPath="$PROJECT_DIR$/src/programmers42578.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="프로그래머스 의상" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -1033,15 +1030,7 @@
       <workItem from="1728094795962" duration="1348000" />
       <workItem from="1728203415822" duration="372000" />
       <workItem from="1728260463927" duration="702000" />
-      <workItem from="1728345469721" duration="30000" />
-    </task>
-    <task id="LOCAL-00482" summary="2302 극장 좌석">
-      <option name="closed" value="true" />
-      <created>1725776927961</created>
-      <option name="number" value="00482" />
-      <option name="presentableId" value="LOCAL-00482" />
-      <option name="project" value="LOCAL" />
-      <updated>1725776927961</updated>
+      <workItem from="1728345469721" duration="58000" />
     </task>
     <task id="LOCAL-00483" summary="17297 Messi Gimossi 오답(1)">
       <option name="closed" value="true" />
@@ -1427,14 +1416,21 @@
       <option name="project" value="LOCAL" />
       <updated>1728260554804</updated>
     </task>
-    <option name="localTasksCounter" value="531" />
+    <task id="LOCAL-00531" summary="프로그래머스 의상">
+      <option name="closed" value="true" />
+      <created>1728345515297</created>
+      <option name="number" value="00531" />
+      <option name="presentableId" value="LOCAL-00531" />
+      <option name="project" value="LOCAL" />
+      <updated>1728345515297</updated>
+    </task>
+    <option name="localTasksCounter" value="532" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1753 최단경로" />
     <MESSAGE value="18352 특정 거리의 도시 찾기" />
     <MESSAGE value="1916 최소비용 구하기" />
     <MESSAGE value="5719 거의 최단 경로 오답(2)" />
@@ -1459,6 +1455,7 @@
     <MESSAGE value="1509 팰린드롬 분할 오답(5)" />
     <MESSAGE value="프로그래머스 폰켓몬" />
     <MESSAGE value="프로그래머스 완주하지 못한 선수" />
-    <option name="LAST_COMMIT_MESSAGE" value="프로그래머스 완주하지 못한 선수" />
+    <MESSAGE value="프로그래머스 의상" />
+    <option name="LAST_COMMIT_MESSAGE" value="프로그래머스 의상" />
   </component>
 </project>
