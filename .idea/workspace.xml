@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="프로그래머스 의상" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="프로그래머스 같은 숫자는 싫어" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -1031,14 +1031,7 @@
       <workItem from="1728203415822" duration="372000" />
       <workItem from="1728260463927" duration="702000" />
       <workItem from="1728345469721" duration="58000" />
-    </task>
-    <task id="LOCAL-00483" summary="17297 Messi Gimossi 오답(1)">
-      <option name="closed" value="true" />
-      <created>1725778103938</created>
-      <option name="number" value="00483" />
-      <option name="presentableId" value="LOCAL-00483" />
-      <option name="project" value="LOCAL" />
-      <updated>1725778103938</updated>
+      <workItem from="1728531614935" duration="188000" />
     </task>
     <task id="LOCAL-00484" summary="11658 구간 합 구하기 3">
       <option name="closed" value="true" />
@@ -1424,14 +1417,21 @@
       <option name="project" value="LOCAL" />
       <updated>1728345515297</updated>
     </task>
-    <option name="localTasksCounter" value="532" />
+    <task id="LOCAL-00532" summary="프로그래머스 같은 숫자는 싫어">
+      <option name="closed" value="true" />
+      <created>1728531766074</created>
+      <option name="number" value="00532" />
+      <option name="presentableId" value="LOCAL-00532" />
+      <option name="project" value="LOCAL" />
+      <updated>1728531766074</updated>
+    </task>
+    <option name="localTasksCounter" value="533" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="18352 특정 거리의 도시 찾기" />
     <MESSAGE value="1916 최소비용 구하기" />
     <MESSAGE value="5719 거의 최단 경로 오답(2)" />
     <MESSAGE value="10942 팰린드롬? 오답(4)" />
@@ -1456,6 +1456,7 @@
     <MESSAGE value="프로그래머스 폰켓몬" />
     <MESSAGE value="프로그래머스 완주하지 못한 선수" />
     <MESSAGE value="프로그래머스 의상" />
-    <option name="LAST_COMMIT_MESSAGE" value="프로그래머스 의상" />
+    <MESSAGE value="프로그래머스 같은 숫자는 싫어" />
+    <option name="LAST_COMMIT_MESSAGE" value="프로그래머스 같은 숫자는 싫어" />
   </component>
 </project>
