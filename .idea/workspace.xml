@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="프로그래머스 기능개발" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="프로그래머스 올바른 괄호">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -1033,14 +1035,8 @@
       <workItem from="1728345469721" duration="58000" />
       <workItem from="1728531614935" duration="188000" />
       <workItem from="1728602170657" duration="67000" />
-    </task>
-    <task id="LOCAL-00485" summary="1513 경로 찾기 오답(4)">
-      <option name="closed" value="true" />
-      <created>1725852415004</created>
-      <option name="number" value="00485" />
-      <option name="presentableId" value="LOCAL-00485" />
-      <option name="project" value="LOCAL" />
-      <updated>1725852415004</updated>
+      <workItem from="1728698888336" duration="68000" />
+      <workItem from="1728788596713" duration="53000" />
     </task>
     <task id="LOCAL-00486" summary="1486 등산">
       <option name="closed" value="true" />
@@ -1426,14 +1422,21 @@
       <option name="project" value="LOCAL" />
       <updated>1728602224592</updated>
     </task>
-    <option name="localTasksCounter" value="534" />
+    <task id="LOCAL-00534" summary="프로그래머스 올바른 괄호">
+      <option name="closed" value="true" />
+      <created>1728698940426</created>
+      <option name="number" value="00534" />
+      <option name="presentableId" value="LOCAL-00534" />
+      <option name="project" value="LOCAL" />
+      <updated>1728698940427</updated>
+    </task>
+    <option name="localTasksCounter" value="535" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="5719 거의 최단 경로 오답(2)" />
     <MESSAGE value="10942 팰린드롬? 오답(4)" />
     <MESSAGE value="1280 나무 심기 오답(3)" />
     <MESSAGE value="5719 거의 최단 경로 오답(3)" />
@@ -1458,6 +1461,7 @@
     <MESSAGE value="프로그래머스 의상" />
     <MESSAGE value="프로그래머스 같은 숫자는 싫어" />
     <MESSAGE value="프로그래머스 기능개발" />
-    <option name="LAST_COMMIT_MESSAGE" value="프로그래머스 기능개발" />
+    <MESSAGE value="프로그래머스 올바른 괄호" />
+    <option name="LAST_COMMIT_MESSAGE" value="프로그래머스 올바른 괄호" />
   </component>
 </project>
