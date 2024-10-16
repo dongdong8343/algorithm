@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="프로그래머스 프로세스" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="프로그래머스 다리를 지나는 트럭" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -1036,14 +1036,7 @@
       <workItem from="1728698888336" duration="68000" />
       <workItem from="1728788596713" duration="53000" />
       <workItem from="1728863344906" duration="77000" />
-    </task>
-    <task id="LOCAL-00487" summary="1486 등산">
-      <option name="closed" value="true" />
-      <created>1725930383381</created>
-      <option name="number" value="00487" />
-      <option name="presentableId" value="LOCAL-00487" />
-      <option name="project" value="LOCAL" />
-      <updated>1725930383382</updated>
+      <workItem from="1728951010355" duration="80000" />
     </task>
     <task id="LOCAL-00488" summary="5719 거의 최단 경로">
       <option name="closed" value="true" />
@@ -1429,14 +1422,21 @@
       <option name="project" value="LOCAL" />
       <updated>1728863407132</updated>
     </task>
-    <option name="localTasksCounter" value="536" />
+    <task id="LOCAL-00536" summary="프로그래머스 다리를 지나는 트럭">
+      <option name="closed" value="true" />
+      <created>1728951056904</created>
+      <option name="number" value="00536" />
+      <option name="presentableId" value="LOCAL-00536" />
+      <option name="project" value="LOCAL" />
+      <updated>1728951056904</updated>
+    </task>
+    <option name="localTasksCounter" value="537" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1280 나무 심기 오답(3)" />
     <MESSAGE value="5719 거의 최단 경로 오답(3)" />
     <MESSAGE value="17136 색종이 붙이기 오답(4)" />
     <MESSAGE value="17837 새로운 게임 2 오답(4)" />
@@ -1461,6 +1461,7 @@
     <MESSAGE value="프로그래머스 기능개발" />
     <MESSAGE value="프로그래머스 올바른 괄호" />
     <MESSAGE value="프로그래머스 프로세스" />
-    <option name="LAST_COMMIT_MESSAGE" value="프로그래머스 프로세스" />
+    <MESSAGE value="프로그래머스 다리를 지나는 트럭" />
+    <option name="LAST_COMMIT_MESSAGE" value="프로그래머스 다리를 지나는 트럭" />
   </component>
 </project>
