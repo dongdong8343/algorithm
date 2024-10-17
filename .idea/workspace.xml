@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="프로그래머스 주식가격" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="프로그래머스 주식가격">
+      <change afterPath="$PROJECT_DIR$/src/Programmers12939.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -1038,14 +1041,8 @@
       <workItem from="1728863344906" duration="77000" />
       <workItem from="1728951010355" duration="80000" />
       <workItem from="1729037261474" duration="53000" />
-    </task>
-    <task id="LOCAL-00489" summary="17258 인기가 넘쳐흘러 오답(2)">
-      <option name="closed" value="true" />
-      <created>1725936407784</created>
-      <option name="number" value="00489" />
-      <option name="presentableId" value="LOCAL-00489" />
-      <option name="project" value="LOCAL" />
-      <updated>1725936407784</updated>
+      <workItem from="1729037572509" duration="128000" />
+      <workItem from="1729207529003" duration="45000" />
     </task>
     <task id="LOCAL-00490" summary="1514 자물쇠">
       <option name="closed" value="true" />
@@ -1431,7 +1428,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729037302337</updated>
     </task>
-    <option name="localTasksCounter" value="538" />
+    <task id="LOCAL-00538" summary="프로그래머스 주식가격">
+      <option name="closed" value="true" />
+      <created>1729037683806</created>
+      <option name="number" value="00538" />
+      <option name="presentableId" value="LOCAL-00538" />
+      <option name="project" value="LOCAL" />
+      <updated>1729037683807</updated>
+    </task>
+    <option name="localTasksCounter" value="539" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
