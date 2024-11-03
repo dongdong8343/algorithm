@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="프로그래머스 JadenCase 문자열 만들기">
-      <change afterPath="$PROJECT_DIR$/src/Programmers70129.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="프로그래머스 이진 변환 반복하기">
+      <change afterPath="$PROJECT_DIR$/src/Inflearn1_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -1046,15 +1046,9 @@
       <workItem from="1729377523207" duration="92000" />
       <workItem from="1729377650959" duration="12000" />
       <workItem from="1729470509616" duration="85000" />
-      <workItem from="1729640414331" duration="39000" />
-    </task>
-    <task id="LOCAL-00493" summary="1486 등산 오답(1)">
-      <option name="closed" value="true" />
-      <created>1726011688519</created>
-      <option name="number" value="00493" />
-      <option name="presentableId" value="LOCAL-00493" />
-      <option name="project" value="LOCAL" />
-      <updated>1726011688519</updated>
+      <workItem from="1729640414331" duration="76000" />
+      <workItem from="1730377842055" duration="3000" />
+      <workItem from="1730675146234" duration="432000" />
     </task>
     <task id="LOCAL-00494" summary="3653 영화 수집 오답(1)">
       <option name="closed" value="true" />
@@ -1440,14 +1434,21 @@
       <option name="project" value="LOCAL" />
       <updated>1729470564545</updated>
     </task>
-    <option name="localTasksCounter" value="542" />
+    <task id="LOCAL-00542" summary="프로그래머스 이진 변환 반복하기">
+      <option name="closed" value="true" />
+      <created>1729640471027</created>
+      <option name="number" value="00542" />
+      <option name="presentableId" value="LOCAL-00542" />
+      <option name="project" value="LOCAL" />
+      <updated>1729640471027</updated>
+    </task>
+    <option name="localTasksCounter" value="543" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="15988 1, 2, 3 더하기 3" />
     <MESSAGE value="백준 1495 기타리스트" />
     <MESSAGE value="14867 물통 오답(4)" />
     <MESSAGE value="1450 냅색문제 오답(4)" />
@@ -1472,6 +1473,7 @@
     <MESSAGE value="프로그래머스 최댓값과 최솟값" />
     <MESSAGE value="프로그래머스 최솟값 만들기" />
     <MESSAGE value="프로그래머스 JadenCase 문자열 만들기" />
-    <option name="LAST_COMMIT_MESSAGE" value="프로그래머스 JadenCase 문자열 만들기" />
+    <MESSAGE value="프로그래머스 이진 변환 반복하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="프로그래머스 이진 변환 반복하기" />
   </component>
 </project>
