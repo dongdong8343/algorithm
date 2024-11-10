@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="김태원 1-9. 숫자만 추출">
-      <change afterPath="$PROJECT_DIR$/src/Inflearn_1_11.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="김태원 1-11. 문자열 압축">
+      <change afterPath="$PROJECT_DIR$/src/Inflearn1_10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -645,6 +645,7 @@
     "Application.BaekjooonRe14003_1.executor": "Run",
     "Application.Bakejoon11022.executor": "Run",
     "Application.Bakejoon11382.executor": "Run",
+    "Application.Inflearn1_10.executor": "Run",
     "Application.Inflearn1_2.executor": "Run",
     "Application.Inflearn1_3.executor": "Run",
     "Application.Inflearn1_4.executor": "Run",
@@ -690,9 +691,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Inflearn_1_11">
-    <configuration name="Inflearn1_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Inflearn1_6" />
+  <component name="RunManager" selected="Application.Inflearn1_10">
+    <configuration name="Inflearn1_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inflearn1_10" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -728,11 +729,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Inflearn1_10" />
         <item itemvalue="Application.Inflearn_1_11" />
         <item itemvalue="Application.Inflearn1_9" />
         <item itemvalue="Application.Inflearn1_8" />
         <item itemvalue="Application.Inflearn1_7" />
-        <item itemvalue="Application.Inflearn1_6" />
       </list>
     </recent_temporary>
   </component>
@@ -1069,15 +1070,8 @@
       <workItem from="1730941874379" duration="1280000" />
       <workItem from="1730946006675" duration="20000" />
       <workItem from="1731052724115" duration="74000" />
-      <workItem from="1731134584143" duration="625000" />
-    </task>
-    <task id="LOCAL-00504" summary="18352 특정 거리의 도시 찾기">
-      <option name="closed" value="true" />
-      <created>1726541818441</created>
-      <option name="number" value="00504" />
-      <option name="presentableId" value="LOCAL-00504" />
-      <option name="project" value="LOCAL" />
-      <updated>1726541818441</updated>
+      <workItem from="1731134584143" duration="806000" />
+      <workItem from="1731210603952" duration="740000" />
     </task>
     <task id="LOCAL-00505" summary="1916 최소비용 구하기">
       <option name="closed" value="true" />
@@ -1463,7 +1457,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731052765966</updated>
     </task>
-    <option name="localTasksCounter" value="553" />
+    <task id="LOCAL-00553" summary="김태원 1-11. 문자열 압축">
+      <option name="closed" value="true" />
+      <created>1731135372930</created>
+      <option name="number" value="00553" />
+      <option name="presentableId" value="LOCAL-00553" />
+      <option name="project" value="LOCAL" />
+      <updated>1731135372931</updated>
+    </task>
+    <option name="localTasksCounter" value="554" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1481,7 +1483,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="17258 인기가 넘쳐흘러 오답(3)" />
     <MESSAGE value="1509 팰린드롬 분할 오답(5)" />
     <MESSAGE value="프로그래머스 폰켓몬" />
     <MESSAGE value="프로그래머스 완주하지 못한 선수" />
@@ -1506,6 +1507,7 @@
     <MESSAGE value="김태원 1-7. 회문 문자열" />
     <MESSAGE value="김태원 1-8. 유효한 팰린드롬" />
     <MESSAGE value="김태원 1-9. 숫자만 추출" />
-    <option name="LAST_COMMIT_MESSAGE" value="김태원 1-9. 숫자만 추출" />
+    <MESSAGE value="김태원 1-11. 문자열 압축" />
+    <option name="LAST_COMMIT_MESSAGE" value="김태원 1-11. 문자열 압축" />
   </component>
 </project>
