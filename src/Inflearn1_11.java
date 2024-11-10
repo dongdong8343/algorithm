@@ -1,7 +1,6 @@
-import java.util.*;
 import java.io.*;
 
-public class Inflearn_1_11 {
+public class Inflearn1_11 {
     public static void main(String[] args)throws Exception{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String s = br.readLine();
