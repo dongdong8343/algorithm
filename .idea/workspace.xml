@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="김태원 1-11. 문자열 압축">
-      <change afterPath="$PROJECT_DIR$/src/Inflearn1_10.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="김태원 1-10. 가장 짧은 문자거리">
+      <change afterPath="$PROJECT_DIR$/src/Inflearn1_12.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inflearn_1_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inflearn1_11.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -646,6 +647,7 @@
     "Application.Bakejoon11022.executor": "Run",
     "Application.Bakejoon11382.executor": "Run",
     "Application.Inflearn1_10.executor": "Run",
+    "Application.Inflearn1_12.executor": "Run",
     "Application.Inflearn1_2.executor": "Run",
     "Application.Inflearn1_3.executor": "Run",
     "Application.Inflearn1_4.executor": "Run",
@@ -691,7 +693,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Inflearn1_10">
+  <component name="RunManager" selected="Application.Inflearn1_12">
     <configuration name="Inflearn1_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Inflearn1_10" />
       <module name="Algorithm" />
@@ -699,8 +701,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Inflearn1_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Inflearn1_7" />
+    <configuration name="Inflearn1_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inflearn1_11" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Inflearn1_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inflearn1_12" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -720,20 +729,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Inflearn_1_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Inflearn_1_11" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Inflearn1_12" />
         <item itemvalue="Application.Inflearn1_10" />
-        <item itemvalue="Application.Inflearn_1_11" />
+        <item itemvalue="Application.Inflearn1_11" />
         <item itemvalue="Application.Inflearn1_9" />
         <item itemvalue="Application.Inflearn1_8" />
-        <item itemvalue="Application.Inflearn1_7" />
       </list>
     </recent_temporary>
   </component>
@@ -1071,15 +1073,7 @@
       <workItem from="1730946006675" duration="20000" />
       <workItem from="1731052724115" duration="74000" />
       <workItem from="1731134584143" duration="806000" />
-      <workItem from="1731210603952" duration="740000" />
-    </task>
-    <task id="LOCAL-00505" summary="1916 최소비용 구하기">
-      <option name="closed" value="true" />
-      <created>1726638419503</created>
-      <option name="number" value="00505" />
-      <option name="presentableId" value="LOCAL-00505" />
-      <option name="project" value="LOCAL" />
-      <updated>1726638419505</updated>
+      <workItem from="1731210603952" duration="2062000" />
     </task>
     <task id="LOCAL-00506" summary="5719 거의 최단 경로 오답(2)">
       <option name="closed" value="true" />
@@ -1465,7 +1459,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731135372931</updated>
     </task>
-    <option name="localTasksCounter" value="554" />
+    <task id="LOCAL-00554" summary="김태원 1-10. 가장 짧은 문자거리">
+      <option name="closed" value="true" />
+      <created>1731211728666</created>
+      <option name="number" value="00554" />
+      <option name="presentableId" value="LOCAL-00554" />
+      <option name="project" value="LOCAL" />
+      <updated>1731211728666</updated>
+    </task>
+    <option name="localTasksCounter" value="555" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1483,7 +1485,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1509 팰린드롬 분할 오답(5)" />
     <MESSAGE value="프로그래머스 폰켓몬" />
     <MESSAGE value="프로그래머스 완주하지 못한 선수" />
     <MESSAGE value="프로그래머스 의상" />
@@ -1508,6 +1509,7 @@
     <MESSAGE value="김태원 1-8. 유효한 팰린드롬" />
     <MESSAGE value="김태원 1-9. 숫자만 추출" />
     <MESSAGE value="김태원 1-11. 문자열 압축" />
-    <option name="LAST_COMMIT_MESSAGE" value="김태원 1-11. 문자열 압축" />
+    <MESSAGE value="김태원 1-10. 가장 짧은 문자거리" />
+    <option name="LAST_COMMIT_MESSAGE" value="김태원 1-10. 가장 짧은 문자거리" />
   </component>
 </project>
