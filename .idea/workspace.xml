@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="코딩테스트 강의 2-1 큰 수 출력하기">
-      <change afterPath="$PROJECT_DIR$/src/Inflearn2_2.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="코딩테스트 강의 2-2 보이는 학생">
+      <change afterPath="$PROJECT_DIR$/src/Inflearn2_3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -656,6 +656,7 @@
     "Application.Inflearn1_9.executor": "Run",
     "Application.Inflearn2_1.executor": "Run",
     "Application.Inflearn2_2.executor": "Run",
+    "Application.Inflearn2_3.executor": "Run",
     "Application.InflearnRe1_5.executor": "Run",
     "Application.Inflearn_1_11.executor": "Run",
     "Application.Main.executor": "Run",
@@ -693,16 +694,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Inflearn2_2">
+  <component name="RunManager" selected="Application.Inflearn2_3">
     <configuration name="Inflearn1_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Inflearn1_10" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Inflearn1_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Inflearn1_11" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -729,13 +723,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Inflearn2_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inflearn2_3" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Inflearn2_3" />
         <item itemvalue="Application.Inflearn2_2" />
         <item itemvalue="Application.Inflearn2_1" />
         <item itemvalue="Application.Inflearn1_12" />
         <item itemvalue="Application.Inflearn1_10" />
-        <item itemvalue="Application.Inflearn1_11" />
       </list>
     </recent_temporary>
   </component>
@@ -1074,15 +1075,7 @@
       <workItem from="1731052724115" duration="74000" />
       <workItem from="1731134584143" duration="806000" />
       <workItem from="1731210603952" duration="2151000" />
-      <workItem from="1731283887127" duration="444000" />
-    </task>
-    <task id="LOCAL-00509" summary="5719 거의 최단 경로 오답(3)">
-      <option name="closed" value="true" />
-      <created>1726922420803</created>
-      <option name="number" value="00509" />
-      <option name="presentableId" value="LOCAL-00509" />
-      <option name="project" value="LOCAL" />
-      <updated>1726922420803</updated>
+      <workItem from="1731283887127" duration="955000" />
     </task>
     <task id="LOCAL-00510" summary="17136 색종이 붙이기 오답(4)">
       <option name="closed" value="true" />
@@ -1468,7 +1461,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731283994433</updated>
     </task>
-    <option name="localTasksCounter" value="558" />
+    <task id="LOCAL-00558" summary="코딩테스트 강의 2-2 보이는 학생">
+      <option name="closed" value="true" />
+      <created>1731284365758</created>
+      <option name="number" value="00558" />
+      <option name="presentableId" value="LOCAL-00558" />
+      <option name="project" value="LOCAL" />
+      <updated>1731284365758</updated>
+    </task>
+    <option name="localTasksCounter" value="559" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1486,7 +1487,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="프로그래머스 같은 숫자는 싫어" />
     <MESSAGE value="프로그래머스 기능개발" />
     <MESSAGE value="프로그래머스 올바른 괄호" />
     <MESSAGE value="프로그래머스 프로세스" />
@@ -1511,6 +1511,7 @@
     <MESSAGE value="코딩테스트 강의 1-11) 문자열 압축" />
     <MESSAGE value="코딩테스트 강의 1-12) 암호" />
     <MESSAGE value="코딩테스트 강의 2-1 큰 수 출력하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="코딩테스트 강의 2-1 큰 수 출력하기" />
+    <MESSAGE value="코딩테스트 강의 2-2 보이는 학생" />
+    <option name="LAST_COMMIT_MESSAGE" value="코딩테스트 강의 2-2 보이는 학생" />
   </component>
 </project>
