@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="코딩테스트 강의 2-4 피보나치 수열">
-      <change afterPath="$PROJECT_DIR$/src/Inflearn2_5.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="코딩테스트 강의 2-5 소수(에라토스테네스 체)">
+      <change afterPath="$PROJECT_DIR$/src/Inflearn2_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inflearn2_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inflearn2_8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -660,6 +662,9 @@
     "Application.Inflearn2_3.executor": "Run",
     "Application.Inflearn2_4.executor": "Run",
     "Application.Inflearn2_5.executor": "Run",
+    "Application.Inflearn2_6.executor": "Run",
+    "Application.Inflearn2_7.executor": "Run",
+    "Application.Inflearn2_8.executor": "Run",
     "Application.InflearnRe1_5.executor": "Run",
     "Application.Inflearn_1_11.executor": "Run",
     "Application.Main.executor": "Run",
@@ -697,28 +702,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Inflearn2_5">
-    <configuration name="Inflearn2_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Inflearn2_1" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Inflearn2_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Inflearn2_2" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Inflearn2_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Inflearn2_3" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Inflearn2_8">
     <configuration name="Inflearn2_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Inflearn2_4" />
       <module name="Algorithm" />
@@ -733,13 +717,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Inflearn2_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inflearn2_6" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Inflearn2_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inflearn2_7" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Inflearn2_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inflearn2_8" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Inflearn2_8" />
+        <item itemvalue="Application.Inflearn2_7" />
+        <item itemvalue="Application.Inflearn2_6" />
         <item itemvalue="Application.Inflearn2_5" />
         <item itemvalue="Application.Inflearn2_4" />
-        <item itemvalue="Application.Inflearn2_3" />
-        <item itemvalue="Application.Inflearn2_2" />
-        <item itemvalue="Application.Inflearn2_1" />
       </list>
     </recent_temporary>
   </component>
@@ -1079,15 +1084,10 @@
       <workItem from="1731134584143" duration="806000" />
       <workItem from="1731210603952" duration="2151000" />
       <workItem from="1731283887127" duration="2015000" />
-      <workItem from="1731398000017" duration="951000" />
-    </task>
-    <task id="LOCAL-00512" summary="17837 새로운 게임 2 오답(4)">
-      <option name="closed" value="true" />
-      <created>1727049948307</created>
-      <option name="number" value="00512" />
-      <option name="presentableId" value="LOCAL-00512" />
-      <option name="project" value="LOCAL" />
-      <updated>1727049948307</updated>
+      <workItem from="1731398000017" duration="1029000" />
+      <workItem from="1731469489181" duration="116000" />
+      <workItem from="1731544045271" duration="733000" />
+      <workItem from="1731635777050" duration="2384000" />
     </task>
     <task id="LOCAL-00513" summary="17837 새로운 게임 2 오답(4)">
       <option name="closed" value="true" />
@@ -1473,7 +1473,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731285311749</updated>
     </task>
-    <option name="localTasksCounter" value="561" />
+    <task id="LOCAL-00561" summary="코딩테스트 강의 2-5 소수(에라토스테네스 체)">
+      <option name="closed" value="true" />
+      <created>1731399006010</created>
+      <option name="number" value="00561" />
+      <option name="presentableId" value="LOCAL-00561" />
+      <option name="project" value="LOCAL" />
+      <updated>1731399006010</updated>
+    </task>
+    <option name="localTasksCounter" value="562" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1491,7 +1499,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="프로그래머스 프로세스" />
     <MESSAGE value="프로그래머스 다리를 지나는 트럭" />
     <MESSAGE value="프로그래머스 주식가격" />
     <MESSAGE value="프로그래머스 최댓값과 최솟값" />
@@ -1516,6 +1523,7 @@
     <MESSAGE value="코딩테스트 강의 2-2 보이는 학생" />
     <MESSAGE value="코딩테스트 강의 2-2 가위 바위 보" />
     <MESSAGE value="코딩테스트 강의 2-4 피보나치 수열" />
-    <option name="LAST_COMMIT_MESSAGE" value="코딩테스트 강의 2-4 피보나치 수열" />
+    <MESSAGE value="코딩테스트 강의 2-5 소수(에라토스테네스 체)" />
+    <option name="LAST_COMMIT_MESSAGE" value="코딩테스트 강의 2-5 소수(에라토스테네스 체)" />
   </component>
 </project>
