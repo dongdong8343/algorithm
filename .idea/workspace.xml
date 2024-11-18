@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="코딩테스트 강의 2-10 봉우리">
-      <change afterPath="$PROJECT_DIR$/src/Inflearn2_11.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="코딩테스트 강의 2-11 임시반장정하기">
+      <change afterPath="$PROJECT_DIR$/src/Inflearn2_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Temp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -658,6 +659,7 @@
     "Application.Inflearn2_1.executor": "Run",
     "Application.Inflearn2_10.executor": "Run",
     "Application.Inflearn2_11.executor": "Run",
+    "Application.Inflearn2_12.executor": "Run",
     "Application.Inflearn2_2.executor": "Run",
     "Application.Inflearn2_3.executor": "Run",
     "Application.Inflearn2_4.executor": "Run",
@@ -671,6 +673,7 @@
     "Application.Main.executor": "Run",
     "Application.PracticeDFS.executor": "Run",
     "Application.ReInflearn1_12.executor": "Run",
+    "Application.Temp.executor": "Run",
     "Application.baekjoon2234.executor": "Run",
     "Application.baekjoon24262.executor": "Run",
     "Application.baekjoon24264.executor": "Run",
@@ -704,7 +707,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Inflearn2_11">
+  <component name="RunManager" selected="Application.Inflearn2_12">
     <configuration name="Inflearn2_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Inflearn2_10" />
       <module name="Algorithm" />
@@ -719,15 +722,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Inflearn2_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Inflearn2_8" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Inflearn2_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Inflearn2_9" />
+    <configuration name="Inflearn2_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inflearn2_12" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -740,13 +736,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Temp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Temp" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Inflearn2_12" />
+        <item itemvalue="Application.Temp" />
         <item itemvalue="Application.Inflearn2_11" />
         <item itemvalue="Application.Inflearn2_10" />
         <item itemvalue="Application.ReInflearn1_12" />
-        <item itemvalue="Application.Inflearn2_9" />
-        <item itemvalue="Application.Inflearn2_8" />
       </list>
     </recent_temporary>
   </component>
@@ -1092,15 +1095,11 @@
       <workItem from="1731635777050" duration="2554000" />
       <workItem from="1731669679325" duration="3000" />
       <workItem from="1731725854881" duration="2940000" />
-      <workItem from="1731814366440" duration="355000" />
-    </task>
-    <task id="LOCAL-00520" summary="1509 팰린드롬 분할 오답(4)">
-      <option name="closed" value="true" />
-      <created>1727487565810</created>
-      <option name="number" value="00520" />
-      <option name="presentableId" value="LOCAL-00520" />
-      <option name="project" value="LOCAL" />
-      <updated>1727487565811</updated>
+      <workItem from="1731814366440" duration="1150000" />
+      <workItem from="1731833531941" duration="406000" />
+      <workItem from="1731847202988" duration="32000" />
+      <workItem from="1731848152050" duration="188000" />
+      <workItem from="1731889916781" duration="2361000" />
     </task>
     <task id="LOCAL-00521" summary="2342 Dance Dance Revolution 오답(4)">
       <option name="closed" value="true" />
@@ -1486,7 +1485,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731728202137</updated>
     </task>
-    <option name="localTasksCounter" value="569" />
+    <task id="LOCAL-00569" summary="코딩테스트 강의 2-11 임시반장정하기">
+      <option name="closed" value="true" />
+      <created>1731814736809</created>
+      <option name="number" value="00569" />
+      <option name="presentableId" value="LOCAL-00569" />
+      <option name="project" value="LOCAL" />
+      <updated>1731814736810</updated>
+    </task>
+    <option name="localTasksCounter" value="570" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1504,7 +1511,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="김태원 1-2.대소문자 변환" />
     <MESSAGE value="김태원 1-3.문장 속 단어" />
     <MESSAGE value="김태원 1-4.단어 뒤집기" />
     <MESSAGE value="김태원 1-5.특정 문자 뒤집기" />
@@ -1529,6 +1535,7 @@
     <MESSAGE value="코딩테스트 강의 2-9 격자판 최대합" />
     <MESSAGE value="코딩테스트 강의 1-12 암호" />
     <MESSAGE value="코딩테스트 강의 2-10 봉우리" />
-    <option name="LAST_COMMIT_MESSAGE" value="코딩테스트 강의 2-10 봉우리" />
+    <MESSAGE value="코딩테스트 강의 2-11 임시반장정하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="코딩테스트 강의 2-11 임시반장정하기" />
   </component>
 </project>
