@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="코딩테스트 강의 3-1 두 배열 합치기">
-      <change afterPath="$PROJECT_DIR$/src/Temp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inflearn3_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -667,6 +668,7 @@
     "Application.Inflearn2_8.executor": "Run",
     "Application.Inflearn2_9.executor": "Run",
     "Application.Inflearn3_1.executor": "Run",
+    "Application.Inflearn3_2.executor": "Run",
     "Application.InflearnRe1_5.executor": "Run",
     "Application.Inflearn_1_11.executor": "Run",
     "Application.Main.executor": "Run",
@@ -706,14 +708,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Inflearn3_1">
-    <configuration name="Inflearn2_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Inflearn2_10" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Inflearn3_2">
     <configuration name="Inflearn2_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Inflearn2_11" />
       <module name="Algorithm" />
@@ -735,6 +730,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Inflearn3_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inflearn3_2" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Temp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Temp" />
       <module name="Algorithm" />
@@ -744,11 +746,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Inflearn3_2" />
         <item itemvalue="Application.Inflearn3_1" />
         <item itemvalue="Application.Inflearn2_12" />
         <item itemvalue="Application.Temp" />
         <item itemvalue="Application.Inflearn2_11" />
-        <item itemvalue="Application.Inflearn2_10" />
       </list>
     </recent_temporary>
   </component>
@@ -1101,14 +1103,8 @@
       <workItem from="1731889916781" duration="3781000" />
       <workItem from="1731936714449" duration="57000" />
       <workItem from="1732015391793" duration="131000" />
-    </task>
-    <task id="LOCAL-00523" summary="3687 성냥개비 오답(4)">
-      <option name="closed" value="true" />
-      <created>1727655388788</created>
-      <option name="number" value="00523" />
-      <option name="presentableId" value="LOCAL-00523" />
-      <option name="project" value="LOCAL" />
-      <updated>1727655388788</updated>
+      <workItem from="1732015872812" duration="278000" />
+      <workItem from="1732056617966" duration="468000" />
     </task>
     <task id="LOCAL-00524" summary="17297 Messi Gimossi 오답(4)">
       <option name="closed" value="true" />
@@ -1494,7 +1490,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732015504229</updated>
     </task>
-    <option name="localTasksCounter" value="572" />
+    <task id="LOCAL-00572" summary="코딩테스트 강의 3-1 두 배열 합치기">
+      <option name="closed" value="true" />
+      <created>1732016128739</created>
+      <option name="number" value="00572" />
+      <option name="presentableId" value="LOCAL-00572" />
+      <option name="project" value="LOCAL" />
+      <updated>1732016128739</updated>
+    </task>
+    <option name="localTasksCounter" value="573" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
