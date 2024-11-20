@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="코딩테스트 강의 3-1 두 배열 합치기">
-      <change afterPath="$PROJECT_DIR$/src/Inflearn3_2.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="코딩테스트 강의 3-2 공통 원소 구하기">
+      <change afterPath="$PROJECT_DIR$/src/Inflearn3_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -669,6 +669,7 @@
     "Application.Inflearn2_9.executor": "Run",
     "Application.Inflearn3_1.executor": "Run",
     "Application.Inflearn3_2.executor": "Run",
+    "Application.Inflearn3_3.executor": "Run",
     "Application.InflearnRe1_5.executor": "Run",
     "Application.Inflearn_1_11.executor": "Run",
     "Application.Main.executor": "Run",
@@ -708,14 +709,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Inflearn3_2">
-    <configuration name="Inflearn2_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Inflearn2_11" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Inflearn3_3">
     <configuration name="Inflearn2_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Inflearn2_12" />
       <module name="Algorithm" />
@@ -737,6 +731,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Inflearn3_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inflearn3_3" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Temp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Temp" />
       <module name="Algorithm" />
@@ -746,11 +747,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Inflearn3_3" />
         <item itemvalue="Application.Inflearn3_2" />
         <item itemvalue="Application.Inflearn3_1" />
         <item itemvalue="Application.Inflearn2_12" />
         <item itemvalue="Application.Temp" />
-        <item itemvalue="Application.Inflearn2_11" />
       </list>
     </recent_temporary>
   </component>
@@ -1104,15 +1105,9 @@
       <workItem from="1731936714449" duration="57000" />
       <workItem from="1732015391793" duration="131000" />
       <workItem from="1732015872812" duration="278000" />
-      <workItem from="1732056617966" duration="468000" />
-    </task>
-    <task id="LOCAL-00524" summary="17297 Messi Gimossi 오답(4)">
-      <option name="closed" value="true" />
-      <created>1727658397693</created>
-      <option name="number" value="00524" />
-      <option name="presentableId" value="LOCAL-00524" />
-      <option name="project" value="LOCAL" />
-      <updated>1727658397693</updated>
+      <workItem from="1732056617966" duration="498000" />
+      <workItem from="1732076176397" duration="15000" />
+      <workItem from="1732146387189" duration="732000" />
     </task>
     <task id="LOCAL-00525" summary="2618 경찰차 오답(4)">
       <option name="closed" value="true" />
@@ -1498,7 +1493,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732016128739</updated>
     </task>
-    <option name="localTasksCounter" value="573" />
+    <task id="LOCAL-00573" summary="코딩테스트 강의 3-2 공통 원소 구하기">
+      <option name="closed" value="true" />
+      <created>1732057104352</created>
+      <option name="number" value="00573" />
+      <option name="presentableId" value="LOCAL-00573" />
+      <option name="project" value="LOCAL" />
+      <updated>1732057104353</updated>
+    </task>
+    <option name="localTasksCounter" value="574" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1516,7 +1519,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="김태원 1-5.특정 문자 뒤집기" />
     <MESSAGE value="김태원 1-5.특정 문자 뒤집기 재도전" />
     <MESSAGE value="김태원 1-6. 중복문자제거" />
     <MESSAGE value="김태원 1-7. 회문 문자열" />
@@ -1541,6 +1543,7 @@
     <MESSAGE value="코딩테스트 강의 2-11 임시반장정하기" />
     <MESSAGE value="코딩테스트 강의 2-12 멘토링" />
     <MESSAGE value="코딩테스트 강의 3-1 두 배열 합치기" />
-    <option name="LAST_COMMIT_MESSAGE" value="코딩테스트 강의 3-1 두 배열 합치기" />
+    <MESSAGE value="코딩테스트 강의 3-2 공통 원소 구하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="코딩테스트 강의 3-2 공통 원소 구하기" />
   </component>
 </project>
