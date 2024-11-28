@@ -34,6 +34,6 @@ public class InflearnRe2_12 {
 
         System.out.println(ret);
 
-        return ;
+        return;
     }
 }
