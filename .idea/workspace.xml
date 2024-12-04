@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="[김태원 코테 강의] 5-1 올바른 괄호">
-      <change afterPath="$PROJECT_DIR$/src/Inflearn5_2.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="[김태원 코테 강의] 5-2 괄호문자제거">
+      <change afterPath="$PROJECT_DIR$/src/Inflearn5_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -678,6 +678,7 @@
     "Application.Inflearn4_3.executor": "Run",
     "Application.Inflearn5_1.executor": "Run",
     "Application.Inflearn5_2.executor": "Run",
+    "Application.Inflearn5_3.executor": "Run",
     "Application.InflearnRe1_12.executor": "Run",
     "Application.InflearnRe1_5.executor": "Run",
     "Application.InflearnRe2_12.executor": "Run",
@@ -722,16 +723,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Inflearn5_2">
+  <component name="RunManager" selected="Application.Inflearn5_3">
     <configuration name="Inflearn3_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Inflearn3_6" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Inflearn4_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Inflearn4_2" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -758,13 +752,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Inflearn5_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inflearn5_3" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Inflearn5_3" />
         <item itemvalue="Application.Inflearn5_2" />
         <item itemvalue="Application.Inflearn5_1" />
         <item itemvalue="Application.Inflearn4_3" />
         <item itemvalue="Application.Inflearn3_6" />
-        <item itemvalue="Application.Inflearn4_2" />
       </list>
     </recent_temporary>
   </component>
@@ -1132,15 +1133,8 @@
       <workItem from="1732886186748" duration="617000" />
       <workItem from="1732927981788" duration="2183000" />
       <workItem from="1733100182818" duration="766000" />
-      <workItem from="1733184477893" duration="333000" />
-    </task>
-    <task id="LOCAL-00537" summary="프로그래머스 주식가격">
-      <option name="closed" value="true" />
-      <created>1729037302337</created>
-      <option name="number" value="00537" />
-      <option name="presentableId" value="LOCAL-00537" />
-      <option name="project" value="LOCAL" />
-      <updated>1729037302337</updated>
+      <workItem from="1733184477893" duration="1047000" />
+      <workItem from="1733271195245" duration="668000" />
     </task>
     <task id="LOCAL-00538" summary="프로그래머스 주식가격">
       <option name="closed" value="true" />
@@ -1526,7 +1520,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733100338322</updated>
     </task>
-    <option name="localTasksCounter" value="586" />
+    <task id="LOCAL-00586" summary="[김태원 코테 강의] 5-2 괄호문자제거">
+      <option name="closed" value="true" />
+      <created>1733184979128</created>
+      <option name="number" value="00586" />
+      <option name="presentableId" value="LOCAL-00586" />
+      <option name="project" value="LOCAL" />
+      <updated>1733184979128</updated>
+    </task>
+    <option name="localTasksCounter" value="587" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1544,7 +1546,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="코딩테스트 강의 2-2 보이는 학생" />
     <MESSAGE value="코딩테스트 강의 2-2 가위 바위 보" />
     <MESSAGE value="코딩테스트 강의 2-4 피보나치 수열" />
     <MESSAGE value="코딩테스트 강의 2-5 소수(에라토스테네스 체)" />
@@ -1569,6 +1570,7 @@
     <MESSAGE value="[김태원 코테 강의] 3-6 최대 길이 연속부분수열" />
     <MESSAGE value="[김태원 코테 강의] 4-3 매출액의 종류" />
     <MESSAGE value="[김태원 코테 강의] 5-1 올바른 괄호" />
-    <option name="LAST_COMMIT_MESSAGE" value="[김태원 코테 강의] 5-1 올바른 괄호" />
+    <MESSAGE value="[김태원 코테 강의] 5-2 괄호문자제거" />
+    <option name="LAST_COMMIT_MESSAGE" value="[김태원 코테 강의] 5-2 괄호문자제거" />
   </component>
 </project>
