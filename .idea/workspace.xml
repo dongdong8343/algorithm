@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="백준 1138 한 줄로 서기">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon14247.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="백준 14247 나무 자르기">
+      <change afterPath="$PROJECT_DIR$/src/CtBook3_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -649,6 +649,7 @@
     "Application.BaekjooonRe14003_1.executor": "Run",
     "Application.Bakejoon11022.executor": "Run",
     "Application.Bakejoon11382.executor": "Run",
+    "Application.CtBook3_1.executor": "Run",
     "Application.Inflearn1_10.executor": "Run",
     "Application.Inflearn1_12.executor": "Run",
     "Application.Inflearn1_2.executor": "Run",
@@ -739,7 +740,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon14247">
+  <component name="RunManager" selected="Application.CtBook3_1">
     <configuration name="Baekjoon1138" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon1138" />
       <module name="Algorithm" />
@@ -768,8 +769,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Inflearn6_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Inflearn6_2" />
+    <configuration name="CtBook3_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CtBook3_1" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -777,11 +778,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CtBook3_1" />
         <item itemvalue="Application.Baekjoon14247" />
         <item itemvalue="Application.Baekjoon1138" />
         <item itemvalue="Application.Baekjoon1541" />
         <item itemvalue="Application.Baekjoon4796" />
-        <item itemvalue="Application.Inflearn6_2" />
       </list>
     </recent_temporary>
   </component>
@@ -1170,15 +1171,8 @@
       <workItem from="1736411415435" duration="3201000" />
       <workItem from="1736482524709" duration="10000" />
       <workItem from="1736498077207" duration="538000" />
-      <workItem from="1736558946212" duration="2224000" />
-    </task>
-    <task id="LOCAL-00554" summary="김태원 1-10. 가장 짧은 문자거리">
-      <option name="closed" value="true" />
-      <created>1731211728666</created>
-      <option name="number" value="00554" />
-      <option name="presentableId" value="LOCAL-00554" />
-      <option name="project" value="LOCAL" />
-      <updated>1731211728666</updated>
+      <workItem from="1736558946212" duration="2561000" />
+      <workItem from="1736644847377" duration="303000" />
     </task>
     <task id="LOCAL-00555" summary="코딩테스트 강의 1-11) 문자열 압축">
       <option name="closed" value="true" />
@@ -1564,7 +1558,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736559224200</updated>
     </task>
-    <option name="localTasksCounter" value="603" />
+    <task id="LOCAL-00603" summary="백준 14247 나무 자르기">
+      <option name="closed" value="true" />
+      <created>1736562818953</created>
+      <option name="number" value="00603" />
+      <option name="presentableId" value="LOCAL-00603" />
+      <option name="project" value="LOCAL" />
+      <updated>1736562818953</updated>
+    </task>
+    <option name="localTasksCounter" value="604" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1582,7 +1584,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="코딩테스트 강의 3-4 최대매출" />
     <MESSAGE value="코딩테스트 강의 3-5 연속된 자연수의 합" />
     <MESSAGE value="코딩테스트 강의 다시 풀기" />
     <MESSAGE value="코딩테스트 4-1 학급 회장" />
@@ -1607,6 +1608,7 @@
     <MESSAGE value="백준 4796 캠핑" />
     <MESSAGE value="백준 1541 잃어버린 괄호" />
     <MESSAGE value="백준 1138 한 줄로 서기" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 1138 한 줄로 서기" />
+    <MESSAGE value="백준 14247 나무 자르기" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 14247 나무 자르기" />
   </component>
 </project>
