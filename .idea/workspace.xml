@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="(이것이 취업을 위한 코딩테스트다) 챕터 3. 그리디 - 숫자 카드 게임">
-      <change afterPath="$PROJECT_DIR$/src/CtBook3_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CtBook4_1.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="(이것이 취업을 위한 코딩테스트다) 챕터 4. 구현 - 왕실의 나이트">
+      <change afterPath="$PROJECT_DIR$/src/CtBook4_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -654,6 +653,7 @@
     "Application.CtBook3_2.executor": "Run",
     "Application.CtBook3_3.executor": "Run",
     "Application.CtBook4_1.executor": "Run",
+    "Application.CtBook4_2.executor": "Run",
     "Application.Inflearn1_10.executor": "Run",
     "Application.Inflearn1_12.executor": "Run",
     "Application.Inflearn1_2.executor": "Run",
@@ -744,14 +744,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CtBook4_1">
-    <configuration name="Baekjoon14247" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon14247" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.CtBook4_2">
     <configuration name="CtBook3_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CtBook3_1" />
       <module name="Algorithm" />
@@ -780,13 +773,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CtBook4_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CtBook4_2" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CtBook4_2" />
         <item itemvalue="Application.CtBook4_1" />
         <item itemvalue="Application.CtBook3_3" />
         <item itemvalue="Application.CtBook3_2" />
         <item itemvalue="Application.CtBook3_1" />
-        <item itemvalue="Application.Baekjoon14247" />
       </list>
     </recent_temporary>
   </component>
@@ -1176,23 +1176,7 @@
       <workItem from="1736482524709" duration="10000" />
       <workItem from="1736498077207" duration="538000" />
       <workItem from="1736558946212" duration="2561000" />
-      <workItem from="1736644847377" duration="2597000" />
-    </task>
-    <task id="LOCAL-00557" summary="코딩테스트 강의 2-1 큰 수 출력하기">
-      <option name="closed" value="true" />
-      <created>1731283994432</created>
-      <option name="number" value="00557" />
-      <option name="presentableId" value="LOCAL-00557" />
-      <option name="project" value="LOCAL" />
-      <updated>1731283994433</updated>
-    </task>
-    <task id="LOCAL-00558" summary="코딩테스트 강의 2-2 보이는 학생">
-      <option name="closed" value="true" />
-      <created>1731284365758</created>
-      <option name="number" value="00558" />
-      <option name="presentableId" value="LOCAL-00558" />
-      <option name="project" value="LOCAL" />
-      <updated>1731284365758</updated>
+      <workItem from="1736644847377" duration="4639000" />
     </task>
     <task id="LOCAL-00559" summary="코딩테스트 강의 2-2 가위 바위 보">
       <option name="closed" value="true" />
@@ -1570,7 +1554,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736646071727</updated>
     </task>
-    <option name="localTasksCounter" value="606" />
+    <task id="LOCAL-00606" summary="(이것이 취업을 위한 코딩테스트다) 챕터 3. 그리디 - 1이 될 때까지">
+      <option name="closed" value="true" />
+      <created>1736648308822</created>
+      <option name="number" value="00606" />
+      <option name="presentableId" value="LOCAL-00606" />
+      <option name="project" value="LOCAL" />
+      <updated>1736648308822</updated>
+    </task>
+    <task id="LOCAL-00607" summary="(이것이 취업을 위한 코딩테스트다) 챕터 4. 구현 - 왕실의 나이트">
+      <option name="closed" value="true" />
+      <created>1736648329864</created>
+      <option name="number" value="00607" />
+      <option name="presentableId" value="LOCAL-00607" />
+      <option name="project" value="LOCAL" />
+      <updated>1736648329864</updated>
+    </task>
+    <option name="localTasksCounter" value="608" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1588,8 +1588,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="코딩테스트 4-1 학급 회장" />
-    <MESSAGE value="코딩테스트 다시 풀기" />
     <MESSAGE value="[김태원 코테 강의] 4-2 아나그램" />
     <MESSAGE value="[김태원 코테 강의] 3-6 최대 길이 연속부분수열" />
     <MESSAGE value="[김태원 코테 강의] 4-3 매출액의 종류" />
@@ -1613,6 +1611,8 @@
     <MESSAGE value="백준 14247 나무 자르기" />
     <MESSAGE value="(이것이 취업을 위한 코딩테스트다) 챕터 3. 그리디 - 큰 수의 법칙" />
     <MESSAGE value="(이것이 취업을 위한 코딩테스트다) 챕터 3. 그리디 - 숫자 카드 게임" />
-    <option name="LAST_COMMIT_MESSAGE" value="(이것이 취업을 위한 코딩테스트다) 챕터 3. 그리디 - 숫자 카드 게임" />
+    <MESSAGE value="(이것이 취업을 위한 코딩테스트다) 챕터 3. 그리디 - 1이 될 때까지" />
+    <MESSAGE value="(이것이 취업을 위한 코딩테스트다) 챕터 4. 구현 - 왕실의 나이트" />
+    <option name="LAST_COMMIT_MESSAGE" value="(이것이 취업을 위한 코딩테스트다) 챕터 4. 구현 - 왕실의 나이트" />
   </component>
 </project>
