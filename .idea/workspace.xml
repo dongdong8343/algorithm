@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="(이것이 취업을 위한 코딩테스트다) 챕터 4. 구현 - 게임 개발">
-      <change afterPath="$PROJECT_DIR$/src/CtBook5_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="(이것이 취업을 위한 코딩테스트다) 챕터 5. DFS/BFS - 음료수 얼려먹기">
+      <change afterPath="$PROJECT_DIR$/src/CtBook5_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -745,14 +744,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CtBook5_1">
-    <configuration name="CtBook3_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CtBook3_2" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.CtBook5_2">
     <configuration name="CtBook3_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CtBook3_3" />
       <module name="Algorithm" />
@@ -781,13 +773,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CtBook5_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CtBook5_2" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CtBook5_2" />
         <item itemvalue="Application.CtBook5_1" />
         <item itemvalue="Application.CtBook4_2" />
         <item itemvalue="Application.CtBook4_1" />
         <item itemvalue="Application.CtBook3_3" />
-        <item itemvalue="Application.CtBook3_2" />
       </list>
     </recent_temporary>
   </component>
@@ -1179,15 +1178,7 @@
       <workItem from="1736558946212" duration="2561000" />
       <workItem from="1736644847377" duration="4850000" />
       <workItem from="1736687365445" duration="199000" />
-      <workItem from="1736728574455" duration="1760000" />
-    </task>
-    <task id="LOCAL-00560" summary="코딩테스트 강의 2-4 피보나치 수열">
-      <option name="closed" value="true" />
-      <created>1731285311748</created>
-      <option name="number" value="00560" />
-      <option name="presentableId" value="LOCAL-00560" />
-      <option name="project" value="LOCAL" />
-      <updated>1731285311749</updated>
+      <workItem from="1736728574455" duration="2782000" />
     </task>
     <task id="LOCAL-00561" summary="코딩테스트 강의 2-5 소수(에라토스테네스 체)">
       <option name="closed" value="true" />
@@ -1573,7 +1564,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736650862445</updated>
     </task>
-    <option name="localTasksCounter" value="609" />
+    <task id="LOCAL-00609" summary="(이것이 취업을 위한 코딩테스트다) 챕터 5. DFS/BFS - 음료수 얼려먹기">
+      <option name="closed" value="true" />
+      <created>1736730377980</created>
+      <option name="number" value="00609" />
+      <option name="presentableId" value="LOCAL-00609" />
+      <option name="project" value="LOCAL" />
+      <updated>1736730377980</updated>
+    </task>
+    <option name="localTasksCounter" value="610" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1591,7 +1590,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[김태원 코테 강의] 3-6 최대 길이 연속부분수열" />
     <MESSAGE value="[김태원 코테 강의] 4-3 매출액의 종류" />
     <MESSAGE value="[김태원 코테 강의] 5-1 올바른 괄호" />
     <MESSAGE value="[김태원 코테 강의] 5-2 괄호문자제거" />
@@ -1616,6 +1614,7 @@
     <MESSAGE value="(이것이 취업을 위한 코딩테스트다) 챕터 3. 그리디 - 1이 될 때까지" />
     <MESSAGE value="(이것이 취업을 위한 코딩테스트다) 챕터 4. 구현 - 왕실의 나이트" />
     <MESSAGE value="(이것이 취업을 위한 코딩테스트다) 챕터 4. 구현 - 게임 개발" />
-    <option name="LAST_COMMIT_MESSAGE" value="(이것이 취업을 위한 코딩테스트다) 챕터 4. 구현 - 게임 개발" />
+    <MESSAGE value="(이것이 취업을 위한 코딩테스트다) 챕터 5. DFS/BFS - 음료수 얼려먹기" />
+    <option name="LAST_COMMIT_MESSAGE" value="(이것이 취업을 위한 코딩테스트다) 챕터 5. DFS/BFS - 음료수 얼려먹기" />
   </component>
 </project>
