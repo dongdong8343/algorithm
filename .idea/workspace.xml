@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="백준10989 수 정렬하기3">
-      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe10815.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="백준10815 숫자 카드">
+      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe10828.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -354,6 +354,7 @@
     "Application.BaekjoonRe1062_5.executor": "Run",
     "Application.BaekjoonRe1068.executor": "Run",
     "Application.BaekjoonRe10815.executor": "Run",
+    "Application.BaekjoonRe10828.executor": "Run",
     "Application.BaekjoonRe10942_1.executor": "Run",
     "Application.BaekjoonRe10942_2.executor": "Run",
     "Application.BaekjoonRe10942_3.executor": "Run",
@@ -750,16 +751,16 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BaekjoonRe10815">
-    <configuration name="Baekjoon1920" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon1920" />
+  <component name="RunManager" selected="Application.BaekjoonRe10828">
+    <configuration name="BaekjoonRe10815" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekjoonRe10815" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaekjoonRe10815" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekjoonRe10815" />
+    <configuration name="BaekjoonRe10828" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekjoonRe10828" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -788,11 +789,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BaekjoonRe10828" />
         <item itemvalue="Application.BaekjoonRe10815" />
         <item itemvalue="Application.BaekjoonRe10989" />
         <item itemvalue="Application.BaekjoonRe2751" />
         <item itemvalue="Application.BaekjoonRe2750" />
-        <item itemvalue="Application.Baekjoon1920" />
       </list>
     </recent_temporary>
   </component>
@@ -1188,15 +1189,7 @@
       <workItem from="1736814913468" duration="7000" />
       <workItem from="1737072769029" duration="2593000" />
       <workItem from="1737075902115" duration="159000" />
-      <workItem from="1737288976049" duration="1691000" />
-    </task>
-    <task id="LOCAL-00566" summary="코딩테스트 강의 2-9 격자판 최대합">
-      <option name="closed" value="true" />
-      <created>1731726806876</created>
-      <option name="number" value="00566" />
-      <option name="presentableId" value="LOCAL-00566" />
-      <option name="project" value="LOCAL" />
-      <updated>1731726806876</updated>
+      <workItem from="1737288976049" duration="2278000" />
     </task>
     <task id="LOCAL-00567" summary="코딩테스트 강의 1-12 암호">
       <option name="closed" value="true" />
@@ -1582,7 +1575,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737290828381</updated>
     </task>
-    <option name="localTasksCounter" value="615" />
+    <task id="LOCAL-00615" summary="백준10815 숫자 카드">
+      <option name="closed" value="true" />
+      <created>1737291249422</created>
+      <option name="number" value="00615" />
+      <option name="presentableId" value="LOCAL-00615" />
+      <option name="project" value="LOCAL" />
+      <updated>1737291249422</updated>
+    </task>
+    <option name="localTasksCounter" value="616" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1600,7 +1601,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[김태원 코테 강의] 5-4 후위식 연산 오답" />
     <MESSAGE value="[김태원 코테 강의] 4-4 모든 아나그램 찾기" />
     <MESSAGE value="[김태원 코테 강의] 4-5 K번째 큰 수" />
     <MESSAGE value="[김태원 코테 강의] 5-5 쇠막대기" />
@@ -1625,6 +1625,7 @@
     <MESSAGE value="백준2750 수 정렬하기" />
     <MESSAGE value="백준2751 수 정렬하기2" />
     <MESSAGE value="백준10989 수 정렬하기3" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준10989 수 정렬하기3" />
+    <MESSAGE value="백준10815 숫자 카드" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준10815 숫자 카드" />
   </component>
 </project>
