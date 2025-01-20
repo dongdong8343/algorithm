@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="백준10828 스택">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon10845.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="백준10845 큐">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon10866.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -753,9 +752,16 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon10845">
+  <component name="RunManager" selected="Application.Baekjoon10866">
     <configuration name="Baekjoon10845" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon10845" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Baekjoon10866" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon10866" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -782,20 +788,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaekjoonRe2751" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekjoonRe2751" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baekjoon10866" />
         <item itemvalue="Application.Baekjoon10845" />
         <item itemvalue="Application.BaekjoonRe10828" />
         <item itemvalue="Application.BaekjoonRe10815" />
         <item itemvalue="Application.BaekjoonRe10989" />
-        <item itemvalue="Application.BaekjoonRe2751" />
       </list>
     </recent_temporary>
   </component>
@@ -1193,15 +1192,7 @@
       <workItem from="1737075902115" duration="159000" />
       <workItem from="1737288976049" duration="2433000" />
       <workItem from="1737337340810" duration="16000" />
-      <workItem from="1737337947948" duration="1028000" />
-    </task>
-    <task id="LOCAL-00568" summary="코딩테스트 강의 2-10 봉우리">
-      <option name="closed" value="true" />
-      <created>1731728202137</created>
-      <option name="number" value="00568" />
-      <option name="presentableId" value="LOCAL-00568" />
-      <option name="project" value="LOCAL" />
-      <updated>1731728202137</updated>
+      <workItem from="1737337947948" duration="1429000" />
     </task>
     <task id="LOCAL-00569" summary="코딩테스트 강의 2-11 임시반장정하기">
       <option name="closed" value="true" />
@@ -1587,7 +1578,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737291827384</updated>
     </task>
-    <option name="localTasksCounter" value="617" />
+    <task id="LOCAL-00617" summary="백준10845 큐">
+      <option name="closed" value="true" />
+      <created>1737339241353</created>
+      <option name="number" value="00617" />
+      <option name="presentableId" value="LOCAL-00617" />
+      <option name="project" value="LOCAL" />
+      <updated>1737339241354</updated>
+    </task>
+    <option name="localTasksCounter" value="618" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1605,7 +1604,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[김태원 코테 강의] 4-5 K번째 큰 수" />
     <MESSAGE value="[김태원 코테 강의] 5-5 쇠막대기" />
     <MESSAGE value="[김태원 코테 강의] 5-6 공주 구하기" />
     <MESSAGE value="[김태원 코테 강의] 4-5 K번째 큰 수 재도전" />
@@ -1630,6 +1628,7 @@
     <MESSAGE value="백준10989 수 정렬하기3" />
     <MESSAGE value="백준10815 숫자 카드" />
     <MESSAGE value="백준10828 스택" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준10828 스택" />
+    <MESSAGE value="백준10845 큐" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준10845 큐" />
   </component>
 </project>
