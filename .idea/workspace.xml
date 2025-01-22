@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="백준1406 에디터">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon1026.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="백준1026 보물">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon1181.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "dongdong8343"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/dongdong8343/algorithm.git",
+    "accountId": "4668aa86-77de-4096-b68b-6de37dba0014"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -44,6 +57,7 @@
     "Application.Baekjoon10101.executor": "Run",
     "Application.Baekjoon1012.executor": "Run",
     "Application.Baekjoon1018.executor": "Run",
+    "Application.Baekjoon1026.executor": "Run",
     "Application.Baekjoon1062.executor": "Run",
     "Application.Baekjoon1068.executor": "Run",
     "Application.Baekjoon10709.executor": "Run",
@@ -98,6 +112,7 @@
     "Application.Baekjoon11718.executor": "Run",
     "Application.Baekjoon11720.executor": "Run",
     "Application.Baekjoon11723.executor": "Run",
+    "Application.Baekjoon1181.executor": "Run",
     "Application.Baekjoon11866.executor": "Run",
     "Application.Baekjoon1189.executor": "Run",
     "Application.Baekjoon1193.executor": "Run",
@@ -737,6 +752,7 @@
     "Application.practice.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -750,11 +766,11 @@
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "terminal",
+    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon1026">
+  <component name="RunManager" selected="Application.Baekjoon1181 (3)">
     <configuration name="Baekjoon1026" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon1026" />
       <module name="Algorithm" />
@@ -762,29 +778,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon10845" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon10845" />
+    <configuration name="Baekjoon1181 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon1181" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon10866" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon10866" />
+    <configuration name="Baekjoon1181 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon1181" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon1406" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon1406" />
+    <configuration name="Baekjoon1181 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon1181" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaekjoonRe10828" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekjoonRe10828" />
+    <configuration name="Baekjoon1181" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon1181" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -792,18 +808,19 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baekjoon1181 (3)" />
+        <item itemvalue="Application.Baekjoon1181 (2)" />
+        <item itemvalue="Application.Baekjoon1181 (1)" />
+        <item itemvalue="Application.Baekjoon1181" />
         <item itemvalue="Application.Baekjoon1026" />
-        <item itemvalue="Application.Baekjoon1406" />
-        <item itemvalue="Application.Baekjoon10866" />
-        <item itemvalue="Application.Baekjoon10845" />
-        <item itemvalue="Application.BaekjoonRe10828" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.23654.117" />
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-IU-243.23654.117" />
       </set>
     </attachedChunks>
   </component>
@@ -1195,15 +1212,8 @@
       <workItem from="1737288976049" duration="2433000" />
       <workItem from="1737337340810" duration="16000" />
       <workItem from="1737337947948" duration="2064000" />
-      <workItem from="1737418605494" duration="5639000" />
-    </task>
-    <task id="LOCAL-00571" summary="코딩테스트 강의 3-1 두 배열 합치기">
-      <option name="closed" value="true" />
-      <created>1732015504229</created>
-      <option name="number" value="00571" />
-      <option name="presentableId" value="LOCAL-00571" />
-      <option name="project" value="LOCAL" />
-      <updated>1732015504229</updated>
+      <workItem from="1737418605494" duration="5924000" />
+      <workItem from="1737516875278" duration="707000" />
     </task>
     <task id="LOCAL-00572" summary="코딩테스트 강의 3-1 두 배열 합치기">
       <option name="closed" value="true" />
@@ -1589,7 +1599,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737431399480</updated>
     </task>
-    <option name="localTasksCounter" value="620" />
+    <task id="LOCAL-00620" summary="백준1026 보물">
+      <option name="closed" value="true" />
+      <created>1737432157563</created>
+      <option name="number" value="00620" />
+      <option name="presentableId" value="LOCAL-00620" />
+      <option name="project" value="LOCAL" />
+      <updated>1737432157563</updated>
+    </task>
+    <option name="localTasksCounter" value="621" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1607,7 +1625,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[김태원 코테 강의] 4-5 K번째 큰 수 재도전" />
     <MESSAGE value="[김태원 코테 강의] 5-7 교육과정 설계" />
     <MESSAGE value="[김태원 코테 강의] 5-8 응급실" />
     <MESSAGE value="[김태원 코테 강의] 6-1 선택 정렬" />
@@ -1632,6 +1649,7 @@
     <MESSAGE value="백준10845 큐" />
     <MESSAGE value="백준10866 덱" />
     <MESSAGE value="백준1406 에디터" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준1406 에디터" />
+    <MESSAGE value="백준1026 보물" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준1026 보물" />
   </component>
 </project>
