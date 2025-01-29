@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="백준9095 1, 2, 3 더하기">
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="백준9663 N-Queen">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon1037.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Baekjoon1182.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon9663.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe1978.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +60,7 @@
     "Application.Baekjoon1012.executor": "Run",
     "Application.Baekjoon1018.executor": "Run",
     "Application.Baekjoon1026.executor": "Run",
+    "Application.Baekjoon1037.executor": "Run",
     "Application.Baekjoon1062.executor": "Run",
     "Application.Baekjoon1068.executor": "Run",
     "Application.Baekjoon10709.executor": "Run",
@@ -530,6 +532,7 @@
     "Application.BaekjoonRe1931_2.executor": "Run",
     "Application.BaekjoonRe1931_3.executor": "Run",
     "Application.BaekjoonRe1931_4.executor": "Run",
+    "Application.BaekjoonRe1978.executor": "Run",
     "Application.BaekjoonRe1987.executor": "Run",
     "Application.BaekjoonRe1992.executor": "Run",
     "Application.BaekjoonRe19942.executor": "Run",
@@ -786,7 +789,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon9663">
+  <component name="RunManager" selected="Application.BaekjoonRe1978">
+    <configuration name="Baekjoon1037" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon1037" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Baekjoon1182" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon1182" />
       <module name="Algorithm" />
@@ -808,15 +818,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaekjoonRe5430_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekjoonRe5430_5" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="BaekjoonRe1978" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekjoonRe1978" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -824,11 +827,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BaekjoonRe1978" />
+        <item itemvalue="Application.Baekjoon1037" />
         <item itemvalue="Application.Baekjoon9663" />
         <item itemvalue="Application.Baekjoon9095" />
         <item itemvalue="Application.Baekjoon1182" />
-        <item itemvalue="Application.BaekjoonRe5430_5" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -1237,15 +1240,9 @@
       <workItem from="1737770611262" duration="4916000" />
       <workItem from="1737859758992" duration="7133000" />
       <workItem from="1737960653777" duration="1435000" />
-      <workItem from="1738041548766" duration="3159000" />
-    </task>
-    <task id="LOCAL-00583" summary="[김태원 코테 강의] 3-6 최대 길이 연속부분수열">
-      <option name="closed" value="true" />
-      <created>1732928633156</created>
-      <option name="number" value="00583" />
-      <option name="presentableId" value="LOCAL-00583" />
-      <option name="project" value="LOCAL" />
-      <updated>1732928633156</updated>
+      <workItem from="1738041548766" duration="3300000" />
+      <workItem from="1738053290565" duration="49000" />
+      <workItem from="1738127976600" duration="673000" />
     </task>
     <task id="LOCAL-00584" summary="[김태원 코테 강의] 4-3 매출액의 종류">
       <option name="closed" value="true" />
@@ -1631,7 +1628,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738041849240</updated>
     </task>
-    <option name="localTasksCounter" value="632" />
+    <task id="LOCAL-00632" summary="백준9663 N-Queen">
+      <option name="closed" value="true" />
+      <created>1738045844757</created>
+      <option name="number" value="00632" />
+      <option name="presentableId" value="LOCAL-00632" />
+      <option name="project" value="LOCAL" />
+      <updated>1738045844757</updated>
+    </task>
+    <option name="localTasksCounter" value="633" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1649,7 +1654,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="(이것이 취업을 위한 코딩테스트다) 챕터 4. 구현 - 왕실의 나이트" />
     <MESSAGE value="(이것이 취업을 위한 코딩테스트다) 챕터 4. 구현 - 게임 개발" />
     <MESSAGE value="(이것이 취업을 위한 코딩테스트다) 챕터 5. DFS/BFS - 음료수 얼려먹기" />
     <MESSAGE value="(이것이 취업을 위한 코딩테스트다) 챕터 5. DFS/BFS - 미로 탈출" />
@@ -1674,6 +1678,7 @@
     <MESSAGE value="백준1966 프린터 큐" />
     <MESSAGE value="백준5430 AC" />
     <MESSAGE value="백준9095 1, 2, 3 더하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준9095 1, 2, 3 더하기" />
+    <MESSAGE value="백준9663 N-Queen" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준9663 N-Queen" />
   </component>
 </project>
