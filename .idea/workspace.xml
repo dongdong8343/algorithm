@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="백준14889 스타트와 링크">
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="백준15686 치킨 배달">
       <change afterPath="$PROJECT_DIR$/src/Baekjoon1182.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekjoonRe15686.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -357,6 +356,7 @@
     "Application.Baekjoon6198.executor": "Run",
     "Application.Baekjoon6236.executor": "Run",
     "Application.Baekjoon6549.executor": "Run",
+    "Application.Baekjoon6603.executor": "Run",
     "Application.Baekjoon7785.executor": "Run",
     "Application.Baekjoon7795.executor": "Run",
     "Application.Baekjoon8393.executor": "Run",
@@ -792,9 +792,23 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BaekjoonRe15686">
+  <component name="RunManager" selected="Application.Baekjoon1182">
+    <configuration name="Baekjoon1182" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon1182" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Baekjoon2609" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon2609" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Baekjoon6603" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon6603" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -814,27 +828,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaekjoonRe1929" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekjoonRe1929" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BaekjoonRe1978" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekjoonRe1978" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baekjoon1182" />
+        <item itemvalue="Application.Baekjoon6603" />
         <item itemvalue="Application.BaekjoonRe15686" />
         <item itemvalue="Application.BaekjoonRe14889" />
         <item itemvalue="Application.Baekjoon2609" />
-        <item itemvalue="Application.BaekjoonRe1929" />
-        <item itemvalue="Application.BaekjoonRe1978" />
       </list>
     </recent_temporary>
   </component>
@@ -1247,31 +1247,8 @@
       <workItem from="1738053290565" duration="49000" />
       <workItem from="1738127976600" duration="1573000" />
       <workItem from="1738208286821" duration="1912000" />
-      <workItem from="1738291123711" duration="3275000" />
-    </task>
-    <task id="LOCAL-00589" summary="[김태원 코테 강의] 5-4 후위식 연산 오답">
-      <option name="closed" value="true" />
-      <created>1735184293994</created>
-      <option name="number" value="00589" />
-      <option name="presentableId" value="LOCAL-00589" />
-      <option name="project" value="LOCAL" />
-      <updated>1735184293995</updated>
-    </task>
-    <task id="LOCAL-00590" summary="[김태원 코테 강의] 5-4 후위식 연산 오답">
-      <option name="closed" value="true" />
-      <created>1735184301057</created>
-      <option name="number" value="00590" />
-      <option name="presentableId" value="LOCAL-00590" />
-      <option name="project" value="LOCAL" />
-      <updated>1735184301057</updated>
-    </task>
-    <task id="LOCAL-00591" summary="[김태원 코테 강의] 4-4 모든 아나그램 찾기">
-      <option name="closed" value="true" />
-      <created>1735281357998</created>
-      <option name="number" value="00591" />
-      <option name="presentableId" value="LOCAL-00591" />
-      <option name="project" value="LOCAL" />
-      <updated>1735281357999</updated>
+      <workItem from="1738291123711" duration="4397000" />
+      <workItem from="1738308872409" duration="1586000" />
     </task>
     <task id="LOCAL-00592" summary="[김태원 코테 강의] 4-5 K번째 큰 수">
       <option name="closed" value="true" />
@@ -1641,7 +1618,31 @@
       <option name="project" value="LOCAL" />
       <updated>1738292721096</updated>
     </task>
-    <option name="localTasksCounter" value="638" />
+    <task id="LOCAL-00638" summary="백준15686 치킨 배달">
+      <option name="closed" value="true" />
+      <created>1738294587121</created>
+      <option name="number" value="00638" />
+      <option name="presentableId" value="LOCAL-00638" />
+      <option name="project" value="LOCAL" />
+      <updated>1738294587121</updated>
+    </task>
+    <task id="LOCAL-00639" summary="백준6603 로또">
+      <option name="closed" value="true" />
+      <created>1738309405017</created>
+      <option name="number" value="00639" />
+      <option name="presentableId" value="LOCAL-00639" />
+      <option name="project" value="LOCAL" />
+      <updated>1738309405018</updated>
+    </task>
+    <task id="LOCAL-00640" summary="백준15686 치킨 배달">
+      <option name="closed" value="true" />
+      <created>1738309458860</created>
+      <option name="number" value="00640" />
+      <option name="presentableId" value="LOCAL-00640" />
+      <option name="project" value="LOCAL" />
+      <updated>1738309458860</updated>
+    </task>
+    <option name="localTasksCounter" value="641" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1659,8 +1660,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="백준2751 수 정렬하기2" />
-    <MESSAGE value="백준10989 수 정렬하기3" />
     <MESSAGE value="백준10815 숫자 카드" />
     <MESSAGE value="백준10828 스택" />
     <MESSAGE value="백준10845 큐" />
@@ -1684,6 +1683,8 @@
     <MESSAGE value="백준1929 소수 구하기" />
     <MESSAGE value="백준2609 최대공약수와 최소공배수" />
     <MESSAGE value="백준14889 스타트와 링크" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준14889 스타트와 링크" />
+    <MESSAGE value="백준6603 로또" />
+    <MESSAGE value="백준15686 치킨 배달" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준15686 치킨 배달" />
   </component>
 </project>
