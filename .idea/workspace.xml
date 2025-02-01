@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="백준15686 치킨 배달">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon1182.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="백준1182 부분수열의 합">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon2661.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -294,6 +294,7 @@
     "Application.Baekjoon2618.executor": "Run",
     "Application.Baekjoon2632.executor": "Run",
     "Application.Baekjoon2636.executor": "Run",
+    "Application.Baekjoon2661.executor": "Run",
     "Application.Baekjoon2670.executor": "Run",
     "Application.Baekjoon2675.executor": "Run",
     "Application.Baekjoon2720.executor": "Run",
@@ -792,7 +793,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon1182">
+  <component name="RunManager" selected="Application.Baekjoon2661">
     <configuration name="Baekjoon1182" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon1182" />
       <module name="Algorithm" />
@@ -800,8 +801,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon2609" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon2609" />
+    <configuration name="Baekjoon2661" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon2661" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -830,11 +831,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baekjoon2661" />
         <item itemvalue="Application.Baekjoon1182" />
         <item itemvalue="Application.Baekjoon6603" />
         <item itemvalue="Application.BaekjoonRe15686" />
         <item itemvalue="Application.BaekjoonRe14889" />
-        <item itemvalue="Application.Baekjoon2609" />
       </list>
     </recent_temporary>
   </component>
@@ -1248,15 +1249,8 @@
       <workItem from="1738127976600" duration="1573000" />
       <workItem from="1738208286821" duration="1912000" />
       <workItem from="1738291123711" duration="4397000" />
-      <workItem from="1738308872409" duration="1586000" />
-    </task>
-    <task id="LOCAL-00592" summary="[김태원 코테 강의] 4-5 K번째 큰 수">
-      <option name="closed" value="true" />
-      <created>1735633985725</created>
-      <option name="number" value="00592" />
-      <option name="presentableId" value="LOCAL-00592" />
-      <option name="project" value="LOCAL" />
-      <updated>1735633985725</updated>
+      <workItem from="1738308872409" duration="2091000" />
+      <workItem from="1738381594335" duration="318000" />
     </task>
     <task id="LOCAL-00593" summary="[김태원 코테 강의] 5-5 쇠막대기">
       <option name="closed" value="true" />
@@ -1642,7 +1636,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738309458860</updated>
     </task>
-    <option name="localTasksCounter" value="641" />
+    <task id="LOCAL-00641" summary="백준1182 부분수열의 합">
+      <option name="closed" value="true" />
+      <created>1738310677955</created>
+      <option name="number" value="00641" />
+      <option name="presentableId" value="LOCAL-00641" />
+      <option name="project" value="LOCAL" />
+      <updated>1738310677955</updated>
+    </task>
+    <option name="localTasksCounter" value="642" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1660,7 +1662,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="백준10815 숫자 카드" />
     <MESSAGE value="백준10828 스택" />
     <MESSAGE value="백준10845 큐" />
     <MESSAGE value="백준10866 덱" />
@@ -1685,6 +1686,7 @@
     <MESSAGE value="백준14889 스타트와 링크" />
     <MESSAGE value="백준6603 로또" />
     <MESSAGE value="백준15686 치킨 배달" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준15686 치킨 배달" />
+    <MESSAGE value="백준1182 부분수열의 합" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준1182 부분수열의 합" />
   </component>
 </project>
