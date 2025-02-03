@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="백준1644 소수의 연속합">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon6588.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="백준6588 골드바흐의 추측">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon15711.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -1258,15 +1258,7 @@
       <workItem from="1738390065209" duration="159000" />
       <workItem from="1738458944590" duration="3976000" />
       <workItem from="1738495228688" duration="1262000" />
-      <workItem from="1738571818925" duration="2499000" />
-    </task>
-    <task id="LOCAL-00597" summary="[김태원 코테 강의] 5-8 응급실">
-      <option name="closed" value="true" />
-      <created>1736247349782</created>
-      <option name="number" value="00597" />
-      <option name="presentableId" value="LOCAL-00597" />
-      <option name="project" value="LOCAL" />
-      <updated>1736247349782</updated>
+      <workItem from="1738571818925" duration="3573000" />
     </task>
     <task id="LOCAL-00598" summary="[김태원 코테 강의] 6-1 선택 정렬">
       <option name="closed" value="true" />
@@ -1652,7 +1644,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738463502108</updated>
     </task>
-    <option name="localTasksCounter" value="646" />
+    <task id="LOCAL-00646" summary="백준6588 골드바흐의 추측">
+      <option name="closed" value="true" />
+      <created>1738581410590</created>
+      <option name="number" value="00646" />
+      <option name="presentableId" value="LOCAL-00646" />
+      <option name="project" value="LOCAL" />
+      <updated>1738581410590</updated>
+    </task>
+    <option name="localTasksCounter" value="647" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1670,7 +1670,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="백준1406 에디터" />
     <MESSAGE value="백준1026 보물" />
     <MESSAGE value="백준1181 단어 정렬" />
     <MESSAGE value="백준11650 좌표 정렬하기" />
@@ -1695,6 +1694,7 @@
     <MESSAGE value="백준2661 좋은 수열" />
     <MESSAGE value="백준2580 스도쿠" />
     <MESSAGE value="백준1644 소수의 연속합" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준1644 소수의 연속합" />
+    <MESSAGE value="백준6588 골드바흐의 추측" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준6588 골드바흐의 추측" />
   </component>
 </project>

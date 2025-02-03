@@ -4,7 +4,6 @@ import java.util.*;
 public class Baekjoon6588 {
     static int n;
     static boolean[] che = new boolean[1000004];
-    static List<Integer> oddNums = new ArrayList<>();
     static StringBuilder sb = new StringBuilder();
 
     public static void main(String[] args) throws Exception {
@@ -15,10 +14,6 @@ public class Baekjoon6588 {
             for (int j = i * 2; j < 1000004; j += i) {
                 che[j] = true;
             }
-        }
-
-        for (int i = 2; i < 1000004; i++) {
-            if (!che[i] && i % 2 != 0) oddNums.add(i);
         }
 
         outer:
