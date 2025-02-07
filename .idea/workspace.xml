@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="백준2178 미로 탐색">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon2606.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="백준2606 바이러스">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon1003.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +54,7 @@
     "Application.Backjoon1406.executor": "Run",
     "Application.Baecjoon10773.executor": "Run",
     "Application.Baekjon2608.executor": "Run",
+    "Application.Baekjoon1003.executor": "Run",
     "Application.Baekjoon10101.executor": "Run",
     "Application.Baekjoon1012.executor": "Run",
     "Application.Baekjoon1016.executor": "Run",
@@ -789,7 +790,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/javaProject/java-baseball-6",
+    "last_opened_file_path": "C:/javaProject/_0114",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -803,9 +804,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon2606">
-    <configuration name="Baekjoon1260" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon1260" />
+  <component name="RunManager" selected="Application.Baekjoon1003">
+    <configuration name="Baekjoon1003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon1003" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -841,11 +842,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baekjoon1003" />
         <item itemvalue="Application.Baekjoon2606" />
         <item itemvalue="Application.Baekjoon2178_2" />
         <item itemvalue="Application.Baekjoon1697" />
         <item itemvalue="Application.Baekjoon2667" />
-        <item itemvalue="Application.Baekjoon1260" />
       </list>
     </recent_temporary>
   </component>
@@ -1269,15 +1270,9 @@
       <workItem from="1738669951541" duration="1918000" />
       <workItem from="1738721196981" duration="3043000" />
       <workItem from="1738753192447" duration="7000" />
-      <workItem from="1738804213248" duration="3846000" />
-    </task>
-    <task id="LOCAL-00604" summary="(이것이 취업을 위한 코딩테스트다) 챕터 3. 그리디 - 큰 수의 법칙">
-      <option name="closed" value="true" />
-      <created>1736645308076</created>
-      <option name="number" value="00604" />
-      <option name="presentableId" value="LOCAL-00604" />
-      <option name="project" value="LOCAL" />
-      <updated>1736645308076</updated>
+      <workItem from="1738804213248" duration="3999000" />
+      <workItem from="1738844458633" duration="19000" />
+      <workItem from="1738899471403" duration="303000" />
     </task>
     <task id="LOCAL-00605" summary="(이것이 취업을 위한 코딩테스트다) 챕터 3. 그리디 - 숫자 카드 게임">
       <option name="closed" value="true" />
@@ -1663,7 +1658,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738807077309</updated>
     </task>
-    <option name="localTasksCounter" value="653" />
+    <task id="LOCAL-00653" summary="백준2606 바이러스">
+      <option name="closed" value="true" />
+      <created>1738813275648</created>
+      <option name="number" value="00653" />
+      <option name="presentableId" value="LOCAL-00653" />
+      <option name="project" value="LOCAL" />
+      <updated>1738813275648</updated>
+    </task>
+    <option name="localTasksCounter" value="654" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1681,7 +1684,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="백준10816 숫자 카드 2" />
     <MESSAGE value="백준9012 괄호" />
     <MESSAGE value="백준1158 요세푸스 문제" />
     <MESSAGE value="백준1874 스택 수열" />
@@ -1706,6 +1708,7 @@
     <MESSAGE value="백준2667 단지번호붙이기" />
     <MESSAGE value="백준1697 숨바꼭질" />
     <MESSAGE value="백준2178 미로 탐색" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준2178 미로 탐색" />
+    <MESSAGE value="백준2606 바이러스" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준2606 바이러스" />
   </component>
 </project>
