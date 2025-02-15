@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="백준 9466 텀 프로젝트">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon2636_2.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="백준 2636 치즈">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon2583_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -299,6 +299,7 @@
     "Application.Baekjoon2580.executor": "Run",
     "Application.Baekjoon2581.executor": "Run",
     "Application.Baekjoon2583.executor": "Run",
+    "Application.Baekjoon2583_2.executor": "Run",
     "Application.Baekjoon2587.executor": "Run",
     "Application.Baekjoon2589.executor": "Run",
     "Application.Baekjoon25956.executor": "Run",
@@ -812,9 +813,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon2636_2">
-    <configuration name="Baekjoon2206" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon2206" />
+  <component name="RunManager" selected="Application.Baekjoon2583_2">
+    <configuration name="Baekjoon2583_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon2583_2" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -850,11 +851,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baekjoon2583_2" />
         <item itemvalue="Application.Baekjoon2636_2" />
         <item itemvalue="Application.Baekjoon9466" />
         <item itemvalue="Application.Baekjoon7569" />
         <item itemvalue="Application.Baekjoon7576" />
-        <item itemvalue="Application.Baekjoon2206" />
       </list>
     </recent_temporary>
   </component>
@@ -1291,15 +1292,9 @@
       <workItem from="1739345961165" duration="3974000" />
       <workItem from="1739425274525" duration="5554000" />
       <workItem from="1739453909258" duration="9000" />
-      <workItem from="1739504742503" duration="2630000" />
-    </task>
-    <task id="LOCAL-00615" summary="백준10815 숫자 카드">
-      <option name="closed" value="true" />
-      <created>1737291249422</created>
-      <option name="number" value="00615" />
-      <option name="presentableId" value="LOCAL-00615" />
-      <option name="project" value="LOCAL" />
-      <updated>1737291249422</updated>
+      <workItem from="1739504742503" duration="2822000" />
+      <workItem from="1739524411070" duration="6000" />
+      <workItem from="1739583364289" duration="795000" />
     </task>
     <task id="LOCAL-00616" summary="백준10828 스택">
       <option name="closed" value="true" />
@@ -1685,7 +1680,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739434147951</updated>
     </task>
-    <option name="localTasksCounter" value="664" />
+    <task id="LOCAL-00664" summary="백준 2636 치즈">
+      <option name="closed" value="true" />
+      <created>1739509530907</created>
+      <option name="number" value="00664" />
+      <option name="presentableId" value="LOCAL-00664" />
+      <option name="project" value="LOCAL" />
+      <updated>1739509530908</updated>
+    </task>
+    <option name="localTasksCounter" value="665" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1703,7 +1706,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="백준2609 최대공약수와 최소공배수" />
     <MESSAGE value="백준14889 스타트와 링크" />
     <MESSAGE value="백준6603 로또" />
     <MESSAGE value="백준15686 치킨 배달" />
@@ -1728,6 +1730,7 @@
     <MESSAGE value="백준2206 벽 부수고 이동하기" />
     <MESSAGE value="백준7569 토마토" />
     <MESSAGE value="백준 9466 텀 프로젝트" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 9466 텀 프로젝트" />
+    <MESSAGE value="백준 2636 치즈" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 2636 치즈" />
   </component>
 </project>
