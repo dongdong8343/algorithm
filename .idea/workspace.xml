@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="백준11052 카드 구매하기">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon11053_2.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon11047.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,6 +96,7 @@
     "Application.Baekjoon11005.executor": "Run",
     "Application.Baekjoon11021.executor": "Run",
     "Application.Baekjoon1103.executor": "Run",
+    "Application.Baekjoon11047.executor": "Run",
     "Application.Baekjoon11052.executor": "Run",
     "Application.Baekjoon11053.executor": "Run",
     "Application.Baekjoon11053_1.executor": "Run",
@@ -823,7 +824,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon11053_2">
+  <component name="RunManager" selected="Application.Baekjoon11047">
+    <configuration name="Baekjoon11047" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon11047" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Baekjoon11052" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon11052" />
       <module name="Algorithm" />
@@ -833,13 +841,6 @@
     </configuration>
     <configuration name="Baekjoon11053_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon11053_2" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Baekjoon1912_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon1912_2" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -861,11 +862,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baekjoon11047" />
         <item itemvalue="Application.Baekjoon11053_2" />
         <item itemvalue="Application.Baekjoon11052" />
         <item itemvalue="Application.Baekjoon2156_2" />
         <item itemvalue="Application.Baekjoon2293_2" />
-        <item itemvalue="Application.Baekjoon1912_2" />
       </list>
     </recent_temporary>
   </component>
@@ -1310,15 +1311,9 @@
       <workItem from="1739763384242" duration="8707000" />
       <workItem from="1739862006670" duration="2676000" />
       <workItem from="1739967143841" duration="1444000" />
-      <workItem from="1740022207338" duration="6155000" />
-    </task>
-    <task id="LOCAL-00626" summary="백준9012 괄호">
-      <option name="closed" value="true" />
-      <created>1737683798642</created>
-      <option name="number" value="00626" />
-      <option name="presentableId" value="LOCAL-00626" />
-      <option name="project" value="LOCAL" />
-      <updated>1737683798642</updated>
+      <workItem from="1740022207338" duration="7969000" />
+      <workItem from="1740097398002" duration="5000" />
+      <workItem from="1740108429952" duration="299000" />
     </task>
     <task id="LOCAL-00627" summary="백준1158 요세푸스 문제">
       <option name="closed" value="true" />
@@ -1704,7 +1699,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740022530301</updated>
     </task>
-    <option name="localTasksCounter" value="675" />
+    <task id="LOCAL-00675" summary="백준 11053 가장 긴 증가하는 부분 수열">
+      <option name="closed" value="true" />
+      <created>1740035438323</created>
+      <option name="number" value="00675" />
+      <option name="presentableId" value="LOCAL-00675" />
+      <option name="project" value="LOCAL" />
+      <updated>1740035438323</updated>
+    </task>
+    <option name="localTasksCounter" value="676" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1722,7 +1725,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="백준1260 DFS와 BFS" />
     <MESSAGE value="백준2667 단지번호붙이기" />
     <MESSAGE value="백준1697 숨바꼭질" />
     <MESSAGE value="백준2178 미로 탐색" />
@@ -1747,6 +1749,7 @@
     <MESSAGE value="백준2293 동전1" />
     <MESSAGE value="백준2156 포도주 시식" />
     <MESSAGE value="백준11052 카드 구매하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준11052 카드 구매하기" />
+    <MESSAGE value="백준 11053 가장 긴 증가하는 부분 수열" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 11053 가장 긴 증가하는 부분 수열" />
   </component>
 </project>
