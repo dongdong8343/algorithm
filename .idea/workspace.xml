@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon1931_2.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="백준 1931 회의실 배정">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon2512.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -294,6 +294,7 @@
     "Application.Baekjoon2485_1.executor": "Run",
     "Application.Baekjoon2493.executor": "Run",
     "Application.Baekjoon2501.executor": "Run",
+    "Application.Baekjoon2512.executor": "Run",
     "Application.Baekjoon25206.executor": "Run",
     "Application.Baekjoon2525.executor": "Run",
     "Application.Baekjoon2529.executor": "Run",
@@ -825,7 +826,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon1931_2">
+  <component name="RunManager" selected="Application.Baekjoon2512">
     <configuration name="Baekjoon11047" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon11047" />
       <module name="Algorithm" />
@@ -854,8 +855,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon2156_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon2156_2" />
+    <configuration name="Baekjoon2512" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon2512" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -863,11 +864,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baekjoon2512" />
         <item itemvalue="Application.Baekjoon1931_2" />
         <item itemvalue="Application.Baekjoon11047" />
         <item itemvalue="Application.Baekjoon11053_2" />
         <item itemvalue="Application.Baekjoon11052" />
-        <item itemvalue="Application.Baekjoon2156_2" />
       </list>
     </recent_temporary>
   </component>
@@ -1315,14 +1316,7 @@
       <workItem from="1740022207338" duration="7969000" />
       <workItem from="1740097398002" duration="5000" />
       <workItem from="1740108429952" duration="3361000" />
-    </task>
-    <task id="LOCAL-00628" summary="백준1874 스택 수열">
-      <option name="closed" value="true" />
-      <created>1737774899486</created>
-      <option name="number" value="00628" />
-      <option name="presentableId" value="LOCAL-00628" />
-      <option name="project" value="LOCAL" />
-      <updated>1737774899486</updated>
+      <workItem from="1740459115404" duration="1168000" />
     </task>
     <task id="LOCAL-00629" summary="백준1966 프린터 큐">
       <option name="closed" value="true" />
@@ -1708,7 +1702,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740108868007</updated>
     </task>
-    <option name="localTasksCounter" value="677" />
+    <task id="LOCAL-00677" summary="백준 1931 회의실 배정">
+      <option name="closed" value="true" />
+      <created>1740459219660</created>
+      <option name="number" value="00677" />
+      <option name="presentableId" value="LOCAL-00677" />
+      <option name="project" value="LOCAL" />
+      <updated>1740459219660</updated>
+    </task>
+    <option name="localTasksCounter" value="678" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1726,7 +1728,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="백준1697 숨바꼭질" />
     <MESSAGE value="백준2178 미로 탐색" />
     <MESSAGE value="백준2606 바이러스" />
     <MESSAGE value="백준1003 피보나치 함수" />
@@ -1751,6 +1752,7 @@
     <MESSAGE value="백준11052 카드 구매하기" />
     <MESSAGE value="백준 11053 가장 긴 증가하는 부분 수열" />
     <MESSAGE value="백준 11047 동전 0" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 11047 동전 0" />
+    <MESSAGE value="백준 1931 회의실 배정" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 1931 회의실 배정" />
   </component>
 </project>
