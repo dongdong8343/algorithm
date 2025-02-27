@@ -23,26 +23,24 @@ public class Baekjoon2512 {
             return;
         }
 
-        outer:
-        for(int i = max; i > 0; i--) {
-            sum = 0;
-            ret = -987654321;
-            
-            for(int j = 0; j < n; j++) {
-                if(i >= a[j]) {
-                    sum += a[j];
-                    if(sum > m) continue outer;
-                    ret = Math.max(ret, a[j]);
-                } else {
-                    sum += i;
-                    ret = Math.max(ret, i);
-                }
-            }
+        int h = max, l = 1;
 
-            if(sum > m) continue outer;
-            else break;
+        while(l < h - 1) {
+            int mid = (l + h) / 2;
+            if(f(mid, n, a) > m) h = mid;
+            else l = mid;
         }
         
-        System.out.println(ret);
+        System.out.println(l);
+    }
+
+    static int f(int mid, int n, int[] a) {
+        int sum = 0;
+
+        for(int i = 0; i < n; i++){
+            sum += Math.min(mid, a[i]);
+        }
+
+        return sum;
     }
 }
