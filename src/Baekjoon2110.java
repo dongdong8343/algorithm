@@ -19,13 +19,13 @@ public class Baekjoon2110 {
         int l = 1;
         int r = li.get(n - 1) - li.get(0) + 1;
 
-        while (l < r) {
+        while (l <= r) {
             int mid = (l + r) / 2;
 
             if (check(mid)) {
                 l = mid + 1;
             }
-            else r = mid;
+            else r = mid - 1;
         }
 
         System.out.println(l - 1);
