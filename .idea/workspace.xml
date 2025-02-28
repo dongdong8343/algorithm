@@ -828,9 +828,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon1927">
-    <configuration name="Baekjoon11047" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon11047" />
+  <component name="RunManager" selected="Application.Baekjoon11279">
+    <configuration name="Baekjoon11279" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon11279" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -866,11 +866,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baekjoon11279" />
         <item itemvalue="Application.Baekjoon1927" />
         <item itemvalue="Application.Baekjoon2110" />
         <item itemvalue="Application.Baekjoon2512" />
         <item itemvalue="Application.Baekjoon1931_2" />
-        <item itemvalue="Application.Baekjoon11047" />
       </list>
     </recent_temporary>
   </component>
