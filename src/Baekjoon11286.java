@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Baekjoon12286 {
+public class Baekjoon11286 {
     public static void main(String[] args)throws Exception{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         PriorityQueue<Integer> q = new PriorityQueue<>(new Comparator<Integer>() {
