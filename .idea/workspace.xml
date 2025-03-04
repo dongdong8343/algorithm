@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="백준 11286 절댓값 힙" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="프로그래머스 타겟넘버">
+      <change afterPath="$PROJECT_DIR$/src/ProgrammersNetwork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -1324,14 +1327,8 @@
       <workItem from="1740718053607" duration="1394000" />
       <workItem from="1740811730901" duration="984000" />
       <workItem from="1740913335222" duration="961000" />
-    </task>
-    <task id="LOCAL-00637" summary="백준14889 스타트와 링크">
-      <option name="closed" value="true" />
-      <created>1738292721096</created>
-      <option name="number" value="00637" />
-      <option name="presentableId" value="LOCAL-00637" />
-      <option name="project" value="LOCAL" />
-      <updated>1738292721096</updated>
+      <workItem from="1740969008230" duration="109000" />
+      <workItem from="1741061064662" duration="1255000" />
     </task>
     <task id="LOCAL-00638" summary="백준15686 치킨 배달">
       <option name="closed" value="true" />
@@ -1717,7 +1714,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740914347579</updated>
     </task>
-    <option name="localTasksCounter" value="686" />
+    <task id="LOCAL-00686" summary="프로그래머스 타겟넘버">
+      <option name="closed" value="true" />
+      <created>1740969104158</created>
+      <option name="number" value="00686" />
+      <option name="presentableId" value="LOCAL-00686" />
+      <option name="project" value="LOCAL" />
+      <updated>1740969104158</updated>
+    </task>
+    <option name="localTasksCounter" value="687" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1735,7 +1740,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="백준1932 정수 삼각형" />
     <MESSAGE value="백준1149 RGB 거리" />
     <MESSAGE value="백준2630 색종이 만들기" />
     <MESSAGE value="백준7576 토마토" />
@@ -1760,6 +1764,7 @@
     <MESSAGE value="백준 1927 최소 힙" />
     <MESSAGE value="백준 11279 최대 힙" />
     <MESSAGE value="백준 11286 절댓값 힙" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 11286 절댓값 힙" />
+    <MESSAGE value="프로그래머스 타겟넘버" />
+    <option name="LAST_COMMIT_MESSAGE" value="프로그래머스 타겟넘버" />
   </component>
 </project>
