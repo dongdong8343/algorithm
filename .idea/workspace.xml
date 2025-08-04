@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="프로그래머스">
-      <change afterPath="$PROJECT_DIR$/src/I1_1.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="인프런 - 자바 알고리즘 1-1">
+      <change afterPath="$PROJECT_DIR$/src/I1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I1_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Temp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Temp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -744,6 +743,7 @@
     "Application.CtBook5_1.executor": "Run",
     "Application.CtBook5_2.executor": "Run",
     "Application.I1_1.executor": "Run",
+    "Application.I1_2.executor": "Run",
     "Application.Inflearn1_10.executor": "Run",
     "Application.Inflearn1_12.executor": "Run",
     "Application.Inflearn1_2.executor": "Run",
@@ -818,7 +818,6 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/reactex/sb2",
@@ -835,22 +834,8 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.I1_1">
-    <configuration name="Baekjoon11279" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon11279" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.I1_3">
     <configuration name="Baekjoon12286 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon12286" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Baekjoon12286" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon12286" />
       <module name="Algorithm" />
       <method v="2">
@@ -859,6 +844,20 @@
     </configuration>
     <configuration name="I1_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="I1_1" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="I1_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I1_2" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="I1_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I1_3" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -873,11 +872,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.I1_3" />
+        <item itemvalue="Application.I1_2" />
         <item itemvalue="Application.I1_1" />
         <item itemvalue="Application.Temp" />
         <item itemvalue="Application.Baekjoon12286 (1)" />
-        <item itemvalue="Application.Baekjoon12286" />
-        <item itemvalue="Application.Baekjoon11279" />
       </list>
     </recent_temporary>
   </component>
@@ -1351,15 +1350,7 @@
       <workItem from="1747612770723" duration="2761000" />
       <workItem from="1747653261675" duration="1531000" />
       <workItem from="1747698806431" duration="1360000" />
-      <workItem from="1754281420225" duration="459000" />
-    </task>
-    <task id="LOCAL-00639" summary="백준6603 로또">
-      <option name="closed" value="true" />
-      <created>1738309405017</created>
-      <option name="number" value="00639" />
-      <option name="presentableId" value="LOCAL-00639" />
-      <option name="project" value="LOCAL" />
-      <updated>1738309405018</updated>
+      <workItem from="1754281420225" duration="3156000" />
     </task>
     <task id="LOCAL-00640" summary="백준15686 치킨 배달">
       <option name="closed" value="true" />
@@ -1745,7 +1736,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741062381825</updated>
     </task>
-    <option name="localTasksCounter" value="688" />
+    <task id="LOCAL-00688" summary="인프런 - 자바 알고리즘 1-1">
+      <option name="closed" value="true" />
+      <created>1754282022075</created>
+      <option name="number" value="00688" />
+      <option name="presentableId" value="LOCAL-00688" />
+      <option name="project" value="LOCAL" />
+      <updated>1754282022076</updated>
+    </task>
+    <option name="localTasksCounter" value="689" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1763,7 +1762,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="백준2630 색종이 만들기" />
     <MESSAGE value="백준7576 토마토" />
     <MESSAGE value="백준7569 토마토" />
     <MESSAGE value="백준 9466 텀 프로젝트" />
@@ -1788,6 +1786,7 @@
     <MESSAGE value="백준 11286 절댓값 힙" />
     <MESSAGE value="프로그래머스 타겟넘버" />
     <MESSAGE value="프로그래머스 네트워크" />
-    <option name="LAST_COMMIT_MESSAGE" value="프로그래머스 네트워크" />
+    <MESSAGE value="인프런 - 자바 알고리즘 1-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="인프런 - 자바 알고리즘 1-1" />
   </component>
 </project>
