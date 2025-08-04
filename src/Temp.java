@@ -1,22 +1,37 @@
-public class Temp extends Thread{
-    static int share;
-    public static void main(String[] args){
-        Temp t1 = new Temp();
-        Temp t2 = new Temp();
+import java.util.*;
+import java.io.*;
+import java.awt.Point;
 
-        t1.start();
-        t2.start();
-    }
+public class Temp {
+    public static void main(String[] args)throws Exception{
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        List<Point> li = new ArrayList<>();
+        int n = Integer.parseInt(br.readLine());
+        int e = -1, cnt = 0;
 
-    public void run(){
-        for(int i = 0; i < 10; i++){
-            System.out.println(share++);
+        for(int i = 0; i < n; i++) {
+            StringTokenizer st = new StringTokenizer(br.readLine());
+            int x = Integer.parseInt(st.nextToken());
+            int y = Integer.parseInt(st.nextToken());
+            li.add(new Point(x, y));
+        }
 
-            try {
-                sleep(1000);
-            } catch (InterruptedException e) {
+        Collections.sort(li, (o1, o2) -> {
+            if(o1.y == o2.y) {
+                return o1.x - o2.x;
+            }
+            return o1.y - o2.y;
+        });
 
+        for(Point p : li) {
+            if(p.x >= e) {
+                e = p.y;
+                cnt++;
             }
         }
+
+        System.out.println(cnt);
+
+        return ;
     }
 }
