@@ -1,7 +1,6 @@
 import java.io.*;
-import java.util.*;
 
-public class I_12 {
+public class I1_12 {
 	public static void main(String[] args)throws Exception{
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
