@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="인프런 - 자바 알고리즘 2_4">
-      <change afterPath="$PROJECT_DIR$/src/I2_5.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="인프런 - 자바 알고리즘 2_5">
+      <change afterPath="$PROJECT_DIR$/src/I2_6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -755,6 +755,7 @@
     "Application.I2_3.executor": "Run",
     "Application.I2_4.executor": "Run",
     "Application.I2_5.executor": "Run",
+    "Application.I2_6.executor": "Run",
     "Application.I_11.executor": "Run",
     "Application.I_12.executor": "Run",
     "Application.Inflearn1_10.executor": "Run",
@@ -847,14 +848,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.I2_5">
-    <configuration name="I2_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="I2_1" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.I2_6">
     <configuration name="I2_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="I2_2" />
       <module name="Algorithm" />
@@ -883,13 +877,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="I2_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I2_6" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.I2_6" />
         <item itemvalue="Application.I2_5" />
         <item itemvalue="Application.I2_4" />
         <item itemvalue="Application.I2_3" />
         <item itemvalue="Application.I2_2" />
-        <item itemvalue="Application.I2_1" />
       </list>
     </recent_temporary>
   </component>
@@ -1371,15 +1372,7 @@
       <workItem from="1754535254835" duration="330000" />
       <workItem from="1754613400875" duration="2025000" />
       <workItem from="1754717038641" duration="2000" />
-      <workItem from="1754779674013" duration="735000" />
-    </task>
-    <task id="LOCAL-00657" summary="백준1932 정수 삼각형">
-      <option name="closed" value="true" />
-      <created>1738989588139</created>
-      <option name="number" value="00657" />
-      <option name="presentableId" value="LOCAL-00657" />
-      <option name="project" value="LOCAL" />
-      <updated>1738989588139</updated>
+      <workItem from="1754779674013" duration="1401000" />
     </task>
     <task id="LOCAL-00658" summary="백준1149 RGB 거리">
       <option name="closed" value="true" />
@@ -1765,7 +1758,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754780063610</updated>
     </task>
-    <option name="localTasksCounter" value="706" />
+    <task id="LOCAL-00706" summary="인프런 - 자바 알고리즘 2_5">
+      <option name="closed" value="true" />
+      <created>1754780588758</created>
+      <option name="number" value="00706" />
+      <option name="presentableId" value="LOCAL-00706" />
+      <option name="project" value="LOCAL" />
+      <updated>1754780588758</updated>
+    </task>
+    <option name="localTasksCounter" value="707" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1783,7 +1784,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="백준 11047 동전 0" />
     <MESSAGE value="백준 1931 회의실 배정" />
     <MESSAGE value="백준 2512 예산" />
     <MESSAGE value="백준 2110 공유기 설치" />
@@ -1808,6 +1808,7 @@
     <MESSAGE value="인프런 - 자바 알고리즘 2_2" />
     <MESSAGE value="인프런 - 자바 알고리즘 2_3" />
     <MESSAGE value="인프런 - 자바 알고리즘 2_4" />
-    <option name="LAST_COMMIT_MESSAGE" value="인프런 - 자바 알고리즘 2_4" />
+    <MESSAGE value="인프런 - 자바 알고리즘 2_5" />
+    <option name="LAST_COMMIT_MESSAGE" value="인프런 - 자바 알고리즘 2_5" />
   </component>
 </project>
