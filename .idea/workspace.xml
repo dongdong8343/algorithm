@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="인프런 - 자바 알고리즘 5-2">
-      <change afterPath="$PROJECT_DIR$/src/I5_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I5_4.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="인프런 - 자바 알고리즘 5-4">
+      <change afterPath="$PROJECT_DIR$/src/B2309.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +52,7 @@
   "keyToString": {
     "Application.A3273.executor": "Run",
     "Application.Adj.executor": "Run",
+    "Application.B2309.executor": "Run",
     "Application.Backjoon1406.executor": "Run",
     "Application.Baecjoon10773.executor": "Run",
     "Application.Baekjon2608.executor": "Run",
@@ -871,9 +871,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.I5_4">
-    <configuration name="I4_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="I4_5" />
+  <component name="RunManager" selected="Application.B2309">
+    <configuration name="B2309" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B2309" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -909,11 +909,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B2309" />
         <item itemvalue="Application.I5_4" />
         <item itemvalue="Application.I5_3" />
         <item itemvalue="Application.I5_2" />
         <item itemvalue="Application.I5_1" />
-        <item itemvalue="Application.I4_5" />
       </list>
     </recent_temporary>
   </component>
@@ -1406,23 +1406,8 @@
       <workItem from="1755469204646" duration="3000" />
       <workItem from="1755520704077" duration="168000" />
       <workItem from="1755578072993" duration="1194000" />
-      <workItem from="1755728028951" duration="2759000" />
-    </task>
-    <task id="LOCAL-00678" summary="백준 2512 예산">
-      <option name="closed" value="true" />
-      <created>1740462087299</created>
-      <option name="number" value="00678" />
-      <option name="presentableId" value="LOCAL-00678" />
-      <option name="project" value="LOCAL" />
-      <updated>1740462087300</updated>
-    </task>
-    <task id="LOCAL-00679" summary="백준 2512 예산">
-      <option name="closed" value="true" />
-      <created>1740621981281</created>
-      <option name="number" value="00679" />
-      <option name="presentableId" value="LOCAL-00679" />
-      <option name="project" value="LOCAL" />
-      <updated>1740621981281</updated>
+      <workItem from="1755728028951" duration="2785000" />
+      <workItem from="1756083489431" duration="2756000" />
     </task>
     <task id="LOCAL-00680" summary="백준 2110 공유기 설치">
       <option name="closed" value="true" />
@@ -1800,7 +1785,23 @@
       <option name="project" value="LOCAL" />
       <updated>1755578518161</updated>
     </task>
-    <option name="localTasksCounter" value="727" />
+    <task id="LOCAL-00727" summary="인프런 - 자바 알고리즘 5-3">
+      <option name="closed" value="true" />
+      <created>1755730814548</created>
+      <option name="number" value="00727" />
+      <option name="presentableId" value="LOCAL-00727" />
+      <option name="project" value="LOCAL" />
+      <updated>1755730814548</updated>
+    </task>
+    <task id="LOCAL-00728" summary="인프런 - 자바 알고리즘 5-4">
+      <option name="closed" value="true" />
+      <created>1755730821633</created>
+      <option name="number" value="00728" />
+      <option name="presentableId" value="LOCAL-00728" />
+      <option name="project" value="LOCAL" />
+      <updated>1755730821633</updated>
+    </task>
+    <option name="localTasksCounter" value="729" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1818,8 +1819,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="인프런 - 자바 알고리즘 1-12" />
-    <MESSAGE value="인프런 - 자바 알고리즘 2_1" />
     <MESSAGE value="인프런 - 자바 알고리즘 2_2" />
     <MESSAGE value="인프런 - 자바 알고리즘 2_3" />
     <MESSAGE value="인프런 - 자바 알고리즘 2_4" />
@@ -1843,6 +1842,8 @@
     <MESSAGE value="인프런 - 자바 알고리즘 4-5" />
     <MESSAGE value="인프런 - 자바 알고리즘 5-1" />
     <MESSAGE value="인프런 - 자바 알고리즘 5-2" />
-    <option name="LAST_COMMIT_MESSAGE" value="인프런 - 자바 알고리즘 5-2" />
+    <MESSAGE value="인프런 - 자바 알고리즘 5-3" />
+    <MESSAGE value="인프런 - 자바 알고리즘 5-4" />
+    <option name="LAST_COMMIT_MESSAGE" value="인프런 - 자바 알고리즘 5-4" />
   </component>
 </project>
