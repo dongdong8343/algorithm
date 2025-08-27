@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="백준 2309_2">
-      <change afterPath="$PROJECT_DIR$/src/B10808.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="백준 10808">
+      <change afterPath="$PROJECT_DIR$/src/B2979.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -873,7 +872,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.B10808">
+  <component name="RunManager" selected="Application.B2979">
     <configuration name="B10808" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="B10808" />
       <module name="Algorithm" />
@@ -895,8 +894,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="I5_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="I5_3" />
+    <configuration name="B2979" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B2979" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -911,11 +910,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B2979" />
         <item itemvalue="Application.B10808" />
         <item itemvalue="Application.B2309_2" />
         <item itemvalue="Application.B2309" />
         <item itemvalue="Application.I5_4" />
-        <item itemvalue="Application.I5_3" />
       </list>
     </recent_temporary>
   </component>
@@ -1410,15 +1409,7 @@
       <workItem from="1755578072993" duration="1194000" />
       <workItem from="1755728028951" duration="2785000" />
       <workItem from="1756083489431" duration="3941000" />
-      <workItem from="1756256722694" duration="988000" />
-    </task>
-    <task id="LOCAL-00682" summary="백준 1927 최소 힙">
-      <option name="closed" value="true" />
-      <created>1740718433223</created>
-      <option name="number" value="00682" />
-      <option name="presentableId" value="LOCAL-00682" />
-      <option name="project" value="LOCAL" />
-      <updated>1740718433224</updated>
+      <workItem from="1756256722694" duration="1902000" />
     </task>
     <task id="LOCAL-00683" summary="백준 11279 최대 힙">
       <option name="closed" value="true" />
@@ -1804,7 +1795,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756257423690</updated>
     </task>
-    <option name="localTasksCounter" value="731" />
+    <task id="LOCAL-00731" summary="백준 10808">
+      <option name="closed" value="true" />
+      <created>1756257740229</created>
+      <option name="number" value="00731" />
+      <option name="presentableId" value="LOCAL-00731" />
+      <option name="project" value="LOCAL" />
+      <updated>1756257740229</updated>
+    </task>
+    <option name="localTasksCounter" value="732" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1822,7 +1821,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="인프런 - 자바 알고리즘 2_4" />
     <MESSAGE value="인프런 - 자바 알고리즘 2_5" />
     <MESSAGE value="인프런 - 자바 알고리즘 2_6" />
     <MESSAGE value="인프런 - 자바 알고리즘 2_7" />
@@ -1847,6 +1845,7 @@
     <MESSAGE value="인프런 - 자바 알고리즘 5-4" />
     <MESSAGE value="백준 2309" />
     <MESSAGE value="백준 2309_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 2309_2" />
+    <MESSAGE value="백준 10808" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 10808" />
   </component>
 </project>
