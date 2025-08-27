@@ -31,8 +31,8 @@ public class B2979 {
 
 		for(int i = min; i < max; i++) {
 			if(a[i] == 1) sum += cost[0];
-			else if(a[i] == 2) sum += 2 * cost[1];
-			else sum += 3 * cost[2];
+			else if(a[i] == 2) sum += a[i] * cost[1];
+			else sum += a[i] * cost[2];
 		}
 
 		System.out.println(sum);

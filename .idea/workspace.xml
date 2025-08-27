@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="백준 10808">
-      <change afterPath="$PROJECT_DIR$/src/B2979.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="백준 2979">
+      <change beforePath="$PROJECT_DIR$/src/B2979.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B2979.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +54,7 @@
     "Application.B10808.executor": "Run",
     "Application.B2309.executor": "Run",
     "Application.B2309_2.executor": "Run",
+    "Application.B2979.executor": "Run",
     "Application.Backjoon1406.executor": "Run",
     "Application.Baecjoon10773.executor": "Run",
     "Application.Baekjon2608.executor": "Run",
@@ -1409,15 +1410,7 @@
       <workItem from="1755578072993" duration="1194000" />
       <workItem from="1755728028951" duration="2785000" />
       <workItem from="1756083489431" duration="3941000" />
-      <workItem from="1756256722694" duration="1902000" />
-    </task>
-    <task id="LOCAL-00683" summary="백준 11279 최대 힙">
-      <option name="closed" value="true" />
-      <created>1740718561844</created>
-      <option name="number" value="00683" />
-      <option name="presentableId" value="LOCAL-00683" />
-      <option name="project" value="LOCAL" />
-      <updated>1740718561844</updated>
+      <workItem from="1756256722694" duration="2208000" />
     </task>
     <task id="LOCAL-00684">
       <option name="closed" value="true" />
@@ -1803,7 +1796,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756257740229</updated>
     </task>
-    <option name="localTasksCounter" value="732" />
+    <task id="LOCAL-00732" summary="백준 2979">
+      <option name="closed" value="true" />
+      <created>1756258925468</created>
+      <option name="number" value="00732" />
+      <option name="presentableId" value="LOCAL-00732" />
+      <option name="project" value="LOCAL" />
+      <updated>1756258925468</updated>
+    </task>
+    <option name="localTasksCounter" value="733" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1821,7 +1822,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="인프런 - 자바 알고리즘 2_5" />
     <MESSAGE value="인프런 - 자바 알고리즘 2_6" />
     <MESSAGE value="인프런 - 자바 알고리즘 2_7" />
     <MESSAGE value="인프런 - 자바 알고리즘 2_8" />
@@ -1846,6 +1846,7 @@
     <MESSAGE value="백준 2309" />
     <MESSAGE value="백준 2309_2" />
     <MESSAGE value="백준 10808" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 10808" />
+    <MESSAGE value="백준 2979" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 2979" />
   </component>
 </project>
