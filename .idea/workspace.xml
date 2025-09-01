@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="백준 2979">
-      <change beforePath="$PROJECT_DIR$/src/B2979.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B2979.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B10988.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B1159.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B11655.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +55,9 @@
     "Application.A3273.executor": "Run",
     "Application.Adj.executor": "Run",
     "Application.B10808.executor": "Run",
+    "Application.B10988.executor": "Run",
+    "Application.B1159.executor": "Run",
+    "Application.B11655.executor": "Run",
     "Application.B2309.executor": "Run",
     "Application.B2309_2.executor": "Run",
     "Application.B2979.executor": "Run",
@@ -873,7 +879,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.B2979">
+  <component name="RunManager" selected="Application.B11655">
     <configuration name="B10808" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="B10808" />
       <module name="Algorithm" />
@@ -881,15 +887,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B2309" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="B2309" />
+    <configuration name="B10988" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B10988" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B2309_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="B2309_2" />
+    <configuration name="B1159" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B1159" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B11655" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B11655" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -902,20 +915,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="I5_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="I5_4" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B11655" />
+        <item itemvalue="Application.B1159" />
+        <item itemvalue="Application.B10988" />
         <item itemvalue="Application.B2979" />
         <item itemvalue="Application.B10808" />
-        <item itemvalue="Application.B2309_2" />
-        <item itemvalue="Application.B2309" />
-        <item itemvalue="Application.I5_4" />
       </list>
     </recent_temporary>
   </component>
@@ -1410,15 +1416,10 @@
       <workItem from="1755578072993" duration="1194000" />
       <workItem from="1755728028951" duration="2785000" />
       <workItem from="1756083489431" duration="3941000" />
-      <workItem from="1756256722694" duration="2208000" />
-    </task>
-    <task id="LOCAL-00684">
-      <option name="closed" value="true" />
-      <created>1740812623941</created>
-      <option name="number" value="00684" />
-      <option name="presentableId" value="LOCAL-00684" />
-      <option name="project" value="LOCAL" />
-      <updated>1740812623941</updated>
+      <workItem from="1756256722694" duration="2315000" />
+      <workItem from="1756259069467" duration="21000" />
+      <workItem from="1756274273525" duration="634000" />
+      <workItem from="1756632160520" duration="7780000" />
     </task>
     <task id="LOCAL-00685" summary="백준 11286 절댓값 힙">
       <option name="closed" value="true" />
@@ -1804,7 +1805,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756258925468</updated>
     </task>
-    <option name="localTasksCounter" value="733" />
+    <task id="LOCAL-00733" summary="백준 2979">
+      <option name="closed" value="true" />
+      <created>1756259049040</created>
+      <option name="number" value="00733" />
+      <option name="presentableId" value="LOCAL-00733" />
+      <option name="project" value="LOCAL" />
+      <updated>1756259049040</updated>
+    </task>
+    <option name="localTasksCounter" value="734" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
