@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="백준 9375_2(오답)">
-      <change afterPath="$PROJECT_DIR$/src/B1940.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="백준 1940">
+      <change afterPath="$PROJECT_DIR$/src/B3986.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +63,7 @@
     "Application.B2309_2.executor": "Run",
     "Application.B2559.executor": "Run",
     "Application.B2979.executor": "Run",
+    "Application.B3986.executor": "Run",
     "Application.B9375.executor": "Run",
     "Application.B9375_2.executor": "Run",
     "Application.B9996.executor": "Run",
@@ -885,7 +886,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.B1940">
+  <component name="RunManager" selected="Application.B3986">
     <configuration name="B1213" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="B1213" />
       <module name="Algorithm" />
@@ -900,8 +901,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B9375" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="B9375" />
+    <configuration name="B3986" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B3986" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -923,11 +924,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B3986" />
         <item itemvalue="Application.B1940" />
         <item itemvalue="Application.B9375_2" />
         <item itemvalue="Application.B1213" />
         <item itemvalue="Application.B9996_2" />
-        <item itemvalue="Application.B9375" />
       </list>
     </recent_temporary>
   </component>
@@ -1431,15 +1432,8 @@
       <workItem from="1756850673547" duration="7815000" />
       <workItem from="1756947273692" duration="2222000" />
       <workItem from="1757056332619" duration="101000" />
-      <workItem from="1757292723676" duration="1490000" />
-    </task>
-    <task id="LOCAL-00696" summary="인프런 - 자바 알고리즘 1-9">
-      <option name="closed" value="true" />
-      <created>1754432928200</created>
-      <option name="number" value="00696" />
-      <option name="presentableId" value="LOCAL-00696" />
-      <option name="project" value="LOCAL" />
-      <updated>1754432928200</updated>
+      <workItem from="1757292723676" duration="2160000" />
+      <workItem from="1757556829212" duration="306000" />
     </task>
     <task id="LOCAL-00697" summary="인프런 - 자바 알고리즘 1-10">
       <option name="closed" value="true" />
@@ -1825,7 +1819,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756949492363</updated>
     </task>
-    <option name="localTasksCounter" value="745" />
+    <task id="LOCAL-00745" summary="백준 1940">
+      <option name="closed" value="true" />
+      <created>1757294283057</created>
+      <option name="number" value="00745" />
+      <option name="presentableId" value="LOCAL-00745" />
+      <option name="project" value="LOCAL" />
+      <updated>1757294283057</updated>
+    </task>
+    <option name="localTasksCounter" value="746" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1843,7 +1845,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="인프런 - 자바 알고리즘 3_5" />
     <MESSAGE value="인프런 - 자바 알고리즘 3_6" />
     <MESSAGE value="인프런 - 자바 알고리즘 4-1" />
     <MESSAGE value="인프런 - 자바 알고리즘 4-2" />
@@ -1868,6 +1869,7 @@
     <MESSAGE value="백준 9996_2" />
     <MESSAGE value="백준 1213" />
     <MESSAGE value="백준 9375_2(오답)" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 9375_2(오답)" />
+    <MESSAGE value="백준 1940" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 1940" />
   </component>
 </project>
