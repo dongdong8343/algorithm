@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="백준 4375">
-      <change afterPath="$PROJECT_DIR$/src/B2178.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="백준 2178">
+      <change afterPath="$PROJECT_DIR$/src/B1012.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +52,7 @@
   "keyToString": {
     "Application.A3273.executor": "Run",
     "Application.Adj.executor": "Run",
+    "Application.B1012.executor": "Run",
     "Application.B10808.executor": "Run",
     "Application.B10988.executor": "Run",
     "Application.B1159.executor": "Run",
@@ -891,9 +892,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.B2178">
-    <configuration name="B1629" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="B1629" />
+  <component name="RunManager" selected="Application.B1012">
+    <configuration name="B1012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B1012" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -929,11 +930,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B1012" />
         <item itemvalue="Application.B2178" />
         <item itemvalue="Application.B4375" />
         <item itemvalue="Application.B9996_3" />
         <item itemvalue="Application.B2309_3" />
-        <item itemvalue="Application.B1629" />
       </list>
     </recent_temporary>
   </component>
@@ -1442,15 +1443,8 @@
       <workItem from="1757581313531" duration="106000" />
       <workItem from="1757848437160" duration="5852000" />
       <workItem from="1757932497305" duration="621000" />
-      <workItem from="1757988478671" duration="3049000" />
-    </task>
-    <task id="LOCAL-00703" summary="인프런 - 자바 알고리즘 2_2">
-      <option name="closed" value="true" />
-      <created>1754614332072</created>
-      <option name="number" value="00703" />
-      <option name="presentableId" value="LOCAL-00703" />
-      <option name="project" value="LOCAL" />
-      <updated>1754614332072</updated>
+      <workItem from="1757988478671" duration="3761000" />
+      <workItem from="1758071285640" duration="1191000" />
     </task>
     <task id="LOCAL-00704" summary="인프런 - 자바 알고리즘 2_3">
       <option name="closed" value="true" />
@@ -1836,7 +1830,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757911179764</updated>
     </task>
-    <option name="localTasksCounter" value="752" />
+    <task id="LOCAL-00752" summary="백준 2178">
+      <option name="closed" value="true" />
+      <created>1757992216159</created>
+      <option name="number" value="00752" />
+      <option name="presentableId" value="LOCAL-00752" />
+      <option name="project" value="LOCAL" />
+      <updated>1757992216159</updated>
+    </task>
+    <option name="localTasksCounter" value="753" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1854,7 +1856,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="인프런 - 자바 알고리즘 4-5" />
     <MESSAGE value="인프런 - 자바 알고리즘 5-1" />
     <MESSAGE value="인프런 - 자바 알고리즘 5-2" />
     <MESSAGE value="인프런 - 자바 알고리즘 5-3" />
@@ -1879,6 +1880,7 @@
     <MESSAGE value="백준 2309 오답" />
     <MESSAGE value="백준 9996 오답" />
     <MESSAGE value="백준 4375" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 4375" />
+    <MESSAGE value="백준 2178" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 2178" />
   </component>
 </project>
