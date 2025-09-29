@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="백준 2910">
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="백준 4659">
       <change afterPath="$PROJECT_DIR$/src/B2870.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/B4659.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -1460,15 +1459,7 @@
       <workItem from="1758595314284" duration="712000" />
       <workItem from="1758675779923" duration="1832000" />
       <workItem from="1758764554447" duration="1611000" />
-      <workItem from="1759119642048" duration="1843000" />
-    </task>
-    <task id="LOCAL-00710" summary="인프런 - 자바 알고리즘 2_9">
-      <option name="closed" value="true" />
-      <created>1754874114694</created>
-      <option name="number" value="00710" />
-      <option name="presentableId" value="LOCAL-00710" />
-      <option name="project" value="LOCAL" />
-      <updated>1754874114694</updated>
+      <workItem from="1759119642048" duration="3662000" />
     </task>
     <task id="LOCAL-00711" summary="인프런 - 자바 알고리즘 2_11">
       <option name="closed" value="true" />
@@ -1854,7 +1845,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758677672012</updated>
     </task>
-    <option name="localTasksCounter" value="759" />
+    <task id="LOCAL-00759" summary="백준 4659">
+      <option name="closed" value="true" />
+      <created>1759126350435</created>
+      <option name="number" value="00759" />
+      <option name="presentableId" value="LOCAL-00759" />
+      <option name="project" value="LOCAL" />
+      <updated>1759126350436</updated>
+    </task>
+    <option name="localTasksCounter" value="760" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1872,7 +1871,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="백준 10808" />
     <MESSAGE value="백준 2979" />
     <MESSAGE value="백준 1159" />
     <MESSAGE value="백준 10988" />
@@ -1897,6 +1895,7 @@
     <MESSAGE value="백준 1992" />
     <MESSAGE value="백준 2828" />
     <MESSAGE value="백준 2910" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 2910" />
+    <MESSAGE value="백준 4659" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 4659" />
   </component>
 </project>
