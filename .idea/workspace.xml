@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="백준 1436">
-      <change afterPath="$PROJECT_DIR$/src/B9012.java" afterDir="false" />
+    <list default="true" id="5c8e2024-2c40-4cd9-bb12-0a9e00758f42" name="Changes" comment="백준 9012">
+      <change afterPath="$PROJECT_DIR$/src/B4949.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +85,7 @@
     "Application.B3986.executor": "Run",
     "Application.B4375.executor": "Run",
     "Application.B4659.executor": "Run",
+    "Application.B4949.executor": "Run",
     "Application.B9012.executor": "Run",
     "Application.B9375.executor": "Run",
     "Application.B9375_2.executor": "Run",
@@ -908,16 +910,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.B9012">
+  <component name="RunManager" selected="Application.B4949">
     <configuration name="B1436" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="B1436" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="B2852 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="B2852" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -937,6 +932,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="B4949" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B4949" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="B9012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="B9012" />
       <module name="Algorithm" />
@@ -946,11 +948,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B4949" />
         <item itemvalue="Application.B9012" />
         <item itemvalue="Application.B1436" />
         <item itemvalue="Application.B2852 (5)" />
         <item itemvalue="Application.B2852" />
-        <item itemvalue="Application.B2852 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -1476,15 +1478,8 @@
       <workItem from="1759298243673" duration="8000" />
       <workItem from="1759370309416" duration="3990000" />
       <workItem from="1759394141594" duration="223000" />
-      <workItem from="1759716860824" duration="645000" />
-    </task>
-    <task id="LOCAL-00716" summary="인프런 - 자바 알고리즘 3_3">
-      <option name="closed" value="true" />
-      <created>1755040375851</created>
-      <option name="number" value="00716" />
-      <option name="presentableId" value="LOCAL-00716" />
-      <option name="project" value="LOCAL" />
-      <updated>1755040375851</updated>
+      <workItem from="1759716860824" duration="819000" />
+      <workItem from="1759804100645" duration="628000" />
     </task>
     <task id="LOCAL-00717" summary="인프런 - 자바 알고리즘 3_4">
       <option name="closed" value="true" />
@@ -1870,7 +1865,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759717168513</updated>
     </task>
-    <option name="localTasksCounter" value="765" />
+    <task id="LOCAL-00765" summary="백준 9012">
+      <option name="closed" value="true" />
+      <created>1759717638634</created>
+      <option name="number" value="00765" />
+      <option name="presentableId" value="LOCAL-00765" />
+      <option name="project" value="LOCAL" />
+      <updated>1759717638635</updated>
+    </task>
+    <option name="localTasksCounter" value="766" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1888,7 +1891,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="백준 2559" />
     <MESSAGE value="백준 1620" />
     <MESSAGE value="백준 9375" />
     <MESSAGE value="백준 9996_2" />
@@ -1913,6 +1915,7 @@
     <MESSAGE value="백준 3474" />
     <MESSAGE value="백준 2852" />
     <MESSAGE value="백준 1436" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 1436" />
+    <MESSAGE value="백준 9012" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 9012" />
   </component>
 </project>
