@@ -1,3 +1,8 @@
+/**
+ * 불과 지훈이가 동시에 이동할 칸이라면 지훈이는 가지 못한다.
+ * 결국 불 먼저 이동시키고 지훈이가 이동하는 순서가 맞다.
+ */
+
 import java.io.*;
 import java.util.*;
 import java.awt.Point;
